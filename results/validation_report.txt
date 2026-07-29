@@ -1,0 +1,54 @@
+DATASET VALIDATION REPORT
+==================================================
+
+Rows: 750
+Columns: 19
+
+Missing Values
+#                     0
+Name                  2
+SMILES                0
+Assay Target(s)      94
+Target_Family         0
+MolecularWeight       0
+ExactMolWt            0
+LogP                  0
+MolMR                 0
+TPSA                  0
+HBA                   0
+HBD                   0
+RotatableBonds        0
+RingCount             0
+NumAromaticRings      0
+NumAliphaticRings     0
+HeavyAtomCount        0
+NumHeteroAtoms        0
+FractionCSP3          0
+
+Duplicate Rows
+0
+
+Target Family Distribution
+Target_Family
+Other           288
+Repeat RNA      128
+G-Quadruplex     74
+HIV TAR          64
+mRNA             54
+Riboswitch       50
+HCV IRES         26
+tRNA             21
+miRNA            20
+Ribozyme         17
+Viral RNA         8
+
+Summary Statistics
+       MolecularWeight  ExactMolWt        LogP       MolMR        TPSA         HBA         HBD  RotatableBonds   RingCount  NumAromaticRings  NumAliphaticRings  HeavyAtomCount  NumHeteroAtoms  FractionCSP3
+count       750.000000  750.000000  750.000000  750.000000  750.000000  750.000000  750.000000      750.000000  750.000000         750.00000         750.000000      750.000000      750.000000    750.000000
+mean        398.317184  397.994267    1.735668  113.419728   93.847453    4.354667    2.764000        5.344000    4.002667           3.20000           0.802667       28.913333        7.136000      0.275553
+std         115.172069  115.092061    2.903190   33.216293   63.044113    2.570153    2.530779        3.980803    1.395202           1.28564           0.862197        8.444381        3.266966      0.178424
+min         141.134000  141.065000   -6.584000   30.257000    4.440000    0.000000    0.000000        0.000000    0.000000           0.00000           0.000000       10.000000        1.000000      0.000000
+25%         317.229000  317.030000    0.312000   95.972000   49.297500    2.000000    1.000000        3.000000    3.000000           2.00000           0.000000       23.000000        5.000000      0.118000
+50%         382.531000  382.228000    2.119500  109.177000   88.000000    4.000000    2.000000        4.000000    4.000000           3.00000           1.000000       28.000000        7.000000      0.286000
+75%         460.496000  460.030000    4.159000  129.043000  126.620000    6.000000    4.000000        7.000000    5.000000           4.00000           1.000000       32.000000        8.000000      0.378000
+max         705.932000  705.435000    6.802000  209.220000  311.850000   11.000000   12.000000       20.000000    8.000000           7.00000           4.000000       52.000000       18.000000      0.800000

@@ -1,0 +1,466 @@
+Target
+(5'CAG/3'GAC)x1 DNA
+(5'CAG/3'GAC)x1 RNA
+(5'CAG/3'GAC)x20 RNA
+(5'CAG/3'GAC)x6 DNA
+(5'CAG/3'GAC)x6 RNA
+(5'CAG/3'GUC)x1 RNA
+(5'CAG/3'GUC)x20 RNA
+(5'CAG/3'GUC)x6 DNA
+(5'CAG/3'GUC)x6 RNA
+(5'CCG/3'GCC)x6 RNA
+(5'CUG/3'GUC)x6 RNA
+(CTG*CAG)74
+(CTG/CAG)74
+(G4C2)4 G-quadruplex DNA
+(G4C2)4 G-quadruplex RNA
+-
+1 X 1 UU Hairpin
+108 nt yjdF Riboswitch Construct
+"108 nt yjdF Riboswitch Construct, B. cereus"
+"108 nt yjdF Riboswitch Construct, B. subtilis"
+"108 nt yjdF Riboswitch Construct, B. subtilis, Mutant 1"
+"108 nt yjdF Riboswitch Construct, B. subtilis, Mutant 2"
+"108 nt yjdF Riboswitch Construct, B. subtilis, Mutant 3"
+"108 nt yjdF Riboswitch Construct, B. subtilis, Mutant 4"
+"108 nt yjdF Riboswitch Construct, L. plantarum"
+"108 nt yjdF Riboswitch Construct, R. gauvreauii"
+"161 nt FMN Riboswitch Construct, B. subtilis"
+"165 ribD FMN Riboswitch Aptamer, B. subtilis "
+1:1 mixture of DNA strands with/without G-quadruplex motif
+212–300 nt HOTAIR
+5' CUG/3' GUC Internal Loop
+5' Irdye 800CW-labeled CGGx16 RNAs
+5'CAG/3'GAC
+5'CAG/3'GAC x 6 repeat DNA
+5'CAG/3'GUC internal loop
+5'CAG/3'GUC x 6 DNA
+5'CAG/3'GUC x 6 repeat RNA
+"5'CGAUUU/3'GGUAUA, Expanded miR-96 Precursor Processing Site"
+5'CGG/3'GGC Loop
+"5'CUG/3'GUC, DM1 Motif"
+5'GAU3'/3'C_A5'
+5'GCU3'/3'C_A5' 
+"5'GUA/3'UCU, pre-miR-449c"
+5'SLA RNA fragment Dengue-II virus
+5'UCUAU3'/3'ACCA5'
+5'UCUAU3'/3'ACCA5' (non-binder)
+5'UUA3'/3'A_U5' 
+"5'UUU/3'AUA, miR-96 Precursor Processing Site"
+5'r(CCGCAGCGG)3' containing one AA loop
+5′ biotin-labeled HOTAIR 36G46A wild type
+"5′ biotin-labeled HOTAIR 36U46A, 36G46G, and 36U46G mutant probes"
+5′CAG/3′GAC DNA internal loop
+5′CAG/3′GAC internal loop
+5′CAG/3′GAC x 2 repeat RNA
+5′CAG/3′GAC x 3 repeat RNA
+5′CAG/3′GAC x 33 repeat RNA
+5′CAG/3′GAC x 4 repeat RNA
+5′CAG/3′GAC x 5 repeat RNA
+5′CAG/3′GAC x 6 repeat RNA
+70 pbuE Riboswitch
+70S pbuE Riboswitch Mutant
+70W pbuE Riboswitch Mutant
+A-1C mutant U1 snRNA:E7 5' SS duplex
+A-1G mutant U1 snRNA:E7 5' SS duplex
+A-1U mutant U1 snRNA:E7 5' SS duplex
+A10-RNA-WT QGRS in ADAM10 mRNA
+A10-RNA-WT QGRS in ADAM10 mRNA Mutant
+ACG-NLuc and CUG-NLuc
+AT Hairpin DNA
+AU Stem
+Antisense (G2C4)4 G-quadruplex DNA
+Antisense (G2C4)4 G-quadruplex RNA
+Aptamer domain of the FMN riboswitch from F. nucleatum
+Arg
+Azoarcus pre-tRNA (Ile) group I intron37
+BCL2 RNA G-quadruplex
+BCL2 RNA G4
+BSA
+Bcl-2 DNA
+Bcl-X-681 pre-mRNA
+Bcl-X-681:Spliceosome
+Bimolecular triplex construct (ENE-tail MALAT1 triplex)
+Biotin-Binding Pseudoknot
+Brain from C57 mice
+Brain from R6/2 mice
+Brain microsomes from C57 mice
+Brain microsomes from R6/2 mice
+Brain microsomes from SD Rats
+C. difficile guaA riboswitch
+C1 Hairpin Cassette
+"C9ALS/FTD-associated GGGGCC repeats (GGGGCC70), for all three reading frames (GA, GP and GR)"
+CAG x 10 repeat RNA
+CGG×16
+CT DNA
+CUG x 12 repeat RNA
+CUG x 23 repeat RNA
+CUG x 3 repeat RNA
+CUG x 50 repeat RNA
+Cy5-U4 5′SL RNA:His-NHP2L1 protein
+Cys
+DDPAC + I17T Mutant
+DDPAC MAPT A Bulge
+DDPAC MAPT Mutant
+DNA 650 Basepair
+DNA Anti-Parallel G-Quadruplex
+DNA Duplex
+DNA Hairpin
+DNA Parallel G-Quadruplex
+DNA [3+1] Type 1 G-Quadruplex
+DNA [3+1] Type 2 G-Quadruplex
+DNA [3+1] Type 3 G-Quadruplex
+Denatured TSL2 RNA
+Dicer UA Hairpin
+Dicer UU Hairpin
+Double-Stranded RNA
+Drosha UA Hairpin
+Drosha UU Hairpin
+Duplex DNA
+Duplex stem [r(GUCGCCGGGGCCGGGCGAC)2]
+ESE2-dependent SMN-C6 protein targets
+FMDV IRES RNA
+"FMDV IRES RNA, SL3A"
+"FMN Riboswitch Aptamer SA1, S. aureus"
+"FMN Riboswitch Aptamer SA2, S. aureus"
+"FMN Riboswitch Aptamer, E. coli"
+"FMN Riboswitch Aptamer, F. nucleatum"
+"FMN Riboswitch, B. subtilis"
+"FMN Riboswitch, S. aureus SA1 and SA2 and E. coli"
+"FMN Riboswitch, S. davawensis"
+FUBP1 protein
+FUBP1 protein:500-nt SMN2 exon 7 RNA
+"FUBP1 protein:Oligo-4, an AGGAAG-containing RNA 15-mer"
+"FUBP1 protein:SMN2 intron 6, exon 7, and intron 7"
+"FXTAS-associated CGG repeats, +1CGGx100 RAN translation nanoluciferase (NLuc) reporter mRNA"
+"FXTAS-associated CGG repeats, +2CGGx100 RAN translation nanoluciferase (NLuc) reporter mRNA (translation occurs in the +2 reading frame)"
+"FXTAS-associated RAN CGG repeats (+1CGG100, +2CGG100) and AUG-initiated repeats (AUG +1CGG100, AUG +2CGG100)"
+Full length ai5γ group II intron ribozyme
+Full length ai5γ group II intron ribozyme + 1000-fold excess D1
+Full length ai5γ group II intron ribozyme + 1000-fold excess D3
+Full length ai5γ group II intron ribozyme + 1000-fold excess D56
+Full length ai5γ group II intron ribozyme + 1000-fold excess U2-U6 RNA oligo
+Full length ai5γ group II intron ribozyme + 1000-fold excess unlabeled ai5γ intron with short exons
+Full length ai5γ group II intron ribozyme + 1000-fold excess yeast tRNA Phe
+Fully Paired RNA
+Fully base paired RNA [r(G2C2)8]
+Fully paired RNA 
+G-Quadruplex Conformation of r(GGGGCC)8
+G3T4 DNA G4
+G4 DNA F-myc22-T
+G4 EBNA1 mRNA
+G4-DNA F-25TAG-T
+G4C2 repeat G-quadruplex RNA
+GAU/A_C Bulge in miR-18a
+GAU/CUA Stem Mutant
+GC Stem Loop
+GGGGCC×8
+GGU/A_C Bulge Mutant
+GSH
+GST-MBNL1
+G_U/CUA Bulge in miR-18a
+Gag protein:SL3 RNA
+Gln
+Gly
+Guanine Riboswitch
+"Guanine riboswitch, B. subtilis xpt-pbuX"
+"Guanine riboswitch, B. subtilis xpt-pbuX  mutant A24U/U25A/A46G/C74U"
+"Guanine riboswitch, B. subtilis xpt-pbuX  mutant U25A/A46G/C74U"
+HCV CG2a G4 sequence
+HCV IRES IIA 38-mer
+HCV IRES IIA 40-mer
+HCV IRES IIA RNA
+HCV IRES IIa
+HCV IRES RNA
+HCV IRES-A
+HCV IRES-A 1 Mutant
+HCV IRES-A 2 Mutant
+HCV IRES-A DNA
+HCV SL I
+HCV SL I (5'UAG3'/3'A_C5')
+HCV SL I and SL III (5'GUG3'/3'C_G5')
+HCV SL II (5'CUG3'/3'G_C5')
+HCV-IRES subdomain IIa
+HCV-IRES subdomain Iia
+HIV TAR
+HIV-1 5' UTR
+HIV-1 FSS RNA
+HIV-1 FSS RNA L17 Mutant
+HIV-1 IN Protein
+HIV-1 Protease
+HIV-1 RRE
+HIV-1 RRE IA
+HIV-1 RRE IIB
+HIV-1 RRE IIB 
+HIV-1 RRE IIB + 100-fold excess dsDNA
+HIV-1 RRE IIB + 100-fold excess tRNA
+"HIV-1 RRE IIB, 100-fold Excess dsDNA"
+"HIV-1 RRE IIB, 100-fold Excess tRNA"
+"HIV-1 RRE IIB, Hairpin Control"
+HIV-1 RRE IIB:Rev Peptide
+HIV-1 RRE IIB:Rev34-50
+HIV-1 RRE IIB:Rev34-50 complex
+HIV-1 RRE:REV
+HIV-1 RRE:Rev complex
+HIV-1 Reverse Transcriptase (RT)
+HIV-1 TAR
+HIV-1 TAR RNA
+HIV-1 TAR RNA; 100-fold excess dsDNA
+HIV-1 TAR RNA; 100-fold excess tRNA
+"HIV-1 TAR, 100-fold Excess dsDNA"
+"HIV-1 TAR, 100-fold Excess tRNA"
+HIV-1 TAR:Tat
+HIV-1 TAR:Tat Interaction
+HIV-1 TAR:Tat Peptide
+HIV-1 TAR:Tat:CycT1
+HIV-2 FSS RNA
+HP20 hairpin RNA
+HRP
+HSA
+HTLV-1 Gag-Pro (GP) FSS RNA
+HTLV-1 Pro-Pol (PP) FSS RNA
+"HTT exon1 RNA, 18 repeats"
+"HTT exon1 RNA, 48 repeats"
+HTT exon1 RNA-binding proteins
+HTT exon1 RNA:MID1 protein
+"HTT exon1, 47 CAG repeats"
+Hairpin
+Hairpin Conformation of r(GGGGCC)8
+Hairpin DNA
+Hairpin-Stem RNA
+Heparin
+His
+IRES RNA G-quadruplex
+Influenza RNA Promoter
+JEV Translational Frameshift Site RNA 1
+JEV Translational Frameshift Site RNA 2
+JEV Translational Frameshift Site RNA 3
+KHSRP protein
+KRAS DNA G4
+KRAS RNA G-quadruplex utr-1
+KRAS RNA G-quadruplex utr-4
+KRAS RNA G-quadruplex utr-c
+KRAS RNA G-quadruplex utr-z
+KRAS mRNA
+KRAS promoter DNA G-quadruplex
+Liver microsomes from C57 mice
+Liver microsomes from R6/2 mice
+Liver microsomes from SD rats
+Lys
+Lys3 tRNA
+MAPT A WT
+MBNL1
+Malat1 minimal triple helix motif
+Met
+Mixture of Kinases
+Mixture of RNAs
+Mutant TERRA
+Mutated Bcl-X-681 pre-mRNA
+Mutated TSL2
+NARS RNA G4
+NHP2L1 protein
+NLuc reporter mRNA lacking any repeat element and translated using a canonical AUG start codon (AUG-NLuc)
+NRAS RNA G-Quadruplex
+NRAS RNA G-quadruplex
+NRAS RNA mutant
+Non-Structured RNA
+"Oligo-1, a pyrimidine-rich RNA 15-mer"
+"Oligo-2, an RNA 15-mer"
+"Oligo-3, a purine-rich RNA 15-mer"
+"Oligo-4, an AGGAAG-containing RNA 15-mer"
+"Oligo-5, an RNA 15-mer"
+"Oligo-6, an RNA 15-mer"
+"Oligo-7, an AAGGAG-containing RNA 15-mer"
+PEMV-Pseudoknot
+PS2.M DNA G4
+PbuE Riboswitch
+Phe
+Plasma from C57 mice
+Plasma from R6/2 mice
+Plasmid DNA
+PolyU RNA
+Pro
+Pu22 DNA G-quadruplex
+Purified Total RNA
+Purified gDNA
+RNA Hairpin
+RNA-Dependent DNA Polymerase
+RNase-sensitive SMN-C6 protein targets
+RpoH σ32mRNA factor
+SARS-Pseudoknot
+SARS-Pseudoknot Construct
+SARS-Pseudoknot Mutant
+SIV FSS RNA
+SL3 RNA
+SL3 RNA dimer
+SL3 of HIV-1 Ψ Packaging Domain
+SMN-C6 protein targets
+"SMN2 ""GA"" motif"
+"SMN2 ""GU"" motif"
+SMN2 E7 Splicing Complex
+SMN2 E7 Splicing Complex with RNA fragment A-1C mutant
+SMN2 E7 pre-mRNA fragment:U1 snRNP
+SMN2 ESE2:SRSF9 protein
+SMN2 ESE2:Tra2-β1 protein
+SMN2 ESE2:hnRNP G RRM peptide
+SMN2 antisense TSL2
+SMN2 exon 7 (containing ESE2)
+SMN2 exon 7 ESE1
+SMN2 exon 7 ESE2
+SMN2 exon 7 ESE2:Tra2-β1 RRM
+SMN2 exon 7 ESE2:hnRNP G RRM peptide
+SMN2 exon 7 ESE3
+SMN2 exon 7 ESE3 TSL2
+"SMN2 intron 6, exon 7, and intron 7"
+SMN2 intron 7 ISS-N2
+SMN2 intron 7 TSL7
+SMN2 intron 7 TSTL4/6
+SMN2 intron 7 c
+SMN2 mRNA
+SMN2 pre-mRNA
+SMN2 pre-mRNA:U1 snRNA
+SMN2 pre-mRNA:U1 snRNA:U1-C zinc finger domain
+STRN3 exon 8
+STRN3 mRNA
+Self-Splicing Group I Intron (Ca.LSU)
+Ser
+Serotonin Receptor 2C (HTR2c) pre-mRNA 200 nt
+Serotonin receptor 2C (HTR2c) pre-mRNA 200 nt
+Stem-Loop RNA
+Synthetic TSL2 RNA
+T3TT DNA G4
+T95 RNA G4
+TAR/Tat complex
+TBA DNA G4
+TERRA G-Quadruplex
+TERRA G-quadruplex (TERRA22)
+TERRA G-quadruplex r(UAG3(U2AG3)3)
+"TERRA G-quadruplex, 25-fold excess telomeric DNA (HTG22)"
+"TERRA G-quadruplex, 50-fold excess telomeric DNA (HTG22) "
+TERRA RNA G4
+"TPP Riboswitch, B. subtilis "
+TRF2 protein
+TRF2:TERRA G-quadruplex (TERRA22):Telomeric duplex DNA (hTELO-dup)
+TRF2:Telomeric duplex DNA (hTELO-dup)
+TSL2
+Targaprimir-515/885
+Telomeric DNA G-quadruplex (HTG22)
+Telomeric DNA–RNA hybrid G-quadruplex (HQ)
+Topoisomerase
+U1 snRNA:E7 5' SS duplex
+U1 snRNA:E7 5' SS duplex:U1-C zinc finger protein
+U1 snRNP : 5' SS
+U1 snRNP:SMN2 pre-mRNA Complex
+U4 5′SL RNA
+U4 5′SL RNA:His-NHP2L1 protein
+U4 5′SL RNA:NHP2L1 protein
+Unimolecular MALAT1 triple helix
+Unimolecular MALAT1 triple helix construct
+Unrelated RNA structure
+VEGF RNA G4
+Vitamin C
+ZICI RNA G4
+[r(CUG)6]2
+adenosine
+adjacent to Drosha site in pri-miR-515
+ai5γ group II intron ribozyme
+c-Kit1 G-Quadruplex DNA
+cTNT
+cTNT32
+calf thymus DNA
+cell lysate
+ctDNA
+cymc DNA
+cymc DNA G4
+cyt c 
+d(CAG)12
+d(CTG)12
+d(CTG/CAG)12
+d(CTG/CAG)74
+d(G4C2)8 DNA
+ds17 RNA
+ds18 RNA
+ds26 RNA
+dsRNA A18 and U18
+dsRNA AU
+dsRNA GC
+hERG
+hnRNP A1 protein
+"hnRNP A1 protein:Oligo-4, an AGGAAG-containing RNA 15-mer"
+"hnRNP A1 protein:SMN2 intron 6, exon 7, and intron 7"
+"impX RFN Element, F. nucleatum"
+lysC riboswitch
+lysC riboswitch mutant 1 (M1)
+lysC riboswitch mutant 2 (M2)
+miR-1587 RNA
+miR-544
+miR122 microRNA mimic
+"mutated HCV CG2a G4 sequence ""CG2a-M"""
+"mutated HCV CG2a G4 sequence ""CG2a-M2"""
+pre-miR-18a
+pre-miR-210
+pre-miR-638
+pre-miRNA-21
+pri-miR-515 Drosha site
+pri-miR-515 Drosha site and adjacent site
+pri-miR-885 Drosha site
+r(AU)1
+r(AU)6
+r(CAG)12
+r(CAG)12-MBNL1 Complex
+r(CAG)6
+r(CAG)7
+r(CCG)6
+r(CCGCUGCGG)2
+r(CCUG)12-MBNL1 Complex
+r(CCUG)8
+r(CCUG)8-MBNL1 complex
+r(CGG)1
+r(CGG)12
+r(CGG)12-DGCR8Δ Complex
+"r(CGG)12-DGCR8Δ Complex, 5 µM tRNA"
+"r(CGG)12-DGCR8Δ Complex, 62-fold Excess tRNA"
+r(CGG)12-MBNL1 Complex
+r(CGG)2
+r(CGG)20
+r(CGG)3
+r(CGG)4
+r(CGG)40
+r(CGG)6
+r(CGG)60
+r(CUG)10
+r(CUG)10-MBNL1 complex
+r(CUG)12
+r(CUG)12-MBNL1
+r(CUG)12-MBNL1 Complex
+r(CUG)12-MBNL1 complex
+r(CUG)12-MBNL1 complex; excess tRNA
+r(CUG)16
+r(CUG)26-MBNL1 complex
+r(CUG)4
+r(CUG)6
+r(G2C4)8 (antisense)
+r(G4C2)2
+r(G4C2)4
+r(G4C2)8
+r(G4C2)8:hnRNP H complex
+r(GGCC)4
+r(GGGGCC)8
+r(UG3C2)8
+"ribD FMN Riboswitch, B. subtilis, Roseoflavin-resistant Mutant 1"
+"ribD FMN Riboswitch, B. subtilis, Roseoflavin-resistant Mutant 2"
+"ribD FMN Riboswitch, B. subtilis, Roseoflavin-resistant Mutant 3"
+sperm DNA
+ss16 RNA
+ss20 RNA
+ss22 RNA
+ss23 RNA
+ssRNA U18
+tRNA
+tRNA Val tRNA fragments
+thrombin
+total RNA extracted from Huh7 cells
+"xpt-pbuX Guanine Riboswitch, B. subtilis"
+yeast tRNA
+Δp1 SL3 RNA
+"σ32 mRNA, 5' end"

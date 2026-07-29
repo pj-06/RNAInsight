@@ -1,0 +1,1495 @@
+#,Name,SMILES,Assay Target(s),Target_Family
+R-BIND (SM) 0001,5FDQD,CC(CCN1C2=CC(C)=C(C)C=C2N=C2C(=O)[N-]C(=O)N=C12)C1=CC=C(F)C=C1,"165 ribD FMN Riboswitch Aptamer, B. subtilis ",Riboswitch
+R-BIND (SM) 0001,5FDQD,CC(CCN1C2=CC(C)=C(C)C=C2N=C2C(=O)[N-]C(=O)N=C12)C1=CC=C(F)C=C1,"165 ribD FMN Riboswitch Aptamer, B. subtilis ",Riboswitch
+R-BIND (SM) 0001,5FDQD,CC(CCN1C2=CC(C)=C(C)C=C2N=C2C(=O)[N-]C(=O)N=C12)C1=CC=C(F)C=C1,,Other
+R-BIND (SM) 0001,5FDQD,CC(CCN1C2=CC(C)=C(C)C=C2N=C2C(=O)[N-]C(=O)N=C12)C1=CC=C(F)C=C1,,Other
+R-BIND (SM) 0001,5FDQD,CC(CCN1C2=CC(C)=C(C)C=C2N=C2C(=O)[N-]C(=O)N=C12)C1=CC=C(F)C=C1,,Other
+R-BIND (SM) 0001,5FDQD,CC(CCN1C2=CC(C)=C(C)C=C2N=C2C(=O)[N-]C(=O)N=C12)C1=CC=C(F)C=C1,,Other
+R-BIND (SM) 0001,5FDQD,CC(CCN1C2=CC(C)=C(C)C=C2N=C2C(=O)[N-]C(=O)N=C12)C1=CC=C(F)C=C1,,Other
+R-BIND (SM) 0001,5FDQD,CC(CCN1C2=CC(C)=C(C)C=C2N=C2C(=O)[N-]C(=O)N=C12)C1=CC=C(F)C=C1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,"FMN Riboswitch Aptamer, E. coli",Riboswitch
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,"FMN Riboswitch Aptamer, F. nucleatum",Riboswitch
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0002,Ribocil-B,CNC1=NC=C(C[NH+]2CCC[C@@H](C2)C2=NC(=CC(=O)N2)C2=CC=CS2)C=N1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,"FMN Riboswitch Aptamer SA1, S. aureus",Riboswitch
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,"FMN Riboswitch Aptamer SA2, S. aureus",Riboswitch
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,"FMN Riboswitch Aptamer, E. coli",Riboswitch
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,"FMN Riboswitch, S. aureus SA1 and SA2 and E. coli",Riboswitch
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0003,Ribocil-C,O=C1NC(=NC(=C1)C1=CC=CS1)[C@H]1CCCN(CC2=CN(C=N2)C2=NC=CC=N2)C1,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,"FMN Riboswitch, B. subtilis",Riboswitch
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,"FMN Riboswitch, S. davawensis",Riboswitch
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,"ribD FMN Riboswitch, B. subtilis, Roseoflavin-resistant Mutant 1",Riboswitch
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,"ribD FMN Riboswitch, B. subtilis, Roseoflavin-resistant Mutant 2",Riboswitch
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,"ribD FMN Riboswitch, B. subtilis, Roseoflavin-resistant Mutant 3",Riboswitch
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,"FMN Riboswitch, S. aureus SA1 and SA2 and E. coli",Riboswitch
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,"impX RFN Element, F. nucleatum",Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0004,Roseoflavin,CN(C)C1=CC2=C(C=C1C)N=C1C(=O)[N-]C(=O)N=C1N2C[C@H](O)[C@H](O)[C@H](O)CO,,Other
+R-BIND (SM) 0005,"2,6-Diaminopurine",NC1=NC(N)=C2NC=NC2=N1,PbuE Riboswitch,Riboswitch
+R-BIND (SM) 0005,"2,6-Diaminopurine",NC1=NC(N)=C2NC=NC2=N1,70 pbuE Riboswitch,Riboswitch
+R-BIND (SM) 0005,"2,6-Diaminopurine",NC1=NC(N)=C2NC=NC2=N1,70S pbuE Riboswitch Mutant,Riboswitch
+R-BIND (SM) 0005,"2,6-Diaminopurine",NC1=NC(N)=C2NC=NC2=N1,70W pbuE Riboswitch Mutant,Riboswitch
+R-BIND (SM) 0005,"2,6-Diaminopurine",NC1=NC(N)=C2NC=NC2=N1,"Guanine riboswitch, B. subtilis xpt-pbuX",Riboswitch
+R-BIND (SM) 0005,"2,6-Diaminopurine",NC1=NC(N)=C2NC=NC2=N1,"Guanine riboswitch, B. subtilis xpt-pbuX  mutant U25A/A46G/C74U",Riboswitch
+R-BIND (SM) 0005,"2,6-Diaminopurine",NC1=NC(N)=C2NC=NC2=N1,"Guanine riboswitch, B. subtilis xpt-pbuX  mutant A24U/U25A/A46G/C74U",Riboswitch
+R-BIND (SM) 0005,"2,6-Diaminopurine",NC1=NC(N)=C2NC=NC2=N1,"Guanine riboswitch, B. subtilis xpt-pbuX",Riboswitch
+R-BIND (SM) 0005,"2,6-Diaminopurine",NC1=NC(N)=C2NC=NC2=N1,"Guanine riboswitch, B. subtilis xpt-pbuX  mutant U25A/A46G/C74U",Riboswitch
+R-BIND (SM) 0005,"2,6-Diaminopurine",NC1=NC(N)=C2NC=NC2=N1,"Guanine riboswitch, B. subtilis xpt-pbuX  mutant A24U/U25A/A46G/C74U",Riboswitch
+R-BIND (SM) 0005,"2,6-Diaminopurine",NC1=NC(N)=C2NC=NC2=N1,"Guanine riboswitch, B. subtilis xpt-pbuX",Riboswitch
+R-BIND (SM) 0005,"2,6-Diaminopurine",NC1=NC(N)=C2NC=NC2=N1,"Guanine riboswitch, B. subtilis xpt-pbuX  mutant U25A/A46G/C74U",Riboswitch
+R-BIND (SM) 0005,"2,6-Diaminopurine",NC1=NC(N)=C2NC=NC2=N1,"Guanine riboswitch, B. subtilis xpt-pbuX  mutant A24U/U25A/A46G/C74U",Riboswitch
+R-BIND (SM) 0005,"2,6-Diaminopurine",NC1=NC(N)=C2NC=NC2=N1,,Other
+R-BIND (SM) 0006,Pyrithiamine,CC1=NC(N)=C(C[N+]2=CC=CC(CCO)=C2C)C=N1,"TPP Riboswitch, B. subtilis ",Riboswitch
+R-BIND (SM) 0006,Pyrithiamine,CC1=NC(N)=C(C[N+]2=CC=CC(CCO)=C2C)C=N1,,Other
+R-BIND (SM) 0006,Pyrithiamine,CC1=NC(N)=C(C[N+]2=CC=CC(CCO)=C2C)C=N1,,Other
+R-BIND (SM) 0006,Pyrithiamine,CC1=NC(N)=C(C[N+]2=CC=CC(CCO)=C2C)C=N1,,Other
+R-BIND (SM) 0006,Pyrithiamine,CC1=NC(N)=C(C[N+]2=CC=CC(CCO)=C2C)C=N1,,Other
+R-BIND (SM) 0006,Pyrithiamine,CC1=NC(N)=C(C[N+]2=CC=CC(CCO)=C2C)C=N1,,Other
+R-BIND (SM) 0006,Pyrithiamine,CC1=NC(N)=C(C[N+]2=CC=CC(CCO)=C2C)C=N1,,Other
+R-BIND (SM) 0006,Pyrithiamine,CC1=NC(N)=C(C[N+]2=CC=CC(CCO)=C2C)C=N1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,"xpt-pbuX Guanine Riboswitch, B. subtilis",Riboswitch
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0007,2-Amino-N6-Hydroxyadenine,NC1=N\C(=N/[O-])C2=C(NC=N2)[NH2+]1,,Other
+R-BIND (SM) 0008,PC1,NC1=NC(=O)C(N)=C(N)N1,Guanine Riboswitch,Riboswitch
+R-BIND (SM) 0008,PC1,NC1=NC(=O)C(N)=C(N)N1,,Other
+R-BIND (SM) 0008,PC1,NC1=NC(=O)C(N)=C(N)N1,,Other
+R-BIND (SM) 0008,PC1,NC1=NC(=O)C(N)=C(N)N1,,Other
+R-BIND (SM) 0008,PC1,NC1=NC(=O)C(N)=C(N)N1,,Other
+R-BIND (SM) 0008,PC1,NC1=NC(=O)C(N)=C(N)N1,,Other
+R-BIND (SM) 0008,PC1,NC1=NC(=O)C(N)=C(N)N1,,Other
+R-BIND (SM) 0008,PC1,NC1=NC(=O)C(N)=C(N)N1,,Other
+R-BIND (SM) 0008,PC1,NC1=NC(=O)C(N)=C(N)N1,,Other
+R-BIND (SM) 0008,PC1,NC1=NC(=O)C(N)=C(N)N1,,Other
+R-BIND (SM) 0008,PC1,NC1=NC(=O)C(N)=C(N)N1,,Other
+R-BIND (SM) 0008,PC1,NC1=NC(=O)C(N)=C(N)N1,,Other
+R-BIND (SM) 0008,PC1,NC1=NC(=O)C(N)=C(N)N1,,Other
+R-BIND (SM) 0008,PC1,NC1=NC(=O)C(N)=C(N)N1,,Other
+R-BIND (SM) 0008,PC1,NC1=NC(=O)C(N)=C(N)N1,,Other
+R-BIND (SM) 0008,PC1,NC1=NC(=O)C(N)=C(N)N1,,Other
+R-BIND (SM) 0009,Chelerythrine,COC1=CC=C2C(C=[N+](C)C3=C2C=CC2=CC4=C(OCO4)C=C32)=C1OC,"108 nt yjdF Riboswitch Construct, B. subtilis",Riboswitch
+R-BIND (SM) 0009,Chelerythrine,COC1=CC=C2C(C=[N+](C)C3=C2C=CC2=CC4=C(OCO4)C=C32)=C1OC,"108 nt yjdF Riboswitch Construct, B. subtilis, Mutant 1",Riboswitch
+R-BIND (SM) 0009,Chelerythrine,COC1=CC=C2C(C=[N+](C)C3=C2C=CC2=CC4=C(OCO4)C=C32)=C1OC,"108 nt yjdF Riboswitch Construct, B. subtilis, Mutant 2",Riboswitch
+R-BIND (SM) 0009,Chelerythrine,COC1=CC=C2C(C=[N+](C)C3=C2C=CC2=CC4=C(OCO4)C=C32)=C1OC,"108 nt yjdF Riboswitch Construct, B. subtilis, Mutant 3",Riboswitch
+R-BIND (SM) 0009,Chelerythrine,COC1=CC=C2C(C=[N+](C)C3=C2C=CC2=CC4=C(OCO4)C=C32)=C1OC,"108 nt yjdF Riboswitch Construct, B. cereus",Riboswitch
+R-BIND (SM) 0009,Chelerythrine,COC1=CC=C2C(C=[N+](C)C3=C2C=CC2=CC4=C(OCO4)C=C32)=C1OC,"108 nt yjdF Riboswitch Construct, R. gauvreauii",Riboswitch
+R-BIND (SM) 0009,Chelerythrine,COC1=CC=C2C(C=[N+](C)C3=C2C=CC2=CC4=C(OCO4)C=C32)=C1OC,"108 nt yjdF Riboswitch Construct, L. plantarum",Riboswitch
+R-BIND (SM) 0009,Chelerythrine,COC1=CC=C2C(C=[N+](C)C3=C2C=CC2=CC4=C(OCO4)C=C32)=C1OC,"161 nt FMN Riboswitch Construct, B. subtilis",Riboswitch
+R-BIND (SM) 0010,Dequalinium,CC1=CC(N)=C2C=CC=CC2=[N+]1CCCCCCCCCC[N+]1=C(C)C=C(N)C2=CC=CC=C12,"108 nt yjdF Riboswitch Construct, B. subtilis",Riboswitch
+R-BIND (SM) 0011,Harmane,CC1=NC=CC2=C1NC1=C2C=CC=C1,"108 nt yjdF Riboswitch Construct, B. subtilis",Riboswitch
+R-BIND (SM) 0011,Harmane,CC1=NC=CC2=C1NC1=C2C=CC=C1,,Other
+R-BIND (SM) 0011,Harmane,CC1=NC=CC2=C1NC1=C2C=CC=C1,,Other
+R-BIND (SM) 0012,Harmine,COC1=CC2=C(C=C1)C1=C(N2)C(C)=NC=C1,"108 nt yjdF Riboswitch Construct, B. subtilis",Riboswitch
+R-BIND (SM) 0012,Harmine,COC1=CC2=C(C=C1)C1=C(N2)C(C)=NC=C1,,Other
+R-BIND (SM) 0013,Proflavine,NC1=CC2=[NH+]C3=CC(N)=CC=C3C=C2C=C1,"108 nt yjdF Riboswitch Construct, B. subtilis",Riboswitch
+R-BIND (SM) 0013,Proflavine,NC1=CC2=[NH+]C3=CC(N)=CC=C3C=C2C=C1,"108 nt yjdF Riboswitch Construct, B. subtilis, Mutant 1",Riboswitch
+R-BIND (SM) 0013,Proflavine,NC1=CC2=[NH+]C3=CC(N)=CC=C3C=C2C=C1,"108 nt yjdF Riboswitch Construct, B. subtilis, Mutant 2",Riboswitch
+R-BIND (SM) 0013,Proflavine,NC1=CC2=[NH+]C3=CC(N)=CC=C3C=C2C=C1,"108 nt yjdF Riboswitch Construct, B. subtilis, Mutant 3",Riboswitch
+R-BIND (SM) 0013,Proflavine,NC1=CC2=[NH+]C3=CC(N)=CC=C3C=C2C=C1,"108 nt yjdF Riboswitch Construct, B. subtilis, Mutant 4",Riboswitch
+R-BIND (SM) 0013,Proflavine,NC1=CC2=[NH+]C3=CC(N)=CC=C3C=C2C=C1,"161 nt FMN Riboswitch Construct, B. subtilis",Riboswitch
+R-BIND (SM) 0013,Proflavine,NC1=CC2=[NH+]C3=CC(N)=CC=C3C=C2C=C1,,Other
+R-BIND (SM) 0013,Proflavine,NC1=CC2=[NH+]C3=CC(N)=CC=C3C=C2C=C1,,Other
+R-BIND (SM) 0014,Staurosporine,C[NH2+][C@H]1CC2OC(C)([C@H]1OC)N1C3=CC=CC=C3C3=C1C1=C(C4=C(C=CC=C4)N21)C1=C3CNC1=O,108 nt yjdF Riboswitch Construct,Riboswitch
+R-BIND (SM) 0014,Staurosporine,C[NH2+][C@H]1CC2OC(C)([C@H]1OC)N1C3=CC=CC=C3C3=C1C1=C(C4=C(C=CC=C4)N21)C1=C3CNC1=O,,Other
+R-BIND (SM) 0015,Pentamidine,NC(=[NH2+])C1=CC=C(OCCCCCOC2=CC=C(C=C2)C(N)=[NH2+])C=C1,Self-Splicing Group I Intron (Ca.LSU),Ribozyme
+R-BIND (SM) 0015,Pentamidine,NC(=[NH2+])C1=CC=C(OCCCCCOC2=CC=C(C=C2)C(N)=[NH2+])C=C1,Self-Splicing Group I Intron (Ca.LSU),Ribozyme
+R-BIND (SM) 0015,Pentamidine,NC(=[NH2+])C1=CC=C(OCCCCCOC2=CC=C(C=C2)C(N)=[NH2+])C=C1,Self-Splicing Group I Intron (Ca.LSU),Ribozyme
+R-BIND (SM) 0015,Pentamidine,NC(=[NH2+])C1=CC=C(OCCCCCOC2=CC=C(C=C2)C(N)=[NH2+])C=C1,Self-Splicing Group I Intron (Ca.LSU),Ribozyme
+R-BIND (SM) 0015,Pentamidine,NC(=[NH2+])C1=CC=C(OCCCCCOC2=CC=C(C=C2)C(N)=[NH2+])C=C1,Self-Splicing Group I Intron (Ca.LSU),Ribozyme
+R-BIND (SM) 0015,Pentamidine,NC(=[NH2+])C1=CC=C(OCCCCCOC2=CC=C(C=C2)C(N)=[NH2+])C=C1,Self-Splicing Group I Intron (Ca.LSU),Ribozyme
+R-BIND (SM) 0015,Pentamidine,NC(=[NH2+])C1=CC=C(OCCCCCOC2=CC=C(C=C2)C(N)=[NH2+])C=C1,Self-Splicing Group I Intron (Ca.LSU),Ribozyme
+R-BIND (SM) 0015,Pentamidine,NC(=[NH2+])C1=CC=C(OCCCCCOC2=CC=C(C=C2)C(N)=[NH2+])C=C1,Self-Splicing Group I Intron (Ca.LSU),Ribozyme
+R-BIND (SM) 0015,Pentamidine,NC(=[NH2+])C1=CC=C(OCCCCCOC2=CC=C(C=C2)C(N)=[NH2+])C=C1,Self-Splicing Group I Intron (Ca.LSU),Ribozyme
+R-BIND (SM) 0015,Pentamidine,NC(=[NH2+])C1=CC=C(OCCCCCOC2=CC=C(C=C2)C(N)=[NH2+])C=C1,Self-Splicing Group I Intron (Ca.LSU),Ribozyme
+R-BIND (SM) 0015,Pentamidine,NC(=[NH2+])C1=CC=C(OCCCCCOC2=CC=C(C=C2)C(N)=[NH2+])C=C1,Self-Splicing Group I Intron (Ca.LSU),Ribozyme
+R-BIND (SM) 0015,Pentamidine,NC(=[NH2+])C1=CC=C(OCCCCCOC2=CC=C(C=C2)C(N)=[NH2+])C=C1,Self-Splicing Group I Intron (Ca.LSU),Ribozyme
+R-BIND (SM) 0015,Pentamidine,NC(=[NH2+])C1=CC=C(OCCCCCOC2=CC=C(C=C2)C(N)=[NH2+])C=C1,Self-Splicing Group I Intron (Ca.LSU),Ribozyme
+R-BIND (SM) 0016,Methylquinolinium 15,C[N+]1=C2C=CC=CC2=CC=C1C=CC1=CC2=CC=CC=C2N1,A10-RNA-WT QGRS in ADAM10 mRNA,mRNA
+R-BIND (SM) 0016,Methylquinolinium 15,C[N+]1=C2C=CC=CC2=CC=C1C=CC1=CC2=CC=CC=C2N1,,Other
+R-BIND (SM) 0016,Methylquinolinium 15,C[N+]1=C2C=CC=CC2=CC=C1C=CC1=CC2=CC=CC=C2N1,,Other
+R-BIND (SM) 0017,Methylquinolinium 16,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC=C3C=CC=CC3=[N+]1C)=C2,A10-RNA-WT QGRS in ADAM10 mRNA,mRNA
+R-BIND (SM) 0017,Methylquinolinium 16,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC=C3C=CC=CC3=[N+]1C)=C2,,Other
+R-BIND (SM) 0017,Methylquinolinium 16,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC=C3C=CC=CC3=[N+]1C)=C2,,Other
+R-BIND (SM) 0018,Methylquinolinium 22,C[NH+]1CCN(CC1)C1=C2C=CC=CC2=[N+](C)C(C=CC2=CC=C(C=C2)N2CCOCC2)=C1,A10-RNA-WT QGRS in ADAM10 mRNA,mRNA
+R-BIND (SM) 0018,Methylquinolinium 22,C[NH+]1CCN(CC1)C1=C2C=CC=CC2=[N+](C)C(C=CC2=CC=C(C=C2)N2CCOCC2)=C1,,Other
+R-BIND (SM) 0018,Methylquinolinium 22,C[NH+]1CCN(CC1)C1=C2C=CC=CC2=[N+](C)C(C=CC2=CC=C(C=C2)N2CCOCC2)=C1,,Other
+R-BIND (SM) 0019,Methylquinolinium 23,C[NH+]1CCN(CC1)C1=C2C=CC=CC2=[N+](C)C(C=CC2=CC3=CC=CC=C3N2)=C1,A10-RNA-WT QGRS in ADAM10 mRNA Mutant,mRNA
+R-BIND (SM) 0019,Methylquinolinium 23,C[NH+]1CCN(CC1)C1=C2C=CC=CC2=[N+](C)C(C=CC2=CC3=CC=CC=C3N2)=C1,A10-RNA-WT QGRS in ADAM10 mRNA,mRNA
+R-BIND (SM) 0019,Methylquinolinium 23,C[NH+]1CCN(CC1)C1=C2C=CC=CC2=[N+](C)C(C=CC2=CC3=CC=CC=C3N2)=C1,,Other
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,A10-RNA-WT QGRS in ADAM10 mRNA,mRNA
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,A10-RNA-WT QGRS in ADAM10 mRNA Mutant,mRNA
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,A10-RNA-WT QGRS in ADAM10 mRNA,mRNA
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,A10-RNA-WT QGRS in ADAM10 mRNA,mRNA
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,A10-RNA-WT QGRS in ADAM10 mRNA,mRNA
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,,Other
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,,Other
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,,Other
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,,Other
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,,Other
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,,Other
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,,Other
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,,Other
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,,Other
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,,Other
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,,Other
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,,Other
+R-BIND (SM) 0020,Methylquinolinium 24,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=C2,,Other
+R-BIND (SM) 0021,Compound 1,NC1=CC=C(C=C1)C1=CC2=CC=C(C=C2N1)C1=[NH+]CCN1,DDPAC MAPT A Bulge,mRNA
+R-BIND (SM) 0022A,Compound 2,NC(=[NH2+])C1=CC=C(NC2=CC=C(C=C2)C2=CC3=CC=C(C=C3N2)C(N)=[NH2+])C=C1,DDPAC MAPT A Bulge,mRNA
+R-BIND (SM) 0022A,Compound 2,NC(=[NH2+])C1=CC=C(NC2=CC=C(C=C2)C2=CC3=CC=C(C=C3N2)C(N)=[NH2+])C=C1,DDPAC + I17T Mutant,Other
+R-BIND (SM) 0022A,Compound 2,NC(=[NH2+])C1=CC=C(NC2=CC=C(C=C2)C2=CC3=CC=C(C=C3N2)C(N)=[NH2+])C=C1,MAPT A WT,mRNA
+R-BIND (SM) 0022A,Compound 2,NC(=[NH2+])C1=CC=C(NC2=CC=C(C=C2)C2=CC3=CC=C(C=C3N2)C(N)=[NH2+])C=C1,DDPAC MAPT A Bulge,mRNA
+R-BIND (SM) 0022A,Compound 2,NC(=[NH2+])C1=CC=C(NC2=CC=C(C=C2)C2=CC3=CC=C(C=C3N2)C(N)=[NH2+])C=C1,DDPAC MAPT Mutant,mRNA
+R-BIND (SM) 0022B,Compound 2,NC(=[NH2+])C1=CC=C(NC2=CC=C(C=C2)C2=CC3=CC=C(C=C3N2)C(N)=[NH2+])C=C1,Hairpin,Other
+R-BIND (SM) 0022B,Compound 2,NC(=[NH2+])C1=CC=C(NC2=CC=C(C=C2)C2=CC3=CC=C(C=C3N2)C(N)=[NH2+])C=C1,r(CGG)12,Repeat RNA
+R-BIND (SM) 0022B,Compound 2,NC(=[NH2+])C1=CC=C(NC2=CC=C(C=C2)C2=CC3=CC=C(C=C3N2)C(N)=[NH2+])C=C1,r(GGCC)4,Other
+R-BIND (SM) 0022B,Compound 2,NC(=[NH2+])C1=CC=C(NC2=CC=C(C=C2)C2=CC3=CC=C(C=C3N2)C(N)=[NH2+])C=C1,Hairpin Conformation of r(GGGGCC)8,Other
+R-BIND (SM) 0022B,Compound 2,NC(=[NH2+])C1=CC=C(NC2=CC=C(C=C2)C2=CC3=CC=C(C=C3N2)C(N)=[NH2+])C=C1,G-Quadruplex Conformation of r(GGGGCC)8,G-Quadruplex
+R-BIND (SM) 0022B,Compound 2,NC(=[NH2+])C1=CC=C(NC2=CC=C(C=C2)C2=CC3=CC=C(C=C3N2)C(N)=[NH2+])C=C1,r(GGGGCC)8,Other
+R-BIND (SM) 0023,Compound 4,NC(=[NH2+])C1=CC=C(NC2=CC=C(C=C2)C2=CC3=CC=C(C=C3N2)C(N)=[NH2+])C=C1,DDPAC MAPT A Bulge,mRNA
+R-BIND (SM) 0024,RGB-1,O=C1N2CC3=NC4=C(C(=CS4)C4=CC=CO4)C(=O)N3CC2=NC2=C1C(=CS2)C1=CC=CO1,NRAS RNA G-Quadruplex,G-Quadruplex
+R-BIND (SM) 0024,RGB-1,O=C1N2CC3=NC4=C(C(=CS4)C4=CC=CO4)C(=O)N3CC2=NC2=C1C(=CS2)C1=CC=CO1,TERRA G-Quadruplex,G-Quadruplex
+R-BIND (SM) 0024,RGB-1,O=C1N2CC3=NC4=C(C(=CS4)C4=CC=CO4)C(=O)N3CC2=NC2=C1C(=CS2)C1=CC=CO1,Non-Structured RNA,Other
+R-BIND (SM) 0024,RGB-1,O=C1N2CC3=NC4=C(C(=CS4)C4=CC=CO4)C(=O)N3CC2=NC2=C1C(=CS2)C1=CC=CO1,Hairpin-Stem RNA,Other
+R-BIND (SM) 0024,RGB-1,O=C1N2CC3=NC4=C(C(=CS4)C4=CC=CO4)C(=O)N3CC2=NC2=C1C(=CS2)C1=CC=CO1,NRAS RNA G-Quadruplex,G-Quadruplex
+R-BIND (SM) 0024,RGB-1,O=C1N2CC3=NC4=C(C(=CS4)C4=CC=CO4)C(=O)N3CC2=NC2=C1C(=CS2)C1=CC=CO1,TERRA G-Quadruplex,G-Quadruplex
+R-BIND (SM) 0024,RGB-1,O=C1N2CC3=NC4=C(C(=CS4)C4=CC=CO4)C(=O)N3CC2=NC2=C1C(=CS2)C1=CC=CO1,DNA Parallel G-Quadruplex,G-Quadruplex
+R-BIND (SM) 0024,RGB-1,O=C1N2CC3=NC4=C(C(=CS4)C4=CC=CO4)C(=O)N3CC2=NC2=C1C(=CS2)C1=CC=CO1,DNA Anti-Parallel G-Quadruplex,G-Quadruplex
+R-BIND (SM) 0024,RGB-1,O=C1N2CC3=NC4=C(C(=CS4)C4=CC=CO4)C(=O)N3CC2=NC2=C1C(=CS2)C1=CC=CO1,DNA [3+1] Type 1 G-Quadruplex,G-Quadruplex
+R-BIND (SM) 0024,RGB-1,O=C1N2CC3=NC4=C(C(=CS4)C4=CC=CO4)C(=O)N3CC2=NC2=C1C(=CS2)C1=CC=CO1,DNA [3+1] Type 2 G-Quadruplex,G-Quadruplex
+R-BIND (SM) 0024,RGB-1,O=C1N2CC3=NC4=C(C(=CS4)C4=CC=CO4)C(=O)N3CC2=NC2=C1C(=CS2)C1=CC=CO1,DNA [3+1] Type 3 G-Quadruplex,G-Quadruplex
+R-BIND (SM) 0024,RGB-1,O=C1N2CC3=NC4=C(C(=CS4)C4=CC=CO4)C(=O)N3CC2=NC2=C1C(=CS2)C1=CC=CO1,Stem-Loop RNA,Other
+R-BIND (SM) 0024,RGB-1,O=C1N2CC3=NC4=C(C(=CS4)C4=CC=CO4)C(=O)N3CC2=NC2=C1C(=CS2)C1=CC=CO1,Double-Stranded RNA,Other
+R-BIND (SM) 0025,Benzimidazole 1 (2014),C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,"5'GUA/3'UCU, pre-miR-449c",miRNA
+R-BIND (SM) 0025,Benzimidazole 1 (2014),C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,"5'UUU/3'AUA, miR-96 Precursor Processing Site",miRNA
+R-BIND (SM) 0025,Benzimidazole 1 (2014),C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,"5'CGAUUU/3'GGUAUA, Expanded miR-96 Precursor Processing Site",miRNA
+R-BIND (SM) 0025,Benzimidazole 1 (2014),C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,C1 Hairpin Cassette,Other
+R-BIND (SM) 0025,Benzimidazole 1 (2014),C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,,Other
+R-BIND (SM) 0025,Benzimidazole 1 (2014),C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,,Other
+R-BIND (SM) 0025,Benzimidazole 1 (2014),C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,,Other
+R-BIND (SM) 0025,Benzimidazole 1 (2014),C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,,Other
+R-BIND (SM) 0026,D6,NC(=[NH2+])NC1=CC=C(OC(=O)C2=CC=C(NC(N)=[NH2+])C=C2)C=C1,5'CAG/3'GAC,Repeat RNA
+R-BIND (SM) 0026,D6,NC(=[NH2+])NC1=CC=C(OC(=O)C2=CC=C(NC(N)=[NH2+])C=C2)C=C1,5'CAG/3'GAC,Repeat RNA
+R-BIND (SM) 0026,D6,NC(=[NH2+])NC1=CC=C(OC(=O)C2=CC=C(NC(N)=[NH2+])C=C2)C=C1,r(CAG)12-MBNL1 Complex,Repeat RNA
+R-BIND (SM) 0027A,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,Mixture of RNAs,Other
+R-BIND (SM) 0027A,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,5'CGG/3'GGC Loop,Repeat RNA
+R-BIND (SM) 0027A,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,r(CGG)12,Repeat RNA
+R-BIND (SM) 0027A,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,r(CGG)12,Repeat RNA
+R-BIND (SM) 0027A,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,"r(CGG)12-DGCR8Δ Complex, 5 µM tRNA",tRNA
+R-BIND (SM) 0027A,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,r(CGG)12-DGCR8Δ Complex,Repeat RNA
+R-BIND (SM) 0027A,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,"r(CGG)12-DGCR8Δ Complex, 62-fold Excess tRNA",tRNA
+R-BIND (SM) 0027A,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,,Other
+R-BIND (SM) 0027A,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,,Other
+R-BIND (SM) 0027A,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,,Other
+R-BIND (SM) 0027A,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,,Other
+R-BIND (SM) 0027B,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,G-Quadruplex Conformation of r(GGGGCC)8,G-Quadruplex
+R-BIND (SM) 0027B,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,r(GGGGCC)8,Other
+R-BIND (SM) 0027B,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,r(CGG)12,Repeat RNA
+R-BIND (SM) 0027B,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,r(GGCC)4,Other
+R-BIND (SM) 0027B,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,Hairpin,Other
+R-BIND (SM) 0027B,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,Hairpin Conformation of r(GGGGCC)8,Other
+R-BIND (SM) 0027B,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,,Other
+R-BIND (SM) 0027B,Hydroxyellipticine 1a,CC1=C2C=C[N+](CC[NH+]3CCCCC3)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,,Other
+R-BIND (SM) 0028,Benzimidazole 1 (2015),[O-][N+](=O)C1=CC=C2NC(CCCC3=NC4=CC(=CC=C4N3)[N+]([O-])=O)=NC2=C1,Mixture of RNAs,Other
+R-BIND (SM) 0028,Benzimidazole 1 (2015),[O-][N+](=O)C1=CC=C2NC(CCCC3=NC4=CC(=CC=C4N3)[N+]([O-])=O)=NC2=C1,r(CUG)12-MBNL1 Complex,Repeat RNA
+R-BIND (SM) 0028,Benzimidazole 1 (2015),[O-][N+](=O)C1=CC=C2NC(CCCC3=NC4=CC(=CC=C4N3)[N+]([O-])=O)=NC2=C1,,Other
+R-BIND (SM) 0028,Benzimidazole 1 (2015),[O-][N+](=O)C1=CC=C2NC(CCCC3=NC4=CC(=CC=C4N3)[N+]([O-])=O)=NC2=C1,,Other
+R-BIND (SM) 0029,Benzimidazole 16 (2015),O=C(NC1=CC=C(C=C1)C1=NC2=CC(NC(=O)C3=CC=CO3)=CC=C2N1)C1=CC=CO1,Mixture of RNAs,Other
+R-BIND (SM) 0029,Benzimidazole 16 (2015),O=C(NC1=CC=C(C=C1)C1=NC2=CC(NC(=O)C3=CC=CO3)=CC=C2N1)C1=CC=CO1,r(CUG)12-MBNL1 Complex,Repeat RNA
+R-BIND (SM) 0029,Benzimidazole 16 (2015),O=C(NC1=CC=C(C=C1)C1=NC2=CC(NC(=O)C3=CC=CO3)=CC=C2N1)C1=CC=CO1,,Other
+R-BIND (SM) 0029,Benzimidazole 16 (2015),O=C(NC1=CC=C(C=C1)C1=NC2=CC(NC(=O)C3=CC=CO3)=CC=C2N1)C1=CC=CO1,,Other
+R-BIND (SM) 0030,Benzimidazole 17 (2015),ClC1=CC=C(C=C1)C1=CC=C(O1)C(=O)NC1=CC=C(C=C1)C1=NC2=CC=CC=C2N1,Mixture of RNAs,Other
+R-BIND (SM) 0030,Benzimidazole 17 (2015),ClC1=CC=C(C=C1)C1=CC=C(O1)C(=O)NC1=CC=C(C=C1)C1=NC2=CC=CC=C2N1,r(CUG)12-MBNL1 Complex,Repeat RNA
+R-BIND (SM) 0030,Benzimidazole 17 (2015),ClC1=CC=C(C=C1)C1=CC=C(O1)C(=O)NC1=CC=C(C=C1)C1=NC2=CC=CC=C2N1,,Other
+R-BIND (SM) 0030,Benzimidazole 17 (2015),ClC1=CC=C(C=C1)C1=CC=C(O1)C(=O)NC1=CC=C(C=C1)C1=NC2=CC=CC=C2N1,,Other
+R-BIND (SM) 0031,H1,NC1=CC(=CC=C1)C1=NC2=CC(=CC=C2N1)C1=CC=C2NC(=NC2=C1)C1=CC(N)=CC=C1,"5'CUG/3'GUC, DM1 Motif",Repeat RNA
+R-BIND (SM) 0031,H1,NC1=CC(=CC=C1)C1=NC2=CC(=CC=C2N1)C1=CC=C2NC(=NC2=C1)C1=CC(N)=CC=C1,Fully Paired RNA,Other
+R-BIND (SM) 0031,H1,NC1=CC(=CC=C1)C1=NC2=CC(=CC=C2N1)C1=CC=C2NC(=NC2=C1)C1=CC(N)=CC=C1,Mixture of RNAs,Other
+R-BIND (SM) 0031,H1,NC1=CC(=CC=C1)C1=NC2=CC(=CC=C2N1)C1=CC=C2NC(=NC2=C1)C1=CC(N)=CC=C1,Mixture of RNAs,Other
+R-BIND (SM) 0031,H1,NC1=CC(=CC=C1)C1=NC2=CC(=CC=C2N1)C1=CC=C2NC(=NC2=C1)C1=CC(N)=CC=C1,r(CUG)12-MBNL1 Complex,Repeat RNA
+R-BIND (SM) 0031,H1,NC1=CC(=CC=C1)C1=NC2=CC(=CC=C2N1)C1=CC=C2NC(=NC2=C1)C1=CC(N)=CC=C1,,Other
+R-BIND (SM) 0031,H1,NC1=CC(=CC=C1)C1=NC2=CC(=CC=C2N1)C1=CC=C2NC(=NC2=C1)C1=CC(N)=CC=C1,,Other
+R-BIND (SM) 0031,H1,NC1=CC(=CC=C1)C1=NC2=CC(=CC=C2N1)C1=CC=C2NC(=NC2=C1)C1=CC(N)=CC=C1,,Other
+R-BIND (SM) 0032,Lomofungin,COC(=O)C1=C2[NH+]=C3C([O-])=CC(=O)C(C=O)=C3[N-]C2=C([O-])C=C1,r(CUG)10,Repeat RNA
+R-BIND (SM) 0032,Lomofungin,COC(=O)C1=C2[NH+]=C3C([O-])=CC(=O)C(C=O)=C3[N-]C2=C([O-])C=C1,r(CUG)12-MBNL1 Complex,Repeat RNA
+R-BIND (SM) 0032,Lomofungin,COC(=O)C1=C2[NH+]=C3C([O-])=CC(=O)C(C=O)=C3[N-]C2=C([O-])C=C1,,Other
+R-BIND (SM) 0032,Lomofungin,COC(=O)C1=C2[NH+]=C3C([O-])=CC(=O)C(C=O)=C3[N-]C2=C([O-])C=C1,,Other
+R-BIND (SM) 0032,Lomofungin,COC(=O)C1=C2[NH+]=C3C([O-])=CC(=O)C(C=O)=C3[N-]C2=C([O-])C=C1,,Other
+R-BIND (SM) 0033A,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,r(CUG)12,Repeat RNA
+R-BIND (SM) 0033A,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,MBNL1,Other
+R-BIND (SM) 0033A,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,BSA,Other
+R-BIND (SM) 0033A,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,r(CAG)12,Repeat RNA
+R-BIND (SM) 0033A,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,1 X 1 UU Hairpin,Other
+R-BIND (SM) 0033A,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,AU Stem,Other
+R-BIND (SM) 0033A,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,r(CCGCUGCGG)2,Repeat RNA
+R-BIND (SM) 0033A,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,r(CCUG)12-MBNL1 Complex,Repeat RNA
+R-BIND (SM) 0033A,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,r(CUG)12-MBNL1 Complex,Repeat RNA
+R-BIND (SM) 0033A,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,r(CAG)12-MBNL1 Complex,Repeat RNA
+R-BIND (SM) 0033A,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,r(CGG)12-MBNL1 Complex,Repeat RNA
+R-BIND (SM) 0033B,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,miR-544,miRNA
+R-BIND (SM) 0033B,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,Dicer UA Hairpin,Other
+R-BIND (SM) 0033B,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,DNA 650 Basepair,Other
+R-BIND (SM) 0033B,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,Drosha UU Hairpin,Other
+R-BIND (SM) 0033B,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,Dicer UU Hairpin,Other
+R-BIND (SM) 0033B,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,Drosha UA Hairpin,Other
+R-BIND (SM) 0033B,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,,Other
+R-BIND (SM) 0033B,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,,Other
+R-BIND (SM) 0033B,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,,Other
+R-BIND (SM) 0033B,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,,Other
+R-BIND (SM) 0033B,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,,Other
+R-BIND (SM) 0033B,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,,Other
+R-BIND (SM) 0033B,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,,Other
+R-BIND (SM) 0033B,Naphthyridine 2,NC1=NC(N2CCCC2)=C(C#N)C2=CC(=NC(N)=C12)N1CCCC1,,Other
+R-BIND (SM) 0034,p1,O=C(NC1=CC=CC=N1)C1=CC(OCC2=CSC=N2)=CC=C1,r(CUG)12-MBNL1 Complex,Repeat RNA
+R-BIND (SM) 0034,p1,O=C(NC1=CC=CC=N1)C1=CC(OCC2=CSC=N2)=CC=C1,,Other
+R-BIND (SM) 0034,p1,O=C(NC1=CC=CC=N1)C1=CC(OCC2=CSC=N2)=CC=C1,,Other
+R-BIND (SM) 0034,p1,O=C(NC1=CC=CC=N1)C1=CC(OCC2=CSC=N2)=CC=C1,,Other
+R-BIND (SM) 0035,p7,FC1=CC=C(C=C1)C(=O)NC1=CC=C(NC(=O)C2=CC=NC=C2)C=N1,AT Hairpin DNA,Other
+R-BIND (SM) 0035,p7,FC1=CC=C(C=C1)C(=O)NC1=CC=C(NC(=O)C2=CC=NC=C2)C=N1,GC Stem Loop,Other
+R-BIND (SM) 0035,p7,FC1=CC=C(C=C1)C(=O)NC1=CC=C(NC(=O)C2=CC=NC=C2)C=N1,5' CUG/3' GUC Internal Loop,Repeat RNA
+R-BIND (SM) 0035,p7,FC1=CC=C(C=C1)C(=O)NC1=CC=C(NC(=O)C2=CC=NC=C2)C=N1,tRNA,tRNA
+R-BIND (SM) 0035,p7,FC1=CC=C(C=C1)C(=O)NC1=CC=C(NC(=O)C2=CC=NC=C2)C=N1,r(CUG)12-MBNL1 Complex,Repeat RNA
+R-BIND (SM) 0036,Pyrvinium,CN(C)C1=CC2=CC=C(C=CC3=C(C)N(C(C)=C3)C3=CC=CC=C3)[N+](C)=C2C=C1,Serotonin Receptor 2C (HTR2c) pre-mRNA 200 nt,mRNA
+R-BIND (SM) 0036,Pyrvinium,CN(C)C1=CC2=CC=C(C=CC3=C(C)N(C(C)=C3)C3=CC=CC=C3)[N+](C)=C2C=C1,dsRNA GC,Other
+R-BIND (SM) 0036,Pyrvinium,CN(C)C1=CC2=CC=C(C=CC3=C(C)N(C(C)=C3)C3=CC=CC=C3)[N+](C)=C2C=C1,PolyU RNA,Other
+R-BIND (SM) 0036,Pyrvinium,CN(C)C1=CC2=CC=C(C=CC3=C(C)N(C(C)=C3)C3=CC=CC=C3)[N+](C)=C2C=C1,dsRNA AU,Other
+R-BIND (SM) 0036,Pyrvinium,CN(C)C1=CC2=CC=C(C=CC3=C(C)N(C(C)=C3)C3=CC=CC=C3)[N+](C)=C2C=C1,dsRNA A18 and U18,Other
+R-BIND (SM) 0036,Pyrvinium,CN(C)C1=CC2=CC=C(C=CC3=C(C)N(C(C)=C3)C3=CC=CC=C3)[N+](C)=C2C=C1,ssRNA U18,Other
+R-BIND (SM) 0036,Pyrvinium,CN(C)C1=CC2=CC=C(C=CC3=C(C)N(C(C)=C3)C3=CC=CC=C3)[N+](C)=C2C=C1,Serotonin receptor 2C (HTR2c) pre-mRNA 200 nt,mRNA
+R-BIND (SM) 0036,Pyrvinium,CN(C)C1=CC2=CC=C(C=CC3=C(C)N(C(C)=C3)C3=CC=CC=C3)[N+](C)=C2C=C1,Serotonin receptor 2C (HTR2c) pre-mRNA 200 nt,mRNA
+R-BIND (SM) 0037,NVS-SM1,CC1(C)CC(CC(C)(C)[NH2+]1)OC1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,U1 snRNP:SMN2 pre-mRNA Complex,mRNA
+R-BIND (SM) 0037,NVS-SM1,CC1(C)CC(CC(C)(C)[NH2+]1)OC1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,SMN2 pre-mRNA:U1 snRNA,mRNA
+R-BIND (SM) 0037,NVS-SM1,CC1(C)CC(CC(C)(C)[NH2+]1)OC1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,hERG,Other
+R-BIND (SM) 0037,NVS-SM1,CC1(C)CC(CC(C)(C)[NH2+]1)OC1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,,Other
+R-BIND (SM) 0037,NVS-SM1,CC1(C)CC(CC(C)(C)[NH2+]1)OC1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,,Other
+R-BIND (SM) 0037,NVS-SM1,CC1(C)CC(CC(C)(C)[NH2+]1)OC1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,,Other
+R-BIND (SM) 0037,NVS-SM1,CC1(C)CC(CC(C)(C)[NH2+]1)OC1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,,Other
+R-BIND (SM) 0037,NVS-SM1,CC1(C)CC(CC(C)(C)[NH2+]1)OC1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,,Other
+R-BIND (SM) 0037,NVS-SM1,CC1(C)CC(CC(C)(C)[NH2+]1)OC1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,,Other
+R-BIND (SM) 0037,NVS-SM1,CC1(C)CC(CC(C)(C)[NH2+]1)OC1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,,Other
+R-BIND (SM) 0037,NVS-SM1,CC1(C)CC(CC(C)(C)[NH2+]1)OC1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,,Other
+R-BIND (SM) 0037,NVS-SM1,CC1(C)CC(CC(C)(C)[NH2+]1)OC1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,,Other
+R-BIND (SM) 0037,NVS-SM1,CC1(C)CC(CC(C)(C)[NH2+]1)OC1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,,Other
+R-BIND (SM) 0037,NVS-SM1,CC1(C)CC(CC(C)(C)[NH2+]1)OC1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,,Other
+R-BIND (SM) 0037,NVS-SM1,CC1(C)CC(CC(C)(C)[NH2+]1)OC1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,,Other
+R-BIND (SM) 0037,NVS-SM1,CC1(C)CC(CC(C)(C)[NH2+]1)OC1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,,Other
+R-BIND (SM) 0038,NVS-SM2,CN(C1CC(C)(C)[NH2+]C(C)(C)C1)C1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,U1 snRNP:SMN2 pre-mRNA Complex,mRNA
+R-BIND (SM) 0038,NVS-SM2,CN(C1CC(C)(C)[NH2+]C(C)(C)C1)C1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,U1 snRNP:SMN2 pre-mRNA Complex,mRNA
+R-BIND (SM) 0038,NVS-SM2,CN(C1CC(C)(C)[NH2+]C(C)(C)C1)C1=CC=C(N=N1)C1=CC=C(C=C1O)C1=CNN=C1,U1 snRNP:SMN2 pre-mRNA Complex,mRNA
+R-BIND (SM) 0039,IRAB,C[NH+](C)CCCN1C(N)=[NH+]C2=CC=C3OC(C[NH+](C)C)=CC3=C12,FMDV IRES RNA,Other
+R-BIND (SM) 0039,IRAB,C[NH+](C)CCCN1C(N)=[NH+]C2=CC=C3OC(C[NH+](C)C)=CC3=C12,HCV IRES RNA,HCV IRES
+R-BIND (SM) 0039,IRAB,C[NH+](C)CCCN1C(N)=[NH+]C2=CC=C3OC(C[NH+](C)C)=CC3=C12,"FMDV IRES RNA, SL3A",Other
+R-BIND (SM) 0039,IRAB,C[NH+](C)CCCN1C(N)=[NH+]C2=CC=C3OC(C[NH+](C)C)=CC3=C12,HCV IRES RNA,HCV IRES
+R-BIND (SM) 0039,IRAB,C[NH+](C)CCCN1C(N)=[NH+]C2=CC=C3OC(C[NH+](C)C)=CC3=C12,HCV IRES RNA,HCV IRES
+R-BIND (SM) 0040,Benzimidazole 3,C[NH+](C)CCCOC1=CC=C2[NH+]=C(N)N(CCC[NH+](C)C)C2=C1,HCV IRES IIA 40-mer,HCV IRES
+R-BIND (SM) 0040,Benzimidazole 3,C[NH+](C)CCCOC1=CC=C2[NH+]=C(N)N(CCC[NH+](C)C)C2=C1,,Other
+R-BIND (SM) 0041,Benzimidazole 10,C[NH+](C)CCCOC1=CC=C2N=C3NCC(C[NH+](C)C)CN3C2=C1,HCV IRES IIA 40-mer,HCV IRES
+R-BIND (SM) 0041,Benzimidazole 10,C[NH+](C)CCCOC1=CC=C2N=C3NCC(C[NH+](C)C)CN3C2=C1,,Other
+R-BIND (SM) 0042,Benzimidazole 11 / Isis-11,C[NH+](C)CCCN1C(N)=[NH+]C2=CC=C3OC(CC[NH+](C)C)CC3=C12,HCV IRES IIA 40-mer,HCV IRES
+R-BIND (SM) 0042,Benzimidazole 11 / Isis-11,C[NH+](C)CCCN1C(N)=[NH+]C2=CC=C3OC(CC[NH+](C)C)CC3=C12,HCV IRES IIA 38-mer,HCV IRES
+R-BIND (SM) 0042,Benzimidazole 11 / Isis-11,C[NH+](C)CCCN1C(N)=[NH+]C2=CC=C3OC(CC[NH+](C)C)CC3=C12,,Other
+R-BIND (SM) 0042,Benzimidazole 11 / Isis-11,C[NH+](C)CCCN1C(N)=[NH+]C2=CC=C3OC(CC[NH+](C)C)CC3=C12,HCV IRES IIA 38-mer,HCV IRES
+R-BIND (SM) 0043,Benzimidazole 12,C[NH+](C)CCCN1C(N)=[NH+]C2=CC=C3OCC(C[NH+](C)C)CC3=C12,HCV IRES IIA 40-mer,HCV IRES
+R-BIND (SM) 0043,Benzimidazole 12,C[NH+](C)CCCN1C(N)=[NH+]C2=CC=C3OCC(C[NH+](C)C)CC3=C12,,Other
+R-BIND (SM) 0044,Benzimidazole 13 / Isis-13,C[NH+](C)CC1CNC2=[NH+]C3=CC=C4OCC(C[NH+](C)C)CC4=C3N2C1,-,Other
+R-BIND (SM) 0044,Benzimidazole 13 / Isis-13,C[NH+](C)CC1CNC2=[NH+]C3=CC=C4OCC(C[NH+](C)C)CC4=C3N2C1,HCV IRES IIA RNA,HCV IRES
+R-BIND (SM) 0044,Benzimidazole 13 / Isis-13,C[NH+](C)CC1CNC2=[NH+]C3=CC=C4OCC(C[NH+](C)C)CC4=C3N2C1,HCV IRES IIA 40-mer,HCV IRES
+R-BIND (SM) 0044,Benzimidazole 13 / Isis-13,C[NH+](C)CC1CNC2=[NH+]C3=CC=C4OCC(C[NH+](C)C)CC4=C3N2C1,HCV IRES IIA 40-mer,HCV IRES
+R-BIND (SM) 0044,Benzimidazole 13 / Isis-13,C[NH+](C)CC1CNC2=[NH+]C3=CC=C4OCC(C[NH+](C)C)CC4=C3N2C1,,Other
+R-BIND (SM) 0044,Benzimidazole 13 / Isis-13,C[NH+](C)CC1CNC2=[NH+]C3=CC=C4OCC(C[NH+](C)C)CC4=C3N2C1,,Other
+R-BIND (SM) 0044,Benzimidazole 13 / Isis-13,C[NH+](C)CC1CNC2=[NH+]C3=CC=C4OCC(C[NH+](C)C)CC4=C3N2C1,,Other
+R-BIND (SM) 0044,Benzimidazole 13 / Isis-13,C[NH+](C)CC1CNC2=[NH+]C3=CC=C4OCC(C[NH+](C)C)CC4=C3N2C1,,Other
+R-BIND (SM) 0045,Isis-22,C[NH+](C)CC1CC2=C3N4CC(C[NH+](C)C)CNC4=[NH+]C3=CC=C2O1,HCV IRES RNA,HCV IRES
+R-BIND (SM) 0045,Isis-22,C[NH+](C)CC1CC2=C3N4CC(C[NH+](C)C)CNC4=[NH+]C3=CC=C2O1,,Other
+R-BIND (SM) 0045,Isis-22,C[NH+](C)CC1CC2=C3N4CC(C[NH+](C)C)CNC4=[NH+]C3=CC=C2O1,,Other
+R-BIND (SM) 0045,Isis-22,C[NH+](C)CC1CC2=C3N4CC(C[NH+](C)C)CNC4=[NH+]C3=CC=C2O1,,Other
+R-BIND (SM) 0046A,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,HIV-1 FSS RNA,HIV TAR
+R-BIND (SM) 0046A,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,HTLV-1 Gag-Pro (GP) FSS RNA,Other
+R-BIND (SM) 0046A,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,HTLV-1 Pro-Pol (PP) FSS RNA,Other
+R-BIND (SM) 0046A,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,HIV-2 FSS RNA,HIV TAR
+R-BIND (SM) 0046A,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,SIV FSS RNA,Other
+R-BIND (SM) 0046A,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,HIV-1 FSS RNA,HIV TAR
+R-BIND (SM) 0046A,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,HIV-1 FSS RNA,HIV TAR
+R-BIND (SM) 0046A,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,HIV-1 FSS RNA,HIV TAR
+R-BIND (SM) 0046A,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,HIV-1 FSS RNA,HIV TAR
+R-BIND (SM) 0046A,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,HIV-1 FSS RNA,HIV TAR
+R-BIND (SM) 0046A,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,HIV-1 FSS RNA,HIV TAR
+R-BIND (SM) 0046A,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,HIV-1 FSS RNA,HIV TAR
+R-BIND (SM) 0046A,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,HIV-1 RRE,HIV TAR
+R-BIND (SM) 0046A,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,HIV-1 FSS RNA L17 Mutant,HIV TAR
+R-BIND (SM) 0046A,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,HIV-1 Protease,HIV TAR
+R-BIND (SM) 0046A,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,HIV-1 Reverse Transcriptase (RT),HIV TAR
+R-BIND (SM) 0046A,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,HIV-1 FSS RNA,HIV TAR
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,r(CAG)7,Repeat RNA
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Plasma from C57 mice,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Brain from C57 mice,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Liver microsomes from SD rats,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Brain microsomes from SD Rats,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Liver microsomes from C57 mice,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Brain microsomes from C57 mice,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Liver microsomes from R6/2 mice,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Plasma from R6/2 mice,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Brain from R6/2 mice,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Brain microsomes from R6/2 mice,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Liver microsomes from SD rats,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Brain microsomes from SD Rats,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Liver microsomes from C57 mice,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Brain microsomes from C57 mice,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Liver microsomes from R6/2 mice,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Brain microsomes from R6/2 mice,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Liver microsomes from SD rats,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Brain microsomes from SD Rats,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Liver microsomes from C57 mice,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Brain microsomes from C57 mice,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Liver microsomes from R6/2 mice,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,Brain microsomes from R6/2 mice,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,,Other
+R-BIND (SM) 0046B,DB213,C[NH+](C)CCCNC(=[NH2+])C1=CC=C(C=C1)C(=[NH2+])NCCC[NH+](C)C,,Other
+R-BIND (SM) 0047,Clomiphene,CC[NH+](CC)CCOC1=CC=C(C=C1)C(=C(\Cl)C1=CC=CC=C1)\C1=CC=CC=C1,HIV-1 RRE IIB,HIV TAR
+R-BIND (SM) 0047,Clomiphene,CC[NH+](CC)CCOC1=CC=C(C=C1)C(=C(\Cl)C1=CC=CC=C1)\C1=CC=CC=C1,"HIV-1 RRE IIB, 100-fold Excess tRNA",tRNA
+R-BIND (SM) 0047,Clomiphene,CC[NH+](CC)CCOC1=CC=C(C=C1)C(=C(\Cl)C1=CC=CC=C1)\C1=CC=CC=C1,"HIV-1 RRE IIB, 100-fold Excess dsDNA",HIV TAR
+R-BIND (SM) 0047,Clomiphene,CC[NH+](CC)CCOC1=CC=C(C=C1)C(=C(\Cl)C1=CC=CC=C1)\C1=CC=CC=C1,HIV-1 RRE IIB:Rev34-50,HIV TAR
+R-BIND (SM) 0047,Clomiphene,CC[NH+](CC)CCOC1=CC=C(C=C1)C(=C(\Cl)C1=CC=CC=C1)\C1=CC=CC=C1,HIV-1 RRE:REV,HIV TAR
+R-BIND (SM) 0047,Clomiphene,CC[NH+](CC)CCOC1=CC=C(C=C1)C(=C(\Cl)C1=CC=CC=C1)\C1=CC=CC=C1,,Other
+R-BIND (SM) 0047,Clomiphene,CC[NH+](CC)CCOC1=CC=C(C=C1)C(=C(\Cl)C1=CC=CC=C1)\C1=CC=CC=C1,,Other
+R-BIND (SM) 0048,Cyproheptadine,C[NH+]1CCC(CC1)=C1C2=C(C=CC=C2)C=CC2=C1C=CC=C2,HIV-1 RRE IIB,HIV TAR
+R-BIND (SM) 0048,Cyproheptadine,C[NH+]1CCC(CC1)=C1C2=C(C=CC=C2)C=CC2=C1C=CC=C2,"HIV-1 RRE IIB, 100-fold Excess tRNA",tRNA
+R-BIND (SM) 0048,Cyproheptadine,C[NH+]1CCC(CC1)=C1C2=C(C=CC=C2)C=CC2=C1C=CC=C2,"HIV-1 RRE IIB, 100-fold Excess dsDNA",HIV TAR
+R-BIND (SM) 0048,Cyproheptadine,C[NH+]1CCC(CC1)=C1C2=C(C=CC=C2)C=CC2=C1C=CC=C2,HIV-1 RRE IIB:Rev34-50,HIV TAR
+R-BIND (SM) 0048,Cyproheptadine,C[NH+]1CCC(CC1)=C1C2=C(C=CC=C2)C=CC2=C1C=CC=C2,HIV-1 RRE:REV,HIV TAR
+R-BIND (SM) 0048,Cyproheptadine,C[NH+]1CCC(CC1)=C1C2=C(C=CC=C2)C=CC2=C1C=CC=C2,,Other
+R-BIND (SM) 0048,Cyproheptadine,C[NH+]1CCC(CC1)=C1C2=C(C=CC=C2)C=CC2=C1C=CC=C2,,Other
+R-BIND (SM) 0049,4478-7480,CCC1=C(C)C=C2C(N)=C(SC2=N1)C(=O)NC1=CC(=CC=C1)C(F)(F)F,HIV-1 TAR,HIV TAR
+R-BIND (SM) 0049,4478-7480,CCC1=C(C)C=C2C(N)=C(SC2=N1)C(=O)NC1=CC(=CC=C1)C(F)(F)F,HIV-1 TAR,HIV TAR
+R-BIND (SM) 0050,Aminoquinolone 7a,CC(C)(C)N1C=C(C([O-])=O)C(=O)C2=CC(N)=C(C=C12)N1CCN(CC1)C1=NC=CC=C1,HIV-1 TAR,HIV TAR
+R-BIND (SM) 0050,Aminoquinolone 7a,CC(C)(C)N1C=C(C([O-])=O)C(=O)C2=CC(N)=C(C=C12)N1CCN(CC1)C1=NC=CC=C1,,Other
+R-BIND (SM) 0050,Aminoquinolone 7a,CC(C)(C)N1C=C(C([O-])=O)C(=O)C2=CC(N)=C(C=C12)N1CCN(CC1)C1=NC=CC=C1,,Other
+R-BIND (SM) 0050,Aminoquinolone 7a,CC(C)(C)N1C=C(C([O-])=O)C(=O)C2=CC(N)=C(C=C12)N1CCN(CC1)C1=NC=CC=C1,,Other
+R-BIND (SM) 0051,Aminoquinolone 8a,NC1=C(C=C2N(C=C(C([O-])=O)C(=O)C2=C1)C1CC1)N1CCN(CC1)C1=NC=CC=C1,HIV-1 TAR,HIV TAR
+R-BIND (SM) 0051,Aminoquinolone 8a,NC1=C(C=C2N(C=C(C([O-])=O)C(=O)C2=C1)C1CC1)N1CCN(CC1)C1=NC=CC=C1,,Other
+R-BIND (SM) 0051,Aminoquinolone 8a,NC1=C(C=C2N(C=C(C([O-])=O)C(=O)C2=C1)C1CC1)N1CCN(CC1)C1=NC=CC=C1,,Other
+R-BIND (SM) 0051,Aminoquinolone 8a,NC1=C(C=C2N(C=C(C([O-])=O)C(=O)C2=C1)C1CC1)N1CCN(CC1)C1=NC=CC=C1,,Other
+R-BIND (SM) 0052,Aminoquinolone 22a,CN1C=C(C([O-])=O)C(=O)C2=CC(F)=C(C=C12)N1CCN(CC1)C1=NC=CC=C1,HIV-1 TAR,HIV TAR
+R-BIND (SM) 0052,Aminoquinolone 22a,CN1C=C(C([O-])=O)C(=O)C2=CC(F)=C(C=C12)N1CCN(CC1)C1=NC=CC=C1,,Other
+R-BIND (SM) 0053,WM5,CN1C=C(C([O-])=O)C(=O)C2=CC(N)=C(C=C12)N1CCN(CC1)C1=CC=CC=N1,HIV-1 TAR,HIV TAR
+R-BIND (SM) 0053,WM5,CN1C=C(C([O-])=O)C(=O)C2=CC(N)=C(C=C12)N1CCN(CC1)C1=CC=CC=N1,HIV-1 TAR,HIV TAR
+R-BIND (SM) 0053,WM5,CN1C=C(C([O-])=O)C(=O)C2=CC(N)=C(C=C12)N1CCN(CC1)C1=CC=CC=N1,HIV-1 TAR:Tat Interaction,HIV TAR
+R-BIND (SM) 0053,WM5,CN1C=C(C([O-])=O)C(=O)C2=CC(N)=C(C=C12)N1CCN(CC1)C1=CC=CC=N1,HIV-1 IN Protein,HIV TAR
+R-BIND (SM) 0053,WM5,CN1C=C(C([O-])=O)C(=O)C2=CC(N)=C(C=C12)N1CCN(CC1)C1=CC=CC=N1,RNA-Dependent DNA Polymerase,Other
+R-BIND (SM) 0053,WM5,CN1C=C(C([O-])=O)C(=O)C2=CC(N)=C(C=C12)N1CCN(CC1)C1=CC=CC=N1,HIV-1 Protease,HIV TAR
+R-BIND (SM) 0053,WM5,CN1C=C(C([O-])=O)C(=O)C2=CC(N)=C(C=C12)N1CCN(CC1)C1=CC=CC=N1,,Other
+R-BIND (SM) 0053,WM5,CN1C=C(C([O-])=O)C(=O)C2=CC(N)=C(C=C12)N1CCN(CC1)C1=CC=CC=N1,,Other
+R-BIND (SM) 0053,WM5,CN1C=C(C([O-])=O)C(=O)C2=CC(N)=C(C=C12)N1CCN(CC1)C1=CC=CC=N1,,Other
+R-BIND (SM) 0053,WM5,CN1C=C(C([O-])=O)C(=O)C2=CC(N)=C(C=C12)N1CCN(CC1)C1=CC=CC=N1,,Other
+R-BIND (SM) 0053,WM5,CN1C=C(C([O-])=O)C(=O)C2=CC(N)=C(C=C12)N1CCN(CC1)C1=CC=CC=N1,,Other
+R-BIND (SM) 0053,WM5,CN1C=C(C([O-])=O)C(=O)C2=CC(N)=C(C=C12)N1CCN(CC1)C1=CC=CC=N1,,Other
+R-BIND (SM) 0054,DB60,C1C[NH+]=C(N1)C1=CC=C(C=C1)C1=CC=C(O1)C1=CC=C(C=C1)C1=[NH+]CCN1,HIV-1 TAR RNA,HIV TAR
+R-BIND (SM) 0054,DB60,C1C[NH+]=C(N1)C1=CC=C(C=C1)C1=CC=C(O1)C1=CC=C(C=C1)C1=[NH+]CCN1,HIV-1 TAR:Tat Interaction,HIV TAR
+R-BIND (SM) 0054,DB60,C1C[NH+]=C(N1)C1=CC=C(C=C1)C1=CC=C(O1)C1=CC=C(C=C1)C1=[NH+]CCN1,HIV-1 TAR RNA,HIV TAR
+R-BIND (SM) 0055A,DB75,NC(=[NH2+])C1=CC=C(C=C1)C1=CC=C(O1)C1=CC=C(C=C1)C(N)=[NH2+],HIV-1 TAR RNA,HIV TAR
+R-BIND (SM) 0055A,DB75,NC(=[NH2+])C1=CC=C(C=C1)C1=CC=C(O1)C1=CC=C(C=C1)C(N)=[NH2+],HIV-1 TAR:Tat Interaction,HIV TAR
+R-BIND (SM) 0055A,DB75,NC(=[NH2+])C1=CC=C(C=C1)C1=CC=C(O1)C1=CC=C(C=C1)C(N)=[NH2+],HIV-1 TAR RNA,HIV TAR
+R-BIND (SM) 0055B,DB75,NC(=[NH2+])C1=CC=C(C=C1)C1=CC=C(O1)C1=CC=C(C=C1)C(N)=[NH2+],"HTT exon1, 47 CAG repeats",Repeat RNA
+R-BIND (SM) 0055B,DB75,NC(=[NH2+])C1=CC=C(C=C1)C1=CC=C(O1)C1=CC=C(C=C1)C(N)=[NH2+],"HTT exon1 RNA, 48 repeats",Other
+R-BIND (SM) 0055B,DB75,NC(=[NH2+])C1=CC=C(C=C1)C1=CC=C(O1)C1=CC=C(C=C1)C(N)=[NH2+],"HTT exon1 RNA, 18 repeats",Other
+R-BIND (SM) 0055B,DB75,NC(=[NH2+])C1=CC=C(C=C1)C1=CC=C(O1)C1=CC=C(C=C1)C(N)=[NH2+],CAG x 10 repeat RNA,Repeat RNA
+R-BIND (SM) 0055B,DB75,NC(=[NH2+])C1=CC=C(C=C1)C1=CC=C(O1)C1=CC=C(C=C1)C(N)=[NH2+],HTT exon1 RNA:MID1 protein,Other
+R-BIND (SM) 0055B,DB75,NC(=[NH2+])C1=CC=C(C=C1)C1=CC=C(O1)C1=CC=C(C=C1)C(N)=[NH2+],HTT exon1 RNA-binding proteins,Other
+R-BIND (SM) 0055B,DB75,NC(=[NH2+])C1=CC=C(C=C1)C1=CC=C(O1)C1=CC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0055B,DB75,NC(=[NH2+])C1=CC=C(C=C1)C1=CC=C(O1)C1=CC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0055B,DB75,NC(=[NH2+])C1=CC=C(C=C1)C1=CC=C(O1)C1=CC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0055B,DB75,NC(=[NH2+])C1=CC=C(C=C1)C1=CC=C(O1)C1=CC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0056,Prochlorperazine,C[NH+]1CCN(CCCN2C3=CC=CC=C3SC3=CC=C(Cl)C=C23)CC1,HIV-1 TAR:Tat:CycT1,HIV TAR
+R-BIND (SM) 0056,Prochlorperazine,C[NH+]1CCN(CCCN2C3=CC=CC=C3SC3=CC=C(Cl)C=C23)CC1,HIV-1 TAR,HIV TAR
+R-BIND (SM) 0057,Quinoxaline 3,NC1=NC2=CC=C(N)C(N)=C2C(N)=[NH+]1,HIV-1 TAR:Tat,HIV TAR
+R-BIND (SM) 0057,Quinoxaline 3,NC1=NC2=CC=C(N)C(N)=C2C(N)=[NH+]1,HIV-1 TAR:Tat,HIV TAR
+R-BIND (SM) 0057,Quinoxaline 3,NC1=NC2=CC=C(N)C(N)=C2C(N)=[NH+]1,HIV-1 TAR,HIV TAR
+R-BIND (SM) 0057,Quinoxaline 3,NC1=NC2=CC=C(N)C(N)=C2C(N)=[NH+]1,,Other
+R-BIND (SM) 0057,Quinoxaline 3,NC1=NC2=CC=C(N)C(N)=C2C(N)=[NH+]1,,Other
+R-BIND (SM) 0058,S-Amino Acid Conjugate 1b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)[C@@H]([NH3+])CCCC[NH3+])=CC=C1,HIV-1 TAR,HIV TAR
+R-BIND (SM) 0058,S-Amino Acid Conjugate 1b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)[C@@H]([NH3+])CCCC[NH3+])=CC=C1,"HIV-1 TAR, 100-fold Excess tRNA",tRNA
+R-BIND (SM) 0058,S-Amino Acid Conjugate 1b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)[C@@H]([NH3+])CCCC[NH3+])=CC=C1,"HIV-1 TAR, 100-fold Excess dsDNA",HIV TAR
+R-BIND (SM) 0058,S-Amino Acid Conjugate 1b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)[C@@H]([NH3+])CCCC[NH3+])=CC=C1,HIV-1 TAR,HIV TAR
+R-BIND (SM) 0059,S-Amino Acid Conjugate 3b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)[C@@H]([NH3+])CC2=CNC=N2)=CC=C1,HIV-1 TAR,HIV TAR
+R-BIND (SM) 0059,S-Amino Acid Conjugate 3b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)[C@@H]([NH3+])CC2=CNC=N2)=CC=C1,"HIV-1 TAR, 100-fold Excess tRNA",tRNA
+R-BIND (SM) 0059,S-Amino Acid Conjugate 3b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)[C@@H]([NH3+])CC2=CNC=N2)=CC=C1,"HIV-1 TAR, 100-fold Excess dsDNA",HIV TAR
+R-BIND (SM) 0059,S-Amino Acid Conjugate 3b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)[C@@H]([NH3+])CC2=CNC=N2)=CC=C1,HIV-1 TAR,HIV TAR
+R-BIND (SM) 0060,ST4133609,CC1=CC=C2C(N)=C(SC2=N1)C(=O)NC1=CC(=CC=C1)C(F)(F)F,HIV-1 TAR,HIV TAR
+R-BIND (SM) 0060,ST4133609,CC1=CC=C2C(N)=C(SC2=N1)C(=O)NC1=CC(=CC=C1)C(F)(F)F,HIV-1 TAR,HIV TAR
+R-BIND (SM) 0060,ST4133609,CC1=CC=C2C(N)=C(SC2=N1)C(=O)NC1=CC(=CC=C1)C(F)(F)F,HIV-1 TAR,HIV TAR
+R-BIND (SM) 0060,ST4133609,CC1=CC=C2C(N)=C(SC2=N1)C(=O)NC1=CC(=CC=C1)C(F)(F)F,HIV-1 RRE,HIV TAR
+R-BIND (SM) 0060,ST4133609,CC1=CC=C2C(N)=C(SC2=N1)C(=O)NC1=CC(=CC=C1)C(F)(F)F,HIV-1 5' UTR,HIV TAR
+R-BIND (SM) 0061,DPQ,COC1=CC2=NC(=NC(N)=C2C=C1OC)N1CC[NH2+]CC1,Influenza RNA Promoter,Viral RNA
+R-BIND (SM) 0061,DPQ,COC1=CC2=NC(=NC(N)=C2C=C1OC)N1CC[NH2+]CC1,Influenza RNA Promoter,Viral RNA
+R-BIND (SM) 0061,DPQ,COC1=CC2=NC(=NC(N)=C2C=C1OC)N1CC[NH2+]CC1,Influenza RNA Promoter,Viral RNA
+R-BIND (SM) 0061,DPQ,COC1=CC2=NC(=NC(N)=C2C=C1OC)N1CC[NH2+]CC1,,Other
+R-BIND (SM) 0061,DPQ,COC1=CC2=NC(=NC(N)=C2C=C1OC)N1CC[NH2+]CC1,,Other
+R-BIND (SM) 0061,DPQ,COC1=CC2=NC(=NC(N)=C2C=C1OC)N1CC[NH2+]CC1,,Other
+R-BIND (SM) 0061,DPQ,COC1=CC2=NC(=NC(N)=C2C=C1OC)N1CC[NH2+]CC1,,Other
+R-BIND (SM) 0062,DPQ 6,CCC(=O)N1CCN(CC1)C1=NC(N)=C2C=C(OC)C(OC)=CC2=[NH+]1,Influenza RNA Promoter,Viral RNA
+R-BIND (SM) 0062,DPQ 6,CCC(=O)N1CCN(CC1)C1=NC(N)=C2C=C(OC)C(OC)=CC2=[NH+]1,,Other
+R-BIND (SM) 0063,DPQ 7,COC1=CC2=[NH+]C(=NC(N)=C2C=C1OC)N1CCN(CC1)C(=O)C(C)C,Influenza RNA Promoter,Viral RNA
+R-BIND (SM) 0063,DPQ 7,COC1=CC2=[NH+]C(=NC(N)=C2C=C1OC)N1CCN(CC1)C(=O)C(C)C,,Other
+R-BIND (SM) 0063,DPQ 7,COC1=CC2=[NH+]C(=NC(N)=C2C=C1OC)N1CCN(CC1)C(=O)C(C)C,,Other
+R-BIND (SM) 0064,DPQ 8,CCCC(=O)N1CCN(CC1)C1=NC(N)=C2C=C(OC)C(OC)=CC2=[NH+]1,Influenza RNA Promoter,Viral RNA
+R-BIND (SM) 0064,DPQ 8,CCCC(=O)N1CCN(CC1)C1=NC(N)=C2C=C(OC)C(OC)=CC2=[NH+]1,,Other
+R-BIND (SM) 0064,DPQ 8,CCCC(=O)N1CCN(CC1)C1=NC(N)=C2C=C(OC)C(OC)=CC2=[NH+]1,,Other
+R-BIND (SM) 0065,DPQ 10,COC1=CC2=[NH+]C(=NC(N)=C2C=C1OC)N1CCN(CC1)C(=O)C1CC1,Influenza RNA Promoter,Viral RNA
+R-BIND (SM) 0065,DPQ 10,COC1=CC2=[NH+]C(=NC(N)=C2C=C1OC)N1CCN(CC1)C(=O)C1CC1,,Other
+R-BIND (SM) 0065,DPQ 10,COC1=CC2=[NH+]C(=NC(N)=C2C=C1OC)N1CCN(CC1)C(=O)C1CC1,,Other
+R-BIND (SM) 0066,Kaempferol,OC1=CC=C(C=C1)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,JEV Translational Frameshift Site RNA 3,Other
+R-BIND (SM) 0066,Kaempferol,OC1=CC=C(C=C1)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,JEV Translational Frameshift Site RNA 1,Other
+R-BIND (SM) 0066,Kaempferol,OC1=CC=C(C=C1)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,JEV Translational Frameshift Site RNA 2,Other
+R-BIND (SM) 0066,Kaempferol,OC1=CC=C(C=C1)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,,Other
+R-BIND (SM) 0066,Kaempferol,OC1=CC=C(C=C1)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,,Other
+R-BIND (SM) 0066,Kaempferol,OC1=CC=C(C=C1)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,,Other
+R-BIND (SM) 0066,Kaempferol,OC1=CC=C(C=C1)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,,Other
+R-BIND (SM) 0066,Kaempferol,OC1=CC=C(C=C1)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,,Other
+R-BIND (SM) 0066,Kaempferol,OC1=CC=C(C=C1)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,,Other
+R-BIND (SM) 0066,Kaempferol,OC1=CC=C(C=C1)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,,Other
+R-BIND (SM) 0066,Kaempferol,OC1=CC=C(C=C1)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,,Other
+R-BIND (SM) 0067,Compound 43 (MTDB),CCOC(=O)C1=CC=CC=C1NC(=O)N1CCCN(CC2=CSC(C)=N2)CC1,SARS-Pseudoknot,Viral RNA
+R-BIND (SM) 0067,Compound 43 (MTDB),CCOC(=O)C1=CC=CC=C1NC(=O)N1CCCN(CC2=CSC(C)=N2)CC1,SARS-Pseudoknot,Viral RNA
+R-BIND (SM) 0067,Compound 43 (MTDB),CCOC(=O)C1=CC=CC=C1NC(=O)N1CCCN(CC2=CSC(C)=N2)CC1,SARS-Pseudoknot,Viral RNA
+R-BIND (SM) 0067,Compound 43 (MTDB),CCOC(=O)C1=CC=CC=C1NC(=O)N1CCCN(CC2=CSC(C)=N2)CC1,SARS-Pseudoknot,Viral RNA
+R-BIND (SM) 0067,Compound 43 (MTDB),CCOC(=O)C1=CC=CC=C1NC(=O)N1CCCN(CC2=CSC(C)=N2)CC1,SARS-Pseudoknot Construct,Viral RNA
+R-BIND (SM) 0067,Compound 43 (MTDB),CCOC(=O)C1=CC=CC=C1NC(=O)N1CCCN(CC2=CSC(C)=N2)CC1,SARS-Pseudoknot Construct,Viral RNA
+R-BIND (SM) 0067,Compound 43 (MTDB),CCOC(=O)C1=CC=CC=C1NC(=O)N1CCCN(CC2=CSC(C)=N2)CC1,Biotin-Binding Pseudoknot,Other
+R-BIND (SM) 0067,Compound 43 (MTDB),CCOC(=O)C1=CC=CC=C1NC(=O)N1CCCN(CC2=CSC(C)=N2)CC1,PEMV-Pseudoknot,Other
+R-BIND (SM) 0067,Compound 43 (MTDB),CCOC(=O)C1=CC=CC=C1NC(=O)N1CCCN(CC2=CSC(C)=N2)CC1,SARS-Pseudoknot Mutant,Viral RNA
+R-BIND (SM) 0068,Compound 1 (2017),CC[NH+](CC)CCOC1=CC=C(NC2=C3C=CC=CC3=NC(=N2)C2=C(NC(=O)CC[NH+]3CCN(C)CC3)C=CC=C2)C=C1,HCV IRES-A,HCV IRES
+R-BIND (SM) 0068,Compound 1 (2017),CC[NH+](CC)CCOC1=CC=C(NC2=C3C=CC=CC3=NC(=N2)C2=C(NC(=O)CC[NH+]3CCN(C)CC3)C=CC=C2)C=C1,HCV IRES-A,HCV IRES
+R-BIND (SM) 0068,Compound 1 (2017),CC[NH+](CC)CCOC1=CC=C(NC2=C3C=CC=CC3=NC(=N2)C2=C(NC(=O)CC[NH+]3CCN(C)CC3)C=CC=C2)C=C1,HCV IRES-A,HCV IRES
+R-BIND (SM) 0068,Compound 1 (2017),CC[NH+](CC)CCOC1=CC=C(NC2=C3C=CC=CC3=NC(=N2)C2=C(NC(=O)CC[NH+]3CCN(C)CC3)C=CC=C2)C=C1,HCV IRES-A,HCV IRES
+R-BIND (SM) 0068,Compound 1 (2017),CC[NH+](CC)CCOC1=CC=C(NC2=C3C=CC=CC3=NC(=N2)C2=C(NC(=O)CC[NH+]3CCN(C)CC3)C=CC=C2)C=C1,HCV IRES-A,HCV IRES
+R-BIND (SM) 0068,Compound 1 (2017),CC[NH+](CC)CCOC1=CC=C(NC2=C3C=CC=CC3=NC(=N2)C2=C(NC(=O)CC[NH+]3CCN(C)CC3)C=CC=C2)C=C1,HCV IRES-A,HCV IRES
+R-BIND (SM) 0068,Compound 1 (2017),CC[NH+](CC)CCOC1=CC=C(NC2=C3C=CC=CC3=NC(=N2)C2=C(NC(=O)CC[NH+]3CCN(C)CC3)C=CC=C2)C=C1,HCV IRES-A,HCV IRES
+R-BIND (SM) 0068,Compound 1 (2017),CC[NH+](CC)CCOC1=CC=C(NC2=C3C=CC=CC3=NC(=N2)C2=C(NC(=O)CC[NH+]3CCN(C)CC3)C=CC=C2)C=C1,HCV IRES-A,HCV IRES
+R-BIND (SM) 0068,Compound 1 (2017),CC[NH+](CC)CCOC1=CC=C(NC2=C3C=CC=CC3=NC(=N2)C2=C(NC(=O)CC[NH+]3CCN(C)CC3)C=CC=C2)C=C1,HCV IRES-A,HCV IRES
+R-BIND (SM) 0068,Compound 1 (2017),CC[NH+](CC)CCOC1=CC=C(NC2=C3C=CC=CC3=NC(=N2)C2=C(NC(=O)CC[NH+]3CCN(C)CC3)C=CC=C2)C=C1,HCV IRES-A,HCV IRES
+R-BIND (SM) 0068,Compound 1 (2017),CC[NH+](CC)CCOC1=CC=C(NC2=C3C=CC=CC3=NC(=N2)C2=C(NC(=O)CC[NH+]3CCN(C)CC3)C=CC=C2)C=C1,HCV IRES-A DNA,HCV IRES
+R-BIND (SM) 0068,Compound 1 (2017),CC[NH+](CC)CCOC1=CC=C(NC2=C3C=CC=CC3=NC(=N2)C2=C(NC(=O)CC[NH+]3CCN(C)CC3)C=CC=C2)C=C1,HCV IRES-A 1 Mutant,HCV IRES
+R-BIND (SM) 0068,Compound 1 (2017),CC[NH+](CC)CCOC1=CC=C(NC2=C3C=CC=CC3=NC(=N2)C2=C(NC(=O)CC[NH+]3CCN(C)CC3)C=CC=C2)C=C1,Hairpin DNA,Other
+R-BIND (SM) 0068,Compound 1 (2017),CC[NH+](CC)CCOC1=CC=C(NC2=C3C=CC=CC3=NC(=N2)C2=C(NC(=O)CC[NH+]3CCN(C)CC3)C=CC=C2)C=C1,HCV IRES-A 1 Mutant,HCV IRES
+R-BIND (SM) 0068,Compound 1 (2017),CC[NH+](CC)CCOC1=CC=C(NC2=C3C=CC=CC3=NC(=N2)C2=C(NC(=O)CC[NH+]3CCN(C)CC3)C=CC=C2)C=C1,HCV IRES-A 2 Mutant,HCV IRES
+R-BIND (SM) 0068,Compound 1 (2017),CC[NH+](CC)CCOC1=CC=C(NC2=C3C=CC=CC3=NC(=N2)C2=C(NC(=O)CC[NH+]3CCN(C)CC3)C=CC=C2)C=C1,c-Kit1 G-Quadruplex DNA,G-Quadruplex
+R-BIND (SM) 0069,Targapremir-18a,C[NH+]1CCN(CC1)C1=CC=C(C=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,pre-miR-18a,miRNA
+R-BIND (SM) 0069,Targapremir-18a,C[NH+]1CCN(CC1)C1=CC=C(C=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,GAU/A_C Bulge in miR-18a,miRNA
+R-BIND (SM) 0069,Targapremir-18a,C[NH+]1CCN(CC1)C1=CC=C(C=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,G_U/CUA Bulge in miR-18a,miRNA
+R-BIND (SM) 0069,Targapremir-18a,C[NH+]1CCN(CC1)C1=CC=C(C=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,GGU/A_C Bulge Mutant,Other
+R-BIND (SM) 0069,Targapremir-18a,C[NH+]1CCN(CC1)C1=CC=C(C=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,GAU/CUA Stem Mutant,Other
+R-BIND (SM) 0069,Targapremir-18a,C[NH+]1CCN(CC1)C1=CC=C(C=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,pre-miR-18a,miRNA
+R-BIND (SM) 0070,Targapremir-210,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC=CC(OCCCC(=O)NCCCN=[N+]=[N-])=C1,pre-miR-210,miRNA
+R-BIND (SM) 0070,Targapremir-210,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC=CC(OCCCC(=O)NCCCN=[N+]=[N-])=C1,pre-miR-210,miRNA
+R-BIND (SM) 0070,Targapremir-210,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC=CC(OCCCC(=O)NCCCN=[N+]=[N-])=C1,Topoisomerase,Other
+R-BIND (SM) 0070,Targapremir-210,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC=CC(OCCCC(=O)NCCCN=[N+]=[N-])=C1,,Other
+R-BIND (SM) 0070,Targapremir-210,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC=CC(OCCCC(=O)NCCCN=[N+]=[N-])=C1,,Other
+R-BIND (SM) 0070,Targapremir-210,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC=CC(OCCCC(=O)NCCCN=[N+]=[N-])=C1,,Other
+R-BIND (SM) 0070,Targapremir-210,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC=CC(OCCCC(=O)NCCCN=[N+]=[N-])=C1,,Other
+R-BIND (SM) 0070,Targapremir-210,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC=CC(OCCCC(=O)NCCCN=[N+]=[N-])=C1,,Other
+R-BIND (SM) 0070,Targapremir-210,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC=CC(OCCCC(=O)NCCCN=[N+]=[N-])=C1,,Other
+R-BIND (SM) 0070,Targapremir-210,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC=CC(OCCCC(=O)NCCCN=[N+]=[N-])=C1,,Other
+R-BIND (SM) 0070,Targapremir-210,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC=CC(OCCCC(=O)NCCCN=[N+]=[N-])=C1,,Other
+R-BIND (SM) 0071,Compound 2ab,CC(=O)C1=CC=C(C=C1)C(=O)N[C@@H](CCCC[NH3+])C(=O)N1C[C@@H]([NH3+])C[C@@H]([NH3+])C1,HCV IRES IIa,HCV IRES
+R-BIND (SM) 0071,Compound 2ab,CC(=O)C1=CC=C(C=C1)C(=O)N[C@@H](CCCC[NH3+])C(=O)N1C[C@@H]([NH3+])C[C@@H]([NH3+])C1,HCV IRES IIa,HCV IRES
+R-BIND (SM) 0071,Compound 2ab,CC(=O)C1=CC=C(C=C1)C(=O)N[C@@H](CCCC[NH3+])C(=O)N1C[C@@H]([NH3+])C[C@@H]([NH3+])C1,HCV IRES IIa,HCV IRES
+R-BIND (SM) 0072,NSC260594,C[N+]1=CC=C(NC2=CC=C(NC(=O)C3=CC=C(NC4=CC=[N+](C)C5=CC=C(C=C45)[N+]([O-])=O)C=C3)C=C2)C=C1,SL3 of HIV-1 Ψ Packaging Domain,HIV TAR
+R-BIND (SM) 0072,NSC260594,C[N+]1=CC=C(NC2=CC=C(NC(=O)C3=CC=C(NC4=CC=[N+](C)C5=CC=C(C=C45)[N+]([O-])=O)C=C3)C=C2)C=C1,SL3 of HIV-1 Ψ Packaging Domain,HIV TAR
+R-BIND (SM) 0072,NSC260594,C[N+]1=CC=C(NC2=CC=C(NC(=O)C3=CC=C(NC4=CC=[N+](C)C5=CC=C(C=C45)[N+]([O-])=O)C=C3)C=C2)C=C1,SL3 of HIV-1 Ψ Packaging Domain,HIV TAR
+R-BIND (SM) 0072,NSC260594,C[N+]1=CC=C(NC2=CC=C(NC(=O)C3=CC=C(NC4=CC=[N+](C)C5=CC=C(C=C45)[N+]([O-])=O)C=C3)C=C2)C=C1,SL3 RNA dimer,Other
+R-BIND (SM) 0072,NSC260594,C[N+]1=CC=C(NC2=CC=C(NC(=O)C3=CC=C(NC4=CC=[N+](C)C5=CC=C(C=C45)[N+]([O-])=O)C=C3)C=C2)C=C1,Gag protein:SL3 RNA,Other
+R-BIND (SM) 0072,NSC260594,C[N+]1=CC=C(NC2=CC=C(NC(=O)C3=CC=C(NC4=CC=[N+](C)C5=CC=C(C=C45)[N+]([O-])=O)C=C3)C=C2)C=C1,SL3 RNA,Other
+R-BIND (SM) 0072,NSC260594,C[N+]1=CC=C(NC2=CC=C(NC(=O)C3=CC=C(NC4=CC=[N+](C)C5=CC=C(C=C45)[N+]([O-])=O)C=C3)C=C2)C=C1,Δp1 SL3 RNA,Other
+R-BIND (SM) 0072,NSC260594,C[N+]1=CC=C(NC2=CC=C(NC(=O)C3=CC=C(NC4=CC=[N+](C)C5=CC=C(C=C45)[N+]([O-])=O)C=C3)C=C2)C=C1,,Other
+R-BIND (SM) 0073,p-Terphenyl 6b,COC1=CC(CC[NH3+])=C(C(CC[NH3+])=C1)C1=CC(C)=C(C(C)=C1)C1=CC(CC[NH3+])=C(O)C(CC[NH3+])=C1,HIV-1 RRE IIB,HIV TAR
+R-BIND (SM) 0073,p-Terphenyl 6b,COC1=CC(CC[NH3+])=C(C(CC[NH3+])=C1)C1=CC(C)=C(C(C)=C1)C1=CC(CC[NH3+])=C(O)C(CC[NH3+])=C1,HIV-1 RRE IIB,HIV TAR
+R-BIND (SM) 0073,p-Terphenyl 6b,COC1=CC(CC[NH3+])=C(C(CC[NH3+])=C1)C1=CC(C)=C(C(C)=C1)C1=CC(CC[NH3+])=C(O)C(CC[NH3+])=C1,"HIV-1 RRE IIB, Hairpin Control",HIV TAR
+R-BIND (SM) 0073,p-Terphenyl 6b,COC1=CC(CC[NH3+])=C(C(CC[NH3+])=C1)C1=CC(C)=C(C(C)=C1)C1=CC(CC[NH3+])=C(O)C(CC[NH3+])=C1,HIV-1 RRE IA,HIV TAR
+R-BIND (SM) 0073,p-Terphenyl 6b,COC1=CC(CC[NH3+])=C(C(CC[NH3+])=C1)C1=CC(C)=C(C(C)=C1)C1=CC(CC[NH3+])=C(O)C(CC[NH3+])=C1,DNA Duplex,Other
+R-BIND (SM) 0073,p-Terphenyl 6b,COC1=CC(CC[NH3+])=C(C(CC[NH3+])=C1)C1=CC(C)=C(C(C)=C1)C1=CC(CC[NH3+])=C(O)C(CC[NH3+])=C1,HIV-1 RRE IIB:Rev Peptide,HIV TAR
+R-BIND (SM) 0073,p-Terphenyl 6b,COC1=CC(CC[NH3+])=C(C(CC[NH3+])=C1)C1=CC(C)=C(C(C)=C1)C1=CC(CC[NH3+])=C(O)C(CC[NH3+])=C1,HIV-1 RRE IIB,HIV TAR
+R-BIND (SM) 0074,Phenylquinolone 5,CN1C(=CC(=O)C2=CC=CC=C12)C1=CC=C(OCCC[NH+]2CCCCC2)C(N)=C1,HIV-1 TAR:Tat Peptide,HIV TAR
+R-BIND (SM) 0074,Phenylquinolone 5,CN1C(=CC(=O)C2=CC=CC=C12)C1=CC=C(OCCC[NH+]2CCCCC2)C(N)=C1,,Other
+R-BIND (SM) 0074,Phenylquinolone 5,CN1C(=CC(=O)C2=CC=CC=C12)C1=CC=C(OCCC[NH+]2CCCCC2)C(N)=C1,,Other
+R-BIND (SM) 0075,Phenylquinolone 6,CN1C(=CC(=O)C2=CC=CC=C12)C1=CC=C(OCCCN2CC[NH+](C)CC2)C(N)=C1,HIV-1 TAR:Tat Peptide,HIV TAR
+R-BIND (SM) 0075,Phenylquinolone 6,CN1C(=CC(=O)C2=CC=CC=C12)C1=CC=C(OCCCN2CC[NH+](C)CC2)C(N)=C1,,Other
+R-BIND (SM) 0075,Phenylquinolone 6,CN1C(=CC(=O)C2=CC=CC=C12)C1=CC=C(OCCCN2CC[NH+](C)CC2)C(N)=C1,,Other
+R-BIND (SM) 0076,Guanine Analog 25f,O=C1NC(NC2CCCCC2)=NC2=C1N=CN2,C. difficile guaA riboswitch,Riboswitch
+R-BIND (SM) 0076,Guanine Analog 25f,O=C1NC(NC2CCCCC2)=NC2=C1N=CN2,,Other
+R-BIND (SM) 0077,Lysine Analog 8,[NH3+]CCS(=O)(=O)C[C@H]([NH3+])C([O-])=O,lysC riboswitch,Riboswitch
+R-BIND (SM) 0077,Lysine Analog 8,[NH3+]CCS(=O)(=O)C[C@H]([NH3+])C([O-])=O,lysC riboswitch mutant 1 (M1),Riboswitch
+R-BIND (SM) 0077,Lysine Analog 8,[NH3+]CCS(=O)(=O)C[C@H]([NH3+])C([O-])=O,lysC riboswitch mutant 2 (M2),Riboswitch
+R-BIND (SM) 0077,Lysine Analog 8,[NH3+]CCS(=O)(=O)C[C@H]([NH3+])C([O-])=O,lysC riboswitch mutant 2 (M2),Riboswitch
+R-BIND (SM) 0077,Lysine Analog 8,[NH3+]CCS(=O)(=O)C[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0077,Lysine Analog 8,[NH3+]CCS(=O)(=O)C[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0077,Lysine Analog 8,[NH3+]CCS(=O)(=O)C[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0077,Lysine Analog 8,[NH3+]CCS(=O)(=O)C[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0077,Lysine Analog 8,[NH3+]CCS(=O)(=O)C[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0077,Lysine Analog 8,[NH3+]CCS(=O)(=O)C[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0077,Lysine Analog 8,[NH3+]CCS(=O)(=O)C[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0077,Lysine Analog 8,[NH3+]CCS(=O)(=O)C[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0077,Lysine Analog 8,[NH3+]CCS(=O)(=O)C[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0077,Lysine Analog 8,[NH3+]CCS(=O)(=O)C[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0078,Lysine Analog 9,[NH3+]CCOC[C@H]([NH3+])C([O-])=O,lysC riboswitch,Riboswitch
+R-BIND (SM) 0078,Lysine Analog 9,[NH3+]CCOC[C@H]([NH3+])C([O-])=O,lysC riboswitch mutant 1 (M1),Riboswitch
+R-BIND (SM) 0078,Lysine Analog 9,[NH3+]CCOC[C@H]([NH3+])C([O-])=O,lysC riboswitch mutant 2 (M2),Riboswitch
+R-BIND (SM) 0078,Lysine Analog 9,[NH3+]CCOC[C@H]([NH3+])C([O-])=O,lysC riboswitch mutant 2 (M2),Riboswitch
+R-BIND (SM) 0078,Lysine Analog 9,[NH3+]CCOC[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0078,Lysine Analog 9,[NH3+]CCOC[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0078,Lysine Analog 9,[NH3+]CCOC[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0078,Lysine Analog 9,[NH3+]CCOC[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0078,Lysine Analog 9,[NH3+]CCOC[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0078,Lysine Analog 9,[NH3+]CCOC[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0078,Lysine Analog 9,[NH3+]CCOC[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0078,Lysine Analog 9,[NH3+]CCOC[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0078,Lysine Analog 9,[NH3+]CCOC[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0078,Lysine Analog 9,[NH3+]CCOC[C@H]([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0079,Lysine Analog 11,[NH3+]C\C=C\CC([NH3+])C([O-])=O,lysC riboswitch,Riboswitch
+R-BIND (SM) 0079,Lysine Analog 11,[NH3+]C\C=C\CC([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0079,Lysine Analog 11,[NH3+]C\C=C\CC([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0079,Lysine Analog 11,[NH3+]C\C=C\CC([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0079,Lysine Analog 11,[NH3+]C\C=C\CC([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0079,Lysine Analog 11,[NH3+]C\C=C\CC([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0079,Lysine Analog 11,[NH3+]C\C=C\CC([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0079,Lysine Analog 11,[NH3+]C\C=C\CC([NH3+])C([O-])=O,,Other
+R-BIND (SM) 0080,GQC-05,C[NH+](C)CCOC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,Bcl-X-681 pre-mRNA,mRNA
+R-BIND (SM) 0080,GQC-05,C[NH+](C)CCOC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,Bcl-X-681:Spliceosome,mRNA
+R-BIND (SM) 0080,GQC-05,C[NH+](C)CCOC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,Bcl-X-681 pre-mRNA,mRNA
+R-BIND (SM) 0080,GQC-05,C[NH+](C)CCOC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,Mutated Bcl-X-681 pre-mRNA,mRNA
+R-BIND (SM) 0080,GQC-05,C[NH+](C)CCOC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,Mutated Bcl-X-681 pre-mRNA,mRNA
+R-BIND (SM) 0080,GQC-05,C[NH+](C)CCOC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,Bcl-X-681 pre-mRNA,mRNA
+R-BIND (SM) 0081,EBAB,NC(=[NH2+])C1=CC=C(NCCNC2=CC=C(C=C2)C(N)=[NH2+])C=C1,CUG x 50 repeat RNA,Repeat RNA
+R-BIND (SM) 0081,EBAB,NC(=[NH2+])C1=CC=C(NCCNC2=CC=C(C=C2)C(N)=[NH2+])C=C1,CUG x 50 repeat RNA,Repeat RNA
+R-BIND (SM) 0081,EBAB,NC(=[NH2+])C1=CC=C(NCCNC2=CC=C(C=C2)C(N)=[NH2+])C=C1,CUG x 50 repeat RNA,Repeat RNA
+R-BIND (SM) 0081,EBAB,NC(=[NH2+])C1=CC=C(NCCNC2=CC=C(C=C2)C(N)=[NH2+])C=C1,,Other
+R-BIND (SM) 0082,Pentamidine-Like Compound 2-5,CC(=O)NC1=CC=CC(NC(=O)C2=CSC(NC(=O)C3=CC=C(Cl)C=C3)=N2)=C1,CUG x 12 repeat RNA,Repeat RNA
+R-BIND (SM) 0082,Pentamidine-Like Compound 2-5,CC(=O)NC1=CC=CC(NC(=O)C2=CSC(NC(=O)C3=CC=C(Cl)C=C3)=N2)=C1,CUG x 23 repeat RNA,Repeat RNA
+R-BIND (SM) 0082,Pentamidine-Like Compound 2-5,CC(=O)NC1=CC=CC(NC(=O)C2=CSC(NC(=O)C3=CC=C(Cl)C=C3)=N2)=C1,CUG x 3 repeat RNA,Repeat RNA
+R-BIND (SM) 0083,DB1246,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(O1)C1=CC=C(O1)C1=NC=C(C=C1)C(N)=[NH2+],(G4C2)4 G-quadruplex RNA,G-Quadruplex
+R-BIND (SM) 0083,DB1246,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(O1)C1=CC=C(O1)C1=NC=C(C=C1)C(N)=[NH2+],(G4C2)4 G-quadruplex RNA,G-Quadruplex
+R-BIND (SM) 0083,DB1246,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(O1)C1=CC=C(O1)C1=NC=C(C=C1)C(N)=[NH2+],(G4C2)4 G-quadruplex RNA,G-Quadruplex
+R-BIND (SM) 0083,DB1246,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(O1)C1=CC=C(O1)C1=NC=C(C=C1)C(N)=[NH2+],G4C2 repeat G-quadruplex RNA,G-Quadruplex
+R-BIND (SM) 0083,DB1246,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(O1)C1=CC=C(O1)C1=NC=C(C=C1)C(N)=[NH2+],(G4C2)4 G-quadruplex DNA,G-Quadruplex
+R-BIND (SM) 0083,DB1246,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(O1)C1=CC=C(O1)C1=NC=C(C=C1)C(N)=[NH2+],(G4C2)4 G-quadruplex DNA,G-Quadruplex
+R-BIND (SM) 0083,DB1246,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(O1)C1=CC=C(O1)C1=NC=C(C=C1)C(N)=[NH2+],Antisense (G2C4)4 G-quadruplex RNA,G-Quadruplex
+R-BIND (SM) 0083,DB1246,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(O1)C1=CC=C(O1)C1=NC=C(C=C1)C(N)=[NH2+],Antisense (G2C4)4 G-quadruplex DNA,G-Quadruplex
+R-BIND (SM) 0083,DB1246,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(O1)C1=CC=C(O1)C1=NC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0083,DB1246,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(O1)C1=CC=C(O1)C1=NC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0083,DB1246,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(O1)C1=CC=C(O1)C1=NC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0083,DB1246,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(O1)C1=CC=C(O1)C1=NC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0083,DB1246,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(O1)C1=CC=C(O1)C1=NC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0084,DB1247,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(S1)C1=CC=C(S1)C1=NC=C(C=C1)C(N)=[NH2+],(G4C2)4 G-quadruplex RNA,G-Quadruplex
+R-BIND (SM) 0084,DB1247,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(S1)C1=CC=C(S1)C1=NC=C(C=C1)C(N)=[NH2+],(G4C2)4 G-quadruplex RNA,G-Quadruplex
+R-BIND (SM) 0084,DB1247,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(S1)C1=CC=C(S1)C1=NC=C(C=C1)C(N)=[NH2+],(G4C2)4 G-quadruplex RNA,G-Quadruplex
+R-BIND (SM) 0084,DB1247,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(S1)C1=CC=C(S1)C1=NC=C(C=C1)C(N)=[NH2+],G4C2 repeat G-quadruplex RNA,G-Quadruplex
+R-BIND (SM) 0084,DB1247,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(S1)C1=CC=C(S1)C1=NC=C(C=C1)C(N)=[NH2+],(G4C2)4 G-quadruplex DNA,G-Quadruplex
+R-BIND (SM) 0084,DB1247,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(S1)C1=CC=C(S1)C1=NC=C(C=C1)C(N)=[NH2+],(G4C2)4 G-quadruplex DNA,G-Quadruplex
+R-BIND (SM) 0084,DB1247,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(S1)C1=CC=C(S1)C1=NC=C(C=C1)C(N)=[NH2+],Antisense (G2C4)4 G-quadruplex RNA,G-Quadruplex
+R-BIND (SM) 0084,DB1247,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(S1)C1=CC=C(S1)C1=NC=C(C=C1)C(N)=[NH2+],Antisense (G2C4)4 G-quadruplex DNA,G-Quadruplex
+R-BIND (SM) 0084,DB1247,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(S1)C1=CC=C(S1)C1=NC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0084,DB1247,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(S1)C1=CC=C(S1)C1=NC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0084,DB1247,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(S1)C1=CC=C(S1)C1=NC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0084,DB1247,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(S1)C1=CC=C(S1)C1=NC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0084,DB1247,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(S1)C1=CC=C(S1)C1=NC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0085,DB1273,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C([Se]1)C1=CC=C([Se]1)C1=NC=C(C=C1)C(N)=[NH2+],(G4C2)4 G-quadruplex RNA,G-Quadruplex
+R-BIND (SM) 0085,DB1273,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C([Se]1)C1=CC=C([Se]1)C1=NC=C(C=C1)C(N)=[NH2+],(G4C2)4 G-quadruplex RNA,G-Quadruplex
+R-BIND (SM) 0085,DB1273,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C([Se]1)C1=CC=C([Se]1)C1=NC=C(C=C1)C(N)=[NH2+],(G4C2)4 G-quadruplex RNA,G-Quadruplex
+R-BIND (SM) 0085,DB1273,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C([Se]1)C1=CC=C([Se]1)C1=NC=C(C=C1)C(N)=[NH2+],Antisense (G2C4)4 G-quadruplex DNA,G-Quadruplex
+R-BIND (SM) 0085,DB1273,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C([Se]1)C1=CC=C([Se]1)C1=NC=C(C=C1)C(N)=[NH2+],(G4C2)4 G-quadruplex DNA,G-Quadruplex
+R-BIND (SM) 0085,DB1273,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C([Se]1)C1=CC=C([Se]1)C1=NC=C(C=C1)C(N)=[NH2+],Antisense (G2C4)4 G-quadruplex RNA,G-Quadruplex
+R-BIND (SM) 0085,DB1273,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C([Se]1)C1=CC=C([Se]1)C1=NC=C(C=C1)C(N)=[NH2+],(G4C2)4 G-quadruplex DNA,G-Quadruplex
+R-BIND (SM) 0085,DB1273,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C([Se]1)C1=CC=C([Se]1)C1=NC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0085,DB1273,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C([Se]1)C1=CC=C([Se]1)C1=NC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0085,DB1273,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C([Se]1)C1=CC=C([Se]1)C1=NC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0085,DB1273,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C([Se]1)C1=CC=C([Se]1)C1=NC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0085,DB1273,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C([Se]1)C1=CC=C([Se]1)C1=NC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0085,DB1273,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C([Se]1)C1=CC=C([Se]1)C1=NC=C(C=C1)C(N)=[NH2+],,Other
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5′CAG/3′GAC x 3 repeat RNA,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5′CAG/3′GAC internal loop,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5′CAG/3′GAC x 2 repeat RNA,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5′CAG/3′GAC x 4 repeat RNA,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5′CAG/3′GAC x 5 repeat RNA,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5'CAG/3'GUC x 6 repeat RNA,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5′CAG/3′GAC x 33 repeat RNA,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5′CAG/3′GAC internal loop,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5′CAG/3′GAC internal loop,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5′CAG/3′GAC internal loop,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5′CAG/3′GAC internal loop,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5′CAG/3′GAC internal loop,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5′CAG/3′GAC x 6 repeat RNA,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5′CAG/3′GAC internal loop,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,Duplex DNA,Other
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5'CAG/3'GUC x 6 repeat RNA,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5'CAG/3'GUC x 6 repeat RNA,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5'CAG/3'GUC internal loop,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5'CAG/3'GUC internal loop,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5'CAG/3'GUC internal loop,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5'CAG/3'GUC x 6 repeat RNA,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5′CAG/3′GAC DNA internal loop,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5'CAG/3'GAC x 6 repeat DNA,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5'CAG/3'GUC x 6 DNA,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5′CAG/3′GAC internal loop,Repeat RNA
+R-BIND (SM) 0086,Myricetin,OC1=CC(=CC(O)=C1O)C1OC2=CC([O-])=CC(=O)C2=C(O)C1=O,5′CAG/3′GAC internal loop,Repeat RNA
+R-BIND (SM) 0087,Anthrafurandione 2a,[NH3+]CCNC1=C2OC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,KRAS RNA G-quadruplex utr-z,G-Quadruplex
+R-BIND (SM) 0087,Anthrafurandione 2a,[NH3+]CCNC1=C2OC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,KRAS RNA G-quadruplex utr-1,G-Quadruplex
+R-BIND (SM) 0087,Anthrafurandione 2a,[NH3+]CCNC1=C2OC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,KRAS RNA G-quadruplex utr-c,G-Quadruplex
+R-BIND (SM) 0087,Anthrafurandione 2a,[NH3+]CCNC1=C2OC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,KRAS RNA G-quadruplex utr-1,G-Quadruplex
+R-BIND (SM) 0087,Anthrafurandione 2a,[NH3+]CCNC1=C2OC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,KRAS RNA G-quadruplex utr-z,G-Quadruplex
+R-BIND (SM) 0087,Anthrafurandione 2a,[NH3+]CCNC1=C2OC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,KRAS RNA G-quadruplex utr-4,G-Quadruplex
+R-BIND (SM) 0087,Anthrafurandione 2a,[NH3+]CCNC1=C2OC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,1:1 mixture of DNA strands with/without G-quadruplex motif,G-Quadruplex
+R-BIND (SM) 0087,Anthrafurandione 2a,[NH3+]CCNC1=C2OC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,KRAS promoter DNA G-quadruplex,G-Quadruplex
+R-BIND (SM) 0087,Anthrafurandione 2a,[NH3+]CCNC1=C2OC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,RNA Hairpin,Other
+R-BIND (SM) 0087,Anthrafurandione 2a,[NH3+]CCNC1=C2OC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,KRAS mRNA,mRNA
+R-BIND (SM) 0087,Anthrafurandione 2a,[NH3+]CCNC1=C2OC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,,Other
+R-BIND (SM) 0087,Anthrafurandione 2a,[NH3+]CCNC1=C2OC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,,Other
+R-BIND (SM) 0087,Anthrafurandione 2a,[NH3+]CCNC1=C2OC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,,Other
+R-BIND (SM) 0088,Anthrathiophenedione 2b,[NH3+]CCNC1=C2SC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,KRAS RNA G-quadruplex utr-4,G-Quadruplex
+R-BIND (SM) 0088,Anthrathiophenedione 2b,[NH3+]CCNC1=C2SC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,KRAS RNA G-quadruplex utr-z,G-Quadruplex
+R-BIND (SM) 0088,Anthrathiophenedione 2b,[NH3+]CCNC1=C2SC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,KRAS RNA G-quadruplex utr-1,G-Quadruplex
+R-BIND (SM) 0088,Anthrathiophenedione 2b,[NH3+]CCNC1=C2SC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,KRAS RNA G-quadruplex utr-z,G-Quadruplex
+R-BIND (SM) 0088,Anthrathiophenedione 2b,[NH3+]CCNC1=C2SC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,KRAS RNA G-quadruplex utr-c,G-Quadruplex
+R-BIND (SM) 0088,Anthrathiophenedione 2b,[NH3+]CCNC1=C2SC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,KRAS RNA G-quadruplex utr-1,G-Quadruplex
+R-BIND (SM) 0088,Anthrathiophenedione 2b,[NH3+]CCNC1=C2SC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,RNA Hairpin,Other
+R-BIND (SM) 0088,Anthrathiophenedione 2b,[NH3+]CCNC1=C2SC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,KRAS promoter DNA G-quadruplex,G-Quadruplex
+R-BIND (SM) 0088,Anthrathiophenedione 2b,[NH3+]CCNC1=C2SC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,,Other
+R-BIND (SM) 0088,Anthrathiophenedione 2b,[NH3+]CCNC1=C2SC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=O,,Other
+R-BIND (SM) 0089,Aminosulfonylarylisooxazole 2,CC1=NOC(=C1C)C1=CC=C(C)C(=C1)S(=O)(=O)N1CCC2=CC=CC=C12,,Other
+R-BIND (SM) 0089,Aminosulfonylarylisooxazole 2,CC1=NOC(=C1C)C1=CC=C(C)C(=C1)S(=O)(=O)N1CCC2=CC=CC=C12,,Other
+R-BIND (SM) 0089,Aminosulfonylarylisooxazole 2,CC1=NOC(=C1C)C1=CC=C(C)C(=C1)S(=O)(=O)N1CCC2=CC=CC=C12,,Other
+R-BIND (SM) 0089,Aminosulfonylarylisooxazole 2,CC1=NOC(=C1C)C1=CC=C(C)C(=C1)S(=O)(=O)N1CCC2=CC=CC=C12,,Other
+R-BIND (SM) 0089,Aminosulfonylarylisooxazole 2,CC1=NOC(=C1C)C1=CC=C(C)C(=C1)S(=O)(=O)N1CCC2=CC=CC=C12,,Other
+R-BIND (SM) 0089,Aminosulfonylarylisooxazole 2,CC1=NOC(=C1C)C1=CC=C(C)C(=C1)S(=O)(=O)N1CCC2=CC=CC=C12,,Other
+R-BIND (SM) 0089,Aminosulfonylarylisooxazole 2,CC1=NOC(=C1C)C1=CC=C(C)C(=C1)S(=O)(=O)N1CCC2=CC=CC=C12,,Other
+R-BIND (SM) 0089,Aminosulfonylarylisooxazole 2,CC1=NOC(=C1C)C1=CC=C(C)C(=C1)S(=O)(=O)N1CCC2=CC=CC=C12,,Other
+R-BIND (SM) 0089,Aminosulfonylarylisooxazole 2,CC1=NOC(=C1C)C1=CC=C(C)C(=C1)S(=O)(=O)N1CCC2=CC=CC=C12,,Other
+R-BIND (SM) 0089,Aminosulfonylarylisooxazole 2,CC1=NOC(=C1C)C1=CC=C(C)C(=C1)S(=O)(=O)N1CCC2=CC=CC=C12,,Other
+R-BIND (SM) 0090,Aminosulfonylarylisooxazole 4,COC1=CC=C(C=C1S(=O)(=O)N1CCC2=CC=CC=C2C1)C1=C(C)C(C)=NO1,,Other
+R-BIND (SM) 0090,Aminosulfonylarylisooxazole 4,COC1=CC=C(C=C1S(=O)(=O)N1CCC2=CC=CC=C2C1)C1=C(C)C(C)=NO1,,Other
+R-BIND (SM) 0090,Aminosulfonylarylisooxazole 4,COC1=CC=C(C=C1S(=O)(=O)N1CCC2=CC=CC=C2C1)C1=C(C)C(C)=NO1,,Other
+R-BIND (SM) 0090,Aminosulfonylarylisooxazole 4,COC1=CC=C(C=C1S(=O)(=O)N1CCC2=CC=CC=C2C1)C1=C(C)C(C)=NO1,,Other
+R-BIND (SM) 0090,Aminosulfonylarylisooxazole 4,COC1=CC=C(C=C1S(=O)(=O)N1CCC2=CC=CC=C2C1)C1=C(C)C(C)=NO1,,Other
+R-BIND (SM) 0090,Aminosulfonylarylisooxazole 4,COC1=CC=C(C=C1S(=O)(=O)N1CCC2=CC=CC=C2C1)C1=C(C)C(C)=NO1,,Other
+R-BIND (SM) 0090,Aminosulfonylarylisooxazole 4,COC1=CC=C(C=C1S(=O)(=O)N1CCC2=CC=CC=C2C1)C1=C(C)C(C)=NO1,,Other
+R-BIND (SM) 0090,Aminosulfonylarylisooxazole 4,COC1=CC=C(C=C1S(=O)(=O)N1CCC2=CC=CC=C2C1)C1=C(C)C(C)=NO1,,Other
+R-BIND (SM) 0090,Aminosulfonylarylisooxazole 4,COC1=CC=C(C=C1S(=O)(=O)N1CCC2=CC=CC=C2C1)C1=C(C)C(C)=NO1,,Other
+R-BIND (SM) 0090,Aminosulfonylarylisooxazole 4,COC1=CC=C(C=C1S(=O)(=O)N1CCC2=CC=CC=C2C1)C1=C(C)C(C)=NO1,,Other
+R-BIND (SM) 0091,PK4C9,OC1=CC=C2C(NC=C2C(=O)C2=NC(=CN2)C(=O)C2=CNC3=CC=CC=C23)=C1,Synthetic TSL2 RNA,Other
+R-BIND (SM) 0091,PK4C9,OC1=CC=C2C(NC=C2C(=O)C2=NC(=CN2)C(=O)C2=CNC3=CC=CC=C23)=C1,Synthetic TSL2 RNA,Other
+R-BIND (SM) 0091,PK4C9,OC1=CC=C2C(NC=C2C(=O)C2=NC(=CN2)C(=O)C2=CNC3=CC=CC=C23)=C1,Synthetic TSL2 RNA,Other
+R-BIND (SM) 0091,PK4C9,OC1=CC=C2C(NC=C2C(=O)C2=NC(=CN2)C(=O)C2=CNC3=CC=CC=C23)=C1,Synthetic TSL2 RNA,Other
+R-BIND (SM) 0091,PK4C9,OC1=CC=C2C(NC=C2C(=O)C2=NC(=CN2)C(=O)C2=CNC3=CC=CC=C23)=C1,Synthetic TSL2 RNA,Other
+R-BIND (SM) 0091,PK4C9,OC1=CC=C2C(NC=C2C(=O)C2=NC(=CN2)C(=O)C2=CNC3=CC=CC=C23)=C1,TSL2,Other
+R-BIND (SM) 0091,PK4C9,OC1=CC=C2C(NC=C2C(=O)C2=NC(=CN2)C(=O)C2=CNC3=CC=CC=C23)=C1,TSL2,Other
+R-BIND (SM) 0091,PK4C9,OC1=CC=C2C(NC=C2C(=O)C2=NC(=CN2)C(=O)C2=CNC3=CC=CC=C23)=C1,Unrelated RNA structure,Other
+R-BIND (SM) 0091,PK4C9,OC1=CC=C2C(NC=C2C(=O)C2=NC(=CN2)C(=O)C2=CNC3=CC=CC=C23)=C1,Denatured TSL2 RNA,Other
+R-BIND (SM) 0091,PK4C9,OC1=CC=C2C(NC=C2C(=O)C2=NC(=CN2)C(=O)C2=CNC3=CC=CC=C23)=C1,Mutated TSL2,Other
+R-BIND (SM) 0091,PK4C9,OC1=CC=C2C(NC=C2C(=O)C2=NC(=CN2)C(=O)C2=CNC3=CC=CC=C23)=C1,,Other
+R-BIND (SM) 0091,PK4C9,OC1=CC=C2C(NC=C2C(=O)C2=NC(=CN2)C(=O)C2=CNC3=CC=CC=C23)=C1,,Other
+R-BIND (SM) 0091,PK4C9,OC1=CC=C2C(NC=C2C(=O)C2=NC(=CN2)C(=O)C2=CNC3=CC=CC=C23)=C1,,Other
+R-BIND (SM) 0091,PK4C9,OC1=CC=C2C(NC=C2C(=O)C2=NC(=CN2)C(=O)C2=CNC3=CC=CC=C23)=C1,,Other
+R-BIND (SM) 0091,PK4C9,OC1=CC=C2C(NC=C2C(=O)C2=NC(=CN2)C(=O)C2=CNC3=CC=CC=C23)=C1,,Other
+R-BIND (SM) 0091,PK4C9,OC1=CC=C2C(NC=C2C(=O)C2=NC(=CN2)C(=O)C2=CNC3=CC=CC=C23)=C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,hERG,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0092,Risdiplam,CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CC[NH2+]C2(CC2)C1,,Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,"Oligo-4, an AGGAAG-containing RNA 15-mer",Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,"Oligo-7, an AAGGAG-containing RNA 15-mer",Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,"Oligo-1, a pyrimidine-rich RNA 15-mer",Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,"Oligo-2, an RNA 15-mer",Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,"Oligo-3, a purine-rich RNA 15-mer",Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,"Oligo-5, an RNA 15-mer",Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,"Oligo-6, an RNA 15-mer",Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,FUBP1 protein,Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,"hnRNP A1 protein:Oligo-4, an AGGAAG-containing RNA 15-mer",Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,"hnRNP A1 protein:SMN2 intron 6, exon 7, and intron 7",Ribozyme
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,hnRNP A1 protein,Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,hnRNP A1 protein,Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,FUBP1 protein,Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,FUBP1 protein,Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,FUBP1 protein,Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,KHSRP protein,Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,"FUBP1 protein:Oligo-4, an AGGAAG-containing RNA 15-mer",Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,"FUBP1 protein:SMN2 intron 6, exon 7, and intron 7",Ribozyme
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,"SMN2 intron 6, exon 7, and intron 7",Ribozyme
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,"SMN2 intron 6, exon 7, and intron 7",Ribozyme
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,"SMN2 intron 6, exon 7, and intron 7",Ribozyme
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,,Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,,Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,,Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,,Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,,Other
+R-BIND (SM) 0093,SMN-C2,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,SMN2 pre-mRNA,mRNA
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,hnRNP A1 protein,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,FUBP1 protein,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,KHSRP protein,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,FUBP1 protein:500-nt SMN2 exon 7 RNA,mRNA
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0094,SMN-C3,CC[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C(C)=C1)C1=NN2C=C(C)N=C(C)C2=C1,,Other
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 pre-mRNA,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 E7 Splicing Complex,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 E7 pre-mRNA fragment:U1 snRNP,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 E7 Splicing Complex with RNA fragment A-1C mutant,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 exon 7 (containing ESE2),mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,U1 snRNA:E7 5' SS duplex,Other
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 exon 7 ESE2,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,STRN3 exon 8,Other
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 exon 7 ESE2,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,U1 snRNP : 5' SS,Other
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,U1 snRNA:E7 5' SS duplex,Other
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,U1 snRNA:E7 5' SS duplex:U1-C zinc finger protein,Other
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,A-1G mutant U1 snRNA:E7 5' SS duplex,Other
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,A-1C mutant U1 snRNA:E7 5' SS duplex,Other
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,A-1U mutant U1 snRNA:E7 5' SS duplex,Other
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,U1 snRNA:E7 5' SS duplex:U1-C zinc finger protein,Other
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 exon 7 ESE1,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 exon 7 ESE3,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 exon 7 ESE3 TSL2,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 antisense TSL2,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 intron 7 ISS-N2,Ribozyme
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 intron 7 TSTL4/6,Ribozyme
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 intron 7 c,Ribozyme
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 intron 7 TSL7,Ribozyme
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,"SMN2 ""GA"" motif",mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,"SMN2 ""GU"" motif",mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN-C6 protein targets,Other
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,RNase-sensitive SMN-C6 protein targets,Other
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 mRNA,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,STRN3 mRNA,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,ESE2-dependent SMN-C6 protein targets,Other
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 exon 7 ESE2:hnRNP G RRM peptide,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 exon 7 ESE2:hnRNP G RRM peptide,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 exon 7 ESE2:Tra2-β1 RRM,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 ESE2:hnRNP G RRM peptide,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 ESE2:Tra2-β1 protein,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 ESE2:SRSF9 protein,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 pre-mRNA:U1 snRNA,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,SMN2 pre-mRNA:U1 snRNA:U1-C zinc finger domain,mRNA
+R-BIND (SM) 0095,SMN-C5,C[NH+]1CCN(CC1)C1=CN2C(=O)C=C(N=C2C=C1)C1=CN2C=C(C)N=C2C(F)=C1,U1 snRNA:E7 5' SS duplex,Other
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,TERRA G-quadruplex (TERRA22),G-Quadruplex
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,"TERRA G-quadruplex, 25-fold excess telomeric DNA (HTG22)",G-Quadruplex
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,"TERRA G-quadruplex, 50-fold excess telomeric DNA (HTG22) ",G-Quadruplex
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,TERRA G-quadruplex (TERRA22),G-Quadruplex
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,TERRA G-quadruplex (TERRA22),G-Quadruplex
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,TERRA G-quadruplex (TERRA22),G-Quadruplex
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,TERRA G-quadruplex (TERRA22),G-Quadruplex
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,IRES RNA G-quadruplex,G-Quadruplex
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,TRF2 protein,Other
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,Telomeric DNA G-quadruplex (HTG22),G-Quadruplex
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,Telomeric DNA G-quadruplex (HTG22),G-Quadruplex
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,Telomeric DNA G-quadruplex (HTG22),G-Quadruplex
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,Hairpin DNA,Other
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,Mutant TERRA,Other
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,Telomeric DNA–RNA hybrid G-quadruplex (HQ),G-Quadruplex
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,BCL2 RNA G-quadruplex,mRNA
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,NRAS RNA G-quadruplex,G-Quadruplex
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,Pu22 DNA G-quadruplex,G-Quadruplex
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,Telomeric DNA G-quadruplex (HTG22),G-Quadruplex
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,TRF2:Telomeric duplex DNA (hTELO-dup),Other
+R-BIND (SM) 0096,Quindoline CK1-14,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC1,TRF2:TERRA G-quadruplex (TERRA22):Telomeric duplex DNA (hTELO-dup),G-Quadruplex
+R-BIND (SM) 0097,Topotecan,CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=C1N=C1C=CC(O)=C(C[NH+](C)C)C1=C3)C2=O,U4 5′SL RNA,Other
+R-BIND (SM) 0097,Topotecan,CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=C1N=C1C=CC(O)=C(C[NH+](C)C)C1=C3)C2=O,U4 5′SL RNA,Other
+R-BIND (SM) 0097,Topotecan,CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=C1N=C1C=CC(O)=C(C[NH+](C)C)C1=C3)C2=O,NHP2L1 protein,Other
+R-BIND (SM) 0097,Topotecan,CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=C1N=C1C=CC(O)=C(C[NH+](C)C)C1=C3)C2=O,NHP2L1 protein,Other
+R-BIND (SM) 0097,Topotecan,CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=C1N=C1C=CC(O)=C(C[NH+](C)C)C1=C3)C2=O,NHP2L1 protein,Other
+R-BIND (SM) 0097,Topotecan,CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=C1N=C1C=CC(O)=C(C[NH+](C)C)C1=C3)C2=O,Cy5-U4 5′SL RNA:His-NHP2L1 protein,Other
+R-BIND (SM) 0097,Topotecan,CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=C1N=C1C=CC(O)=C(C[NH+](C)C)C1=C3)C2=O,Cy5-U4 5′SL RNA:His-NHP2L1 protein,Other
+R-BIND (SM) 0097,Topotecan,CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=C1N=C1C=CC(O)=C(C[NH+](C)C)C1=C3)C2=O,U4 5′SL RNA:His-NHP2L1 protein,Other
+R-BIND (SM) 0097,Topotecan,CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=C1N=C1C=CC(O)=C(C[NH+](C)C)C1=C3)C2=O,U4 5′SL RNA:NHP2L1 protein,Other
+R-BIND (SM) 0097,Topotecan,CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=C1N=C1C=CC(O)=C(C[NH+](C)C)C1=C3)C2=O,U4 5′SL RNA:NHP2L1 protein,Other
+R-BIND (SM) 0098,Triptycene 1,[NH3+]CCCC[C@H]([NH3+])C(=O)NC1=CC2=C(C=C1)C1C3=CC=C(NC(=O)[C@@H]([NH3+])CCCC[NH3+])C=C3C2C2=C1C=CC(NC(=O)[C@@H]([NH3+])CCCC[NH3+])=C2,"σ32 mRNA, 5' end",mRNA
+R-BIND (SM) 0098,Triptycene 1,[NH3+]CCCC[C@H]([NH3+])C(=O)NC1=CC2=C(C=C1)C1C3=CC=C(NC(=O)[C@@H]([NH3+])CCCC[NH3+])C=C3C2C2=C1C=CC(NC(=O)[C@@H]([NH3+])CCCC[NH3+])=C2,RpoH σ32mRNA factor,mRNA
+R-BIND (SM) 0098,Triptycene 1,[NH3+]CCCC[C@H]([NH3+])C(=O)NC1=CC2=C(C=C1)C1C3=CC=C(NC(=O)[C@@H]([NH3+])CCCC[NH3+])C=C3C2C2=C1C=CC(NC(=O)[C@@H]([NH3+])CCCC[NH3+])=C2,RpoH σ32mRNA factor,mRNA
+R-BIND (SM) 0098,Triptycene 1,[NH3+]CCCC[C@H]([NH3+])C(=O)NC1=CC2=C(C=C1)C1C3=CC=C(NC(=O)[C@@H]([NH3+])CCCC[NH3+])C=C3C2C2=C1C=CC(NC(=O)[C@@H]([NH3+])CCCC[NH3+])=C2,RpoH σ32mRNA factor,mRNA
+R-BIND (SM) 0098,Triptycene 1,[NH3+]CCCC[C@H]([NH3+])C(=O)NC1=CC2=C(C=C1)C1C3=CC=C(NC(=O)[C@@H]([NH3+])CCCC[NH3+])C=C3C2C2=C1C=CC(NC(=O)[C@@H]([NH3+])CCCC[NH3+])=C2,"σ32 mRNA, 5' end",mRNA
+R-BIND (SM) 0099,Bisamidinium 6,NC1=NC(N)=C(CCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCC2=C(N)N=C(N)[NH+]=C2N)C(N)=N1,r(CCUG)8-MBNL1 complex,Repeat RNA
+R-BIND (SM) 0099,Bisamidinium 6,NC1=NC(N)=C(CCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCC2=C(N)N=C(N)[NH+]=C2N)C(N)=N1,r(CCUG)8-MBNL1 complex,Repeat RNA
+R-BIND (SM) 0099,Bisamidinium 6,NC1=NC(N)=C(CCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCC2=C(N)N=C(N)[NH+]=C2N)C(N)=N1,,Other
+R-BIND (SM) 0100,Bisamidinium 8,NC1=NC(N)=C(CCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCC2=C(N)N=C(N)[NH+]=C2N)C(N)=N1,r(CCUG)8-MBNL1 complex,Repeat RNA
+R-BIND (SM) 0100,Bisamidinium 8,NC1=NC(N)=C(CCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCC2=C(N)N=C(N)[NH+]=C2N)C(N)=N1,r(CCUG)8-MBNL1 complex,Repeat RNA
+R-BIND (SM) 0100,Bisamidinium 8,NC1=NC(N)=C(CCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCC2=C(N)N=C(N)[NH+]=C2N)C(N)=N1,,Other
+R-BIND (SM) 0101,Bisamidinium 10,NC1=NC(N)=C(CCCNC(=[NH2+])C2=CC(=CC=C2)C(=[NH2+])NCCCC2=C(N)N=C(N)[NH+]=C2N)C(N)=N1,r(CCUG)8-MBNL1 complex,Repeat RNA
+R-BIND (SM) 0101,Bisamidinium 10,NC1=NC(N)=C(CCCNC(=[NH2+])C2=CC(=CC=C2)C(=[NH2+])NCCCC2=C(N)N=C(N)[NH+]=C2N)C(N)=N1,r(CCUG)8-MBNL1 complex,Repeat RNA
+R-BIND (SM) 0101,Bisamidinium 10,NC1=NC(N)=C(CCCNC(=[NH2+])C2=CC(=CC=C2)C(=[NH2+])NCCCC2=C(N)N=C(N)[NH+]=C2N)C(N)=N1,,Other
+R-BIND (SM) 0102,Bisamidinium 11,NC1=NC(N)=C(CCCCNC(=[NH2+])C2=CC=CC(=C2)C(=[NH2+])NCCCCC2=C(N)N=C(N)[NH+]=C2N)C(N)=N1,r(CCUG)8-MBNL1 complex,Repeat RNA
+R-BIND (SM) 0102,Bisamidinium 11,NC1=NC(N)=C(CCCCNC(=[NH2+])C2=CC=CC(=C2)C(=[NH2+])NCCCCC2=C(N)N=C(N)[NH+]=C2N)C(N)=N1,r(CCUG)8-MBNL1 complex,Repeat RNA
+R-BIND (SM) 0102,Bisamidinium 11,NC1=NC(N)=C(CCCCNC(=[NH2+])C2=CC=CC(=C2)C(=[NH2+])NCCCCC2=C(N)N=C(N)[NH+]=C2N)C(N)=N1,,Other
+R-BIND (SM) 0103,Acridine 1,CC(=O)NCCC[NH2+]CCC[NH2+]CCCNC(=O)C1=C2[NH+]=C3C=CC=CC3=C(NCCCCNC3=NC(N)=NC(N)=[NH+]3)C2=CC=C1,r(CUG)12,Repeat RNA
+R-BIND (SM) 0103,Acridine 1,CC(=O)NCCC[NH2+]CCC[NH2+]CCCNC(=O)C1=C2[NH+]=C3C=CC=CC3=C(NCCCCNC3=NC(N)=NC(N)=[NH+]3)C2=CC=C1,r(CUG)12-MBNL1 complex; excess tRNA,tRNA
+R-BIND (SM) 0103,Acridine 1,CC(=O)NCCC[NH2+]CCC[NH2+]CCCNC(=O)C1=C2[NH+]=C3C=CC=CC3=C(NCCCCNC3=NC(N)=NC(N)=[NH+]3)C2=CC=C1,r(CUG)12-MBNL1 complex,Repeat RNA
+R-BIND (SM) 0103,Acridine 1,CC(=O)NCCC[NH2+]CCC[NH2+]CCCNC(=O)C1=C2[NH+]=C3C=CC=CC3=C(NCCCCNC3=NC(N)=NC(N)=[NH+]3)C2=CC=C1,,Other
+R-BIND (SM) 0104,Acridine 5,NC1=NC(N)=[NH+]C(NCCCCNC2=C3C=CC=CC3=[NH+]C3=C(C=CC=C23)C(=O)NCCN(CC[NH3+])CC[NH3+])=N1,d(CTG/CAG)74,Repeat RNA
+R-BIND (SM) 0104,Acridine 5,NC1=NC(N)=[NH+]C(NCCCCNC2=C3C=CC=CC3=[NH+]C3=C(C=CC=C23)C(=O)NCCN(CC[NH3+])CC[NH3+])=N1,r(CUG)16,Repeat RNA
+R-BIND (SM) 0104,Acridine 5,NC1=NC(N)=[NH+]C(NCCCCNC2=C3C=CC=CC3=[NH+]C3=C(C=CC=C23)C(=O)NCCN(CC[NH3+])CC[NH3+])=N1,r(CUG)4,Repeat RNA
+R-BIND (SM) 0104,,NC1=NC(N)=[NH+]C(NCCCCNC2=C3C=CC=CC3=[NH+]C3=C(C=CC=C23)C(=O)NCCN(CC[NH3+])CC[NH3+])=N1,r(CCUG)8,Repeat RNA
+R-BIND (SM) 0104,,NC1=NC(N)=[NH+]C(NCCCCNC2=C3C=CC=CC3=[NH+]C3=C(C=CC=C23)C(=O)NCCN(CC[NH3+])CC[NH3+])=N1,HIV-1 FSS RNA,HIV TAR
+R-BIND (SM) 0105,Acridine 6,NC1=NC(N)=[NH+]C(NCCCCNC2=C3C=CC=CC3=[NH+]C3=C(C=CC=C23)C(=O)NCCN(CC[NH3+])CCNC(=O)CC2=CNC=N2)=N1,(CTG*CAG)74,Repeat RNA
+R-BIND (SM) 0105,Acridine 6,NC1=NC(N)=[NH+]C(NCCCCNC2=C3C=CC=CC3=[NH+]C3=C(C=CC=C23)C(=O)NCCN(CC[NH3+])CCNC(=O)CC2=CNC=N2)=N1,r(CUG)16,Repeat RNA
+R-BIND (SM) 0105,Acridine 6,NC1=NC(N)=[NH+]C(NCCCCNC2=C3C=CC=CC3=[NH+]C3=C(C=CC=C23)C(=O)NCCN(CC[NH3+])CCNC(=O)CC2=CNC=N2)=N1,cTNT32,Other
+R-BIND (SM) 0105,Acridine 6,NC1=NC(N)=[NH+]C(NCCCCNC2=C3C=CC=CC3=[NH+]C3=C(C=CC=C23)C(=O)NCCN(CC[NH3+])CCNC(=O)CC2=CNC=N2)=N1,r(CCUG)8,Repeat RNA
+R-BIND (SM) 0105,Acridine 6,NC1=NC(N)=[NH+]C(NCCCCNC2=C3C=CC=CC3=[NH+]C3=C(C=CC=C23)C(=O)NCCN(CC[NH3+])CCNC(=O)CC2=CNC=N2)=N1,HIV-1 FSS RNA,HIV TAR
+R-BIND (SM) 0106,Bisamidinium 2,NC1=NC(N)=[NH+]C(NCCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCNC2=[NH+]C(N)=NC(N)=N2)=N1,(CTG/CAG)74,Repeat RNA
+R-BIND (SM) 0106,Bisamidinium 2,NC1=NC(N)=[NH+]C(NCCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCNC2=[NH+]C(N)=NC(N)=N2)=N1,r(CUG)16,Repeat RNA
+R-BIND (SM) 0106,Bisamidinium 2,NC1=NC(N)=[NH+]C(NCCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCNC2=[NH+]C(N)=NC(N)=N2)=N1,r(CUG)12,Repeat RNA
+R-BIND (SM) 0106,Bisamidinium 2,NC1=NC(N)=[NH+]C(NCCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCNC2=[NH+]C(N)=NC(N)=N2)=N1,r(CUG)4,Repeat RNA
+R-BIND (SM) 0106,Bisamidinium 2,NC1=NC(N)=[NH+]C(NCCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCNC2=[NH+]C(N)=NC(N)=N2)=N1,[r(CUG)6]2,Repeat RNA
+R-BIND (SM) 0106,Bisamidinium 2,NC1=NC(N)=[NH+]C(NCCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCNC2=[NH+]C(N)=NC(N)=N2)=N1,HIV-1 FSS RNA,HIV TAR
+R-BIND (SM) 0106,Bisamidinium 2,NC1=NC(N)=[NH+]C(NCCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCNC2=[NH+]C(N)=NC(N)=N2)=N1,cTNT,Other
+R-BIND (SM) 0106,Bisamidinium 2,NC1=NC(N)=[NH+]C(NCCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCNC2=[NH+]C(N)=NC(N)=N2)=N1,GST-MBNL1,Other
+R-BIND (SM) 0106,Bisamidinium 2,NC1=NC(N)=[NH+]C(NCCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCNC2=[NH+]C(N)=NC(N)=N2)=N1,tRNA,tRNA
+R-BIND (SM) 0106,Bisamidinium 2,NC1=NC(N)=[NH+]C(NCCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCNC2=[NH+]C(N)=NC(N)=N2)=N1,r(CCUG)8,Repeat RNA
+R-BIND (SM) 0106,Bisamidinium 2,NC1=NC(N)=[NH+]C(NCCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCNC2=[NH+]C(N)=NC(N)=N2)=N1,d(CAG)12,Repeat RNA
+R-BIND (SM) 0106,Bisamidinium 2,NC1=NC(N)=[NH+]C(NCCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCNC2=[NH+]C(N)=NC(N)=N2)=N1,d(CTG/CAG)12,Repeat RNA
+R-BIND (SM) 0106,Bisamidinium 2,NC1=NC(N)=[NH+]C(NCCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCNC2=[NH+]C(N)=NC(N)=N2)=N1,d(CTG)12,Other
+R-BIND (SM) 0106,Bisamidinium 2,NC1=NC(N)=[NH+]C(NCCCCNC(=[NH2+])C2=CC=C(C=C2)C(=[NH2+])NCCCCNC2=[NH+]C(N)=NC(N)=N2)=N1,r(CUG)12-MBNL1,Repeat RNA
+R-BIND (SM) 0107,Ethidium-Arg Conjugate 17,C[N+]1=C(C2=CC=CC(=C2)C(=O)NCCCCCC(=O)NCCC(=O)NC(CCCNC(N)=[NH2+])C([O-])=O)C2=CC(N)=CC=C2C2=CC=C(N)C=C12,HIV-1 TAR RNA,HIV TAR
+R-BIND (SM) 0107,Ethidium-Arg Conjugate 17,C[N+]1=C(C2=CC=CC(=C2)C(=O)NCCCCCC(=O)NCCC(=O)NC(CCCNC(N)=[NH2+])C([O-])=O)C2=CC(N)=CC=C2C2=CC=C(N)C=C12,,Other
+R-BIND (SM) 0107,Ethidium-Arg Conjugate 17,C[N+]1=C(C2=CC=CC(=C2)C(=O)NCCCCCC(=O)NCCC(=O)NC(CCCNC(N)=[NH2+])C([O-])=O)C2=CC(N)=CC=C2C2=CC=C(N)C=C12,,Other
+R-BIND (SM) 0107,Ethidium-Arg Conjugate 17,C[N+]1=C(C2=CC=CC(=C2)C(=O)NCCCCCC(=O)NCCC(=O)NC(CCCNC(N)=[NH2+])C([O-])=O)C2=CC(N)=CC=C2C2=CC=C(N)C=C12,,Other
+R-BIND (SM) 0107,Ethidium-Arg Conjugate 17,C[N+]1=C(C2=CC=CC(=C2)C(=O)NCCCCCC(=O)NCCC(=O)NC(CCCNC(N)=[NH2+])C([O-])=O)C2=CC(N)=CC=C2C2=CC=C(N)C=C12,,Other
+R-BIND (SM) 0107,Ethidium-Arg Conjugate 17,C[N+]1=C(C2=CC=CC(=C2)C(=O)NCCCCCC(=O)NCCC(=O)NC(CCCNC(N)=[NH2+])C([O-])=O)C2=CC(N)=CC=C2C2=CC=C(N)C=C12,,Other
+R-BIND (SM) 0108,Ethidium-Arg Conjugate 20,COC(=O)C(CCCNC(N)=[NH2+])NC(=O)CCNC(=O)CCCCCNC(=O)C1=CC(=CC=C1)C1=[N+](C)C2=CC(N)=CC=C2C2=CC=C(N)C=C12,HIV-1 TAR RNA,HIV TAR
+R-BIND (SM) 0108,Ethidium-Arg Conjugate 20,COC(=O)C(CCCNC(N)=[NH2+])NC(=O)CCNC(=O)CCCCCNC(=O)C1=CC(=CC=C1)C1=[N+](C)C2=CC(N)=CC=C2C2=CC=C(N)C=C12,HIV-1 TAR RNA,HIV TAR
+R-BIND (SM) 0108,Ethidium-Arg Conjugate 20,COC(=O)C(CCCNC(N)=[NH2+])NC(=O)CCNC(=O)CCCCCNC(=O)C1=CC(=CC=C1)C1=[N+](C)C2=CC(N)=CC=C2C2=CC=C(N)C=C12,HIV-1 TAR RNA,HIV TAR
+R-BIND (SM) 0108,Ethidium-Arg Conjugate 20,COC(=O)C(CCCNC(N)=[NH2+])NC(=O)CCNC(=O)CCCCCNC(=O)C1=CC(=CC=C1)C1=[N+](C)C2=CC(N)=CC=C2C2=CC=C(N)C=C12,,Other
+R-BIND (SM) 0108,Ethidium-Arg Conjugate 20,COC(=O)C(CCCNC(N)=[NH2+])NC(=O)CCNC(=O)CCCCCNC(=O)C1=CC(=CC=C1)C1=[N+](C)C2=CC(N)=CC=C2C2=CC=C(N)C=C12,,Other
+R-BIND (SM) 0108,Ethidium-Arg Conjugate 20,COC(=O)C(CCCNC(N)=[NH2+])NC(=O)CCNC(=O)CCCCCNC(=O)C1=CC(=CC=C1)C1=[N+](C)C2=CC(N)=CC=C2C2=CC=C(N)C=C12,,Other
+R-BIND (SM) 0109,S-Amino Acid Conjugate 13b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)C(CNC(=O)[C@@H]([NH3+])CCCC[NH3+])NC(=O)[C@@H]([NH3+])CCCC[NH3+])=CC=C1,HIV-1 TAR RNA,HIV TAR
+R-BIND (SM) 0109,S-Amino Acid Conjugate 13b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)C(CNC(=O)[C@@H]([NH3+])CCCC[NH3+])NC(=O)[C@@H]([NH3+])CCCC[NH3+])=CC=C1,HIV-1 TAR RNA; 100-fold excess tRNA,tRNA
+R-BIND (SM) 0109,S-Amino Acid Conjugate 13b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)C(CNC(=O)[C@@H]([NH3+])CCCC[NH3+])NC(=O)[C@@H]([NH3+])CCCC[NH3+])=CC=C1,HIV-1 TAR RNA; 100-fold excess dsDNA,HIV TAR
+R-BIND (SM) 0109,S-Amino Acid Conjugate 13b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)C(CNC(=O)[C@@H]([NH3+])CCCC[NH3+])NC(=O)[C@@H]([NH3+])CCCC[NH3+])=CC=C1,HIV-1 TAR RNA,HIV TAR
+R-BIND (SM) 0109,S-Amino Acid Conjugate 13b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)C(CNC(=O)[C@@H]([NH3+])CCCC[NH3+])NC(=O)[C@@H]([NH3+])CCCC[NH3+])=CC=C1,HIV-1 TAR RNA,HIV TAR
+R-BIND (SM) 0110,S-Amino Acid Conjugate 14b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)C(CNC(=O)[C@@H]([NH3+])CCCNC(N)=[NH2+])NC(=O)[C@@H]([NH3+])CCCNC(N)=[NH2+])=CC=C1,HIV-1 TAR RNA,HIV TAR
+R-BIND (SM) 0110,S-Amino Acid Conjugate 14b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)C(CNC(=O)[C@@H]([NH3+])CCCNC(N)=[NH2+])NC(=O)[C@@H]([NH3+])CCCNC(N)=[NH2+])=CC=C1,HIV-1 TAR RNA; 100-fold excess tRNA,tRNA
+R-BIND (SM) 0110,S-Amino Acid Conjugate 14b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)C(CNC(=O)[C@@H]([NH3+])CCCNC(N)=[NH2+])NC(=O)[C@@H]([NH3+])CCCNC(N)=[NH2+])=CC=C1,HIV-1 TAR RNA; 100-fold excess dsDNA,HIV TAR
+R-BIND (SM) 0110,S-Amino Acid Conjugate 14b,CC(=O)NC1=NC(=CS1)C1=CC(NC(=O)C(CNC(=O)[C@@H]([NH3+])CCCNC(N)=[NH2+])NC(=O)[C@@H]([NH3+])CCCNC(N)=[NH2+])=CC=C1,HIV-1 TAR RNA,HIV TAR
+R-BIND (SM) 0111,"Pyrido[2,3-d]pyrimidine 1-3",CC1CC2=C(NC1=O)N=C(NCC1=CC=C(CNC3=NC(N)=C4CC(C)C(=O)NC4=[NH+]3)C=C1)N=C2N,CUG x 12 repeat RNA,Repeat RNA
+R-BIND (SM) 0111,"Pyrido[2,3-d]pyrimidine 1-3",CC1CC2=C(NC1=O)N=C(NCC1=CC=C(CNC3=NC(N)=C4CC(C)C(=O)NC4=[NH+]3)C=C1)N=C2N,CUG x 23 repeat RNA,Repeat RNA
+R-BIND (SM) 0111,"Pyrido[2,3-d]pyrimidine 1-3",CC1CC2=C(NC1=O)N=C(NCC1=CC=C(CNC3=NC(N)=C4CC(C)C(=O)NC4=[NH+]3)C=C1)N=C2N,CUG x 3 repeat RNA,Repeat RNA
+R-BIND (SM) 0112,Daunorubicin Hydrochloride,COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H]([NH3+])[C@H](O)[C@H](C)O5)C4=C3O)C(C)=O)C(=O)C2=CC=C1,r(CUG)12,Repeat RNA
+R-BIND (SM) 0112,Daunorubicin Hydrochloride,COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H]([NH3+])[C@H](O)[C@H](C)O5)C4=C3O)C(C)=O)C(=O)C2=CC=C1,r(CUG)26-MBNL1 complex,Repeat RNA
+R-BIND (SM) 0112,Daunorubicin Hydrochloride,COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H]([NH3+])[C@H](O)[C@H](C)O5)C4=C3O)C(C)=O)C(=O)C2=CC=C1,r(CUG)10-MBNL1 complex,Repeat RNA
+R-BIND (SM) 0112,Daunorubicin Hydrochloride,COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H]([NH3+])[C@H](O)[C@H](C)O5)C4=C3O)C(C)=O)C(=O)C2=CC=C1,,Other
+R-BIND (SM) 0112,Daunorubicin Hydrochloride,COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H]([NH3+])[C@H](O)[C@H](C)O5)C4=C3O)C(C)=O)C(=O)C2=CC=C1,,Other
+R-BIND (SM) 0112,Daunorubicin Hydrochloride,COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H]([NH3+])[C@H](O)[C@H](C)O5)C4=C3O)C(C)=O)C(=O)C2=CC=C1,,Other
+R-BIND (SM) 0112,Daunorubicin Hydrochloride,COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H]([NH3+])[C@H](O)[C@H](C)O5)C4=C3O)C(C)=O)C(=O)C2=CC=C1,,Other
+R-BIND (SM) 0112,Daunorubicin Hydrochloride,COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H]([NH3+])[C@H](O)[C@H](C)O5)C4=C3O)C(C)=O)C(=O)C2=CC=C1,,Other
+R-BIND (SM) 0112,Daunorubicin Hydrochloride,COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H]([NH3+])[C@H](O)[C@H](C)O5)C4=C3O)C(C)=O)C(=O)C2=CC=C1,,Other
+R-BIND (SM) 0112,Daunorubicin Hydrochloride,COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H]([NH3+])[C@H](O)[C@H](C)O5)C4=C3O)C(C)=O)C(=O)C2=CC=C1,,Other
+R-BIND (SM) 0112,Daunorubicin Hydrochloride,COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H]([NH3+])[C@H](O)[C@H](C)O5)C4=C3O)C(C)=O)C(=O)C2=CC=C1,,Other
+R-BIND (SM) 0113,Compound 5,COC1=CC=C(C=C1)C1=C[NH+]=C(NCC2=CC=CC(OC)=C2)N1C,Bimolecular triplex construct (ENE-tail MALAT1 triplex),Other
+R-BIND (SM) 0113,Compound 5,COC1=CC=C(C=C1)C1=C[NH+]=C(NCC2=CC=CC(OC)=C2)N1C,Malat1 minimal triple helix motif,Other
+R-BIND (SM) 0113,Compound 5,COC1=CC=C(C=C1)C1=C[NH+]=C(NCC2=CC=CC(OC)=C2)N1C,Bimolecular triplex construct (ENE-tail MALAT1 triplex),Other
+R-BIND (SM) 0113,Compound 5,COC1=CC=C(C=C1)C1=C[NH+]=C(NCC2=CC=CC(OC)=C2)N1C,Bimolecular triplex construct (ENE-tail MALAT1 triplex),Other
+R-BIND (SM) 0113,Compound 5,COC1=CC=C(C=C1)C1=C[NH+]=C(NCC2=CC=CC(OC)=C2)N1C,Bimolecular triplex construct (ENE-tail MALAT1 triplex),Other
+R-BIND (SM) 0113,Compound 5,COC1=CC=C(C=C1)C1=C[NH+]=C(NCC2=CC=CC(OC)=C2)N1C,Unimolecular MALAT1 triple helix,Other
+R-BIND (SM) 0113,Compound 5,COC1=CC=C(C=C1)C1=C[NH+]=C(NCC2=CC=CC(OC)=C2)N1C,Unimolecular MALAT1 triple helix construct,Other
+R-BIND (SM) 0113,Compound 5,COC1=CC=C(C=C1)C1=C[NH+]=C(NCC2=CC=CC(OC)=C2)N1C,,Other
+R-BIND (SM) 0113,Compound 5,COC1=CC=C(C=C1)C1=C[NH+]=C(NCC2=CC=CC(OC)=C2)N1C,,Other
+R-BIND (SM) 0113,Compound 5,COC1=CC=C(C=C1)C1=C[NH+]=C(NCC2=CC=CC(OC)=C2)N1C,,Other
+R-BIND (SM) 0113,Compound 5,COC1=CC=C(C=C1)C1=C[NH+]=C(NCC2=CC=CC(OC)=C2)N1C,,Other
+R-BIND (SM) 0113,Compound 5,COC1=CC=C(C=C1)C1=C[NH+]=C(NCC2=CC=CC(OC)=C2)N1C,,Other
+R-BIND (SM) 0114,Compound 16,CC1=CC=C2NC(=NC2=C1)C1=C(N)N(CC1=O)C1CCCC1,Bimolecular triplex construct (ENE-tail MALAT1 triplex),Other
+R-BIND (SM) 0114,Compound 16,CC1=CC=C2NC(=NC2=C1)C1=C(N)N(CC1=O)C1CCCC1,Malat1 minimal triple helix motif,Other
+R-BIND (SM) 0114,Compound 16,CC1=CC=C2NC(=NC2=C1)C1=C(N)N(CC1=O)C1CCCC1,Bimolecular triplex construct (ENE-tail MALAT1 triplex),Other
+R-BIND (SM) 0114,Compound 16,CC1=CC=C2NC(=NC2=C1)C1=C(N)N(CC1=O)C1CCCC1,Bimolecular triplex construct (ENE-tail MALAT1 triplex),Other
+R-BIND (SM) 0114,Compound 16,CC1=CC=C2NC(=NC2=C1)C1=C(N)N(CC1=O)C1CCCC1,Unimolecular MALAT1 triple helix,Other
+R-BIND (SM) 0115,1a,C[NH+](C)CCOC1=C2C=CC=CC2=C2C3=CC=CC=C3C(=O)C2=C1,HIV-1 RRE IIB ,HIV TAR
+R-BIND (SM) 0115,1a,C[NH+](C)CCOC1=C2C=CC=CC2=C2C3=CC=CC=C3C(=O)C2=C1,HIV-1 RRE IIB + 100-fold excess tRNA,tRNA
+R-BIND (SM) 0115,1a,C[NH+](C)CCOC1=C2C=CC=CC2=C2C3=CC=CC=C3C(=O)C2=C1,HIV-1 RRE IIB + 100-fold excess dsDNA,HIV TAR
+R-BIND (SM) 0115,1a,C[NH+](C)CCOC1=C2C=CC=CC2=C2C3=CC=CC=C3C(=O)C2=C1,HIV-1 RRE IIB ,HIV TAR
+R-BIND (SM) 0115,1a,C[NH+](C)CCOC1=C2C=CC=CC2=C2C3=CC=CC=C3C(=O)C2=C1,HIV-1 RRE IIB:Rev34-50 complex,HIV TAR
+R-BIND (SM) 0115,1a,C[NH+](C)CCOC1=C2C=CC=CC2=C2C3=CC=CC=C3C(=O)C2=C1,HIV-1 RRE IIB:Rev34-50 complex,HIV TAR
+R-BIND (SM) 0116,1b,OC(C[NH2+]CC1CCCO1)CN1C2=C(C=C(Br)C=C2)C2=C1C=CC(Br)=C2,HIV-1 RRE IIB + 100-fold excess dsDNA,HIV TAR
+R-BIND (SM) 0116,1b,OC(C[NH2+]CC1CCCO1)CN1C2=C(C=C(Br)C=C2)C2=C1C=CC(Br)=C2,HIV-1 RRE IIB ,HIV TAR
+R-BIND (SM) 0116,1b,OC(C[NH2+]CC1CCCO1)CN1C2=C(C=C(Br)C=C2)C2=C1C=CC(Br)=C2,HIV-1 RRE IIB + 100-fold excess tRNA,tRNA
+R-BIND (SM) 0116,1b,OC(C[NH2+]CC1CCCO1)CN1C2=C(C=C(Br)C=C2)C2=C1C=CC(Br)=C2,HIV-1 RRE IIB ,HIV TAR
+R-BIND (SM) 0116,1b,OC(C[NH2+]CC1CCCO1)CN1C2=C(C=C(Br)C=C2)C2=C1C=CC(Br)=C2,HIV-1 RRE IIB:Rev34-50 complex,HIV TAR
+R-BIND (SM) 0116,1b,OC(C[NH2+]CC1CCCO1)CN1C2=C(C=C(Br)C=C2)C2=C1C=CC(Br)=C2,HIV-1 RRE IIB:Rev34-50 complex,HIV TAR
+R-BIND (SM) 0116,1b,OC(C[NH2+]CC1CCCO1)CN1C2=C(C=C(Br)C=C2)C2=C1C=CC(Br)=C2,HIV-1 RRE:Rev complex,HIV TAR
+R-BIND (SM) 0117,2a,FC1=C(F)C(SC2=CC=C(Cl)C=C2)=C(F)C(=N1)N1CC[NH2+]CC1,HIV-1 RRE IIB ,HIV TAR
+R-BIND (SM) 0117,2a,FC1=C(F)C(SC2=CC=C(Cl)C=C2)=C(F)C(=N1)N1CC[NH2+]CC1,HIV-1 RRE IIB + 100-fold excess tRNA,tRNA
+R-BIND (SM) 0117,2a,FC1=C(F)C(SC2=CC=C(Cl)C=C2)=C(F)C(=N1)N1CC[NH2+]CC1,HIV-1 RRE IIB + 100-fold excess dsDNA,HIV TAR
+R-BIND (SM) 0117,2a,FC1=C(F)C(SC2=CC=C(Cl)C=C2)=C(F)C(=N1)N1CC[NH2+]CC1,HIV-1 RRE IIB ,HIV TAR
+R-BIND (SM) 0117,2a,FC1=C(F)C(SC2=CC=C(Cl)C=C2)=C(F)C(=N1)N1CC[NH2+]CC1,HIV-1 RRE IIB:Rev34-50 complex,HIV TAR
+R-BIND (SM) 0117,2a,FC1=C(F)C(SC2=CC=C(Cl)C=C2)=C(F)C(=N1)N1CC[NH2+]CC1,HIV-1 RRE IIB:Rev34-50 complex,HIV TAR
+R-BIND (SM) 0118,Compound 2,CC[NH+](CC)CC[N+]1=CC2=C(C)C3=C(NC4=C3C=C(O)C=C4)C(C)=C2C=C1,r(G4C2)8,G-Quadruplex
+R-BIND (SM) 0118,Compound 2,CC[NH+](CC)CC[N+]1=CC2=C(C)C3=C(NC4=C3C=C(O)C=C4)C(C)=C2C=C1,r(G4C2)8,G-Quadruplex
+R-BIND (SM) 0119,Compound 3,CC1=C2C=C[N+](C)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,r(G4C2)8,G-Quadruplex
+R-BIND (SM) 0119,Compound 3,CC1=C2C=C[N+](C)=CC2=C(C)C2=C1NC1=C2C=C(O)C=C1,r(G4C2)8,G-Quadruplex
+R-BIND (SM) 0120,Compound 4,COC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,r(G2C4)8 (antisense),Other
+R-BIND (SM) 0120,Compound 4,COC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,TERRA G-quadruplex r(UAG3(U2AG3)3),G-Quadruplex
+R-BIND (SM) 0120,Compound 4,COC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,r(UG3C2)8,Other
+R-BIND (SM) 0120,Compound 4,COC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,Fully base paired RNA [r(G2C2)8],Other
+R-BIND (SM) 0120,Compound 4,COC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,d(G4C2)8 DNA,G-Quadruplex
+R-BIND (SM) 0120,Compound 4,COC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,r(G4C2)8,G-Quadruplex
+R-BIND (SM) 0120,Compound 4,COC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,r(G4C2)8,G-Quadruplex
+R-BIND (SM) 0120,Compound 4,COC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,r(G4C2)8,G-Quadruplex
+R-BIND (SM) 0120,Compound 4,COC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,r(G4C2)4,G-Quadruplex
+R-BIND (SM) 0120,Compound 4,COC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,r(G4C2)8,G-Quadruplex
+R-BIND (SM) 0120,Compound 4,COC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,r(G4C2)2,G-Quadruplex
+R-BIND (SM) 0120,Compound 4,COC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,r(G4C2)4,G-Quadruplex
+R-BIND (SM) 0120,Compound 4,COC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,r(G4C2)4,G-Quadruplex
+R-BIND (SM) 0120,Compound 4,COC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,r(G4C2)4,G-Quadruplex
+R-BIND (SM) 0120,Compound 4,COC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,Duplex stem [r(GUCGCCGGGGCCGGGCGAC)2],Repeat RNA
+R-BIND (SM) 0120,Compound 4,COC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,Duplex stem [r(GUCGCCGGGGCCGGGCGAC)2],Repeat RNA
+R-BIND (SM) 0120,Compound 4,COC1=CC2=C(NC3=C2C(C)=C2C=NC=CC2=C3C)C=C1,r(G4C2)8:hnRNP H complex,G-Quadruplex
+R-BIND (SM) 0121,Compound 18 (intronistat A),CC(=O)C1=CC=C(C=C1)C1=CC=C2OC(=CC2=C1)C(=O)C1=CC(O)=C([O-])C(O)=C1,ai5γ group II intron ribozyme,Ribozyme
+R-BIND (SM) 0121,Compound 18 (intronistat A),CC(=O)C1=CC=C(C=C1)C1=CC=C2OC(=CC2=C1)C(=O)C1=CC(O)=C([O-])C(O)=C1,ai5γ group II intron ribozyme,Ribozyme
+R-BIND (SM) 0121,Compound 18 (intronistat A),CC(=O)C1=CC=C(C=C1)C1=CC=C2OC(=CC2=C1)C(=O)C1=CC(O)=C([O-])C(O)=C1,Full length ai5γ group II intron ribozyme,Ribozyme
+R-BIND (SM) 0121,Compound 18 (intronistat A),CC(=O)C1=CC=C(C=C1)C1=CC=C2OC(=CC2=C1)C(=O)C1=CC(O)=C([O-])C(O)=C1,,Other
+R-BIND (SM) 0121,Compound 18 (intronistat A),CC(=O)C1=CC=C(C=C1)C1=CC=C2OC(=CC2=C1)C(=O)C1=CC(O)=C([O-])C(O)=C1,,Other
+R-BIND (SM) 0122,Compound 19 (intronistat B),OC1=CC(=CC(O)=C1[O-])C(=O)C1=CC2=CC(=CC=C2O1)C(=O)NCC[NH+]1CCCC1,Full length ai5γ group II intron ribozyme + 1000-fold excess D1,Ribozyme
+R-BIND (SM) 0122,Compound 19 (intronistat B),OC1=CC(=CC(O)=C1[O-])C(=O)C1=CC2=CC(=CC=C2O1)C(=O)NCC[NH+]1CCCC1,ai5γ group II intron ribozyme,Ribozyme
+R-BIND (SM) 0122,Compound 19 (intronistat B),OC1=CC(=CC(O)=C1[O-])C(=O)C1=CC2=CC(=CC=C2O1)C(=O)NCC[NH+]1CCCC1,Full length ai5γ group II intron ribozyme,Ribozyme
+R-BIND (SM) 0122,Compound 19 (intronistat B),OC1=CC(=CC(O)=C1[O-])C(=O)C1=CC2=CC(=CC=C2O1)C(=O)NCC[NH+]1CCCC1,ai5γ group II intron ribozyme,Ribozyme
+R-BIND (SM) 0122,Compound 19 (intronistat B),OC1=CC(=CC(O)=C1[O-])C(=O)C1=CC2=CC(=CC=C2O1)C(=O)NCC[NH+]1CCCC1,Full length ai5γ group II intron ribozyme + 1000-fold excess D3,Ribozyme
+R-BIND (SM) 0122,Compound 19 (intronistat B),OC1=CC(=CC(O)=C1[O-])C(=O)C1=CC2=CC(=CC=C2O1)C(=O)NCC[NH+]1CCCC1,Full length ai5γ group II intron ribozyme + 1000-fold excess D56,Ribozyme
+R-BIND (SM) 0122,Compound 19 (intronistat B),OC1=CC(=CC(O)=C1[O-])C(=O)C1=CC2=CC(=CC=C2O1)C(=O)NCC[NH+]1CCCC1,Full length ai5γ group II intron ribozyme + 1000-fold excess yeast tRNA Phe,tRNA
+R-BIND (SM) 0122,Compound 19 (intronistat B),OC1=CC(=CC(O)=C1[O-])C(=O)C1=CC2=CC(=CC=C2O1)C(=O)NCC[NH+]1CCCC1,Full length ai5γ group II intron ribozyme + 1000-fold excess U2-U6 RNA oligo,Ribozyme
+R-BIND (SM) 0122,Compound 19 (intronistat B),OC1=CC(=CC(O)=C1[O-])C(=O)C1=CC2=CC(=CC=C2O1)C(=O)NCC[NH+]1CCCC1,Full length ai5γ group II intron ribozyme + 1000-fold excess unlabeled ai5γ intron with short exons,Ribozyme
+R-BIND (SM) 0122,Compound 19 (intronistat B),OC1=CC(=CC(O)=C1[O-])C(=O)C1=CC2=CC(=CC=C2O1)C(=O)NCC[NH+]1CCCC1,Azoarcus pre-tRNA (Ile) group I intron37,tRNA
+R-BIND (SM) 0122,Compound 19 (intronistat B),OC1=CC(=CC(O)=C1[O-])C(=O)C1=CC2=CC(=CC=C2O1)C(=O)NCC[NH+]1CCCC1,Full length ai5γ group II intron ribozyme,Ribozyme
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(AU)1,Other
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(AU)6,Other
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CAG)6,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CCG)6,Other
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CUG)6,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,yeast tRNA,tRNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)40,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)60,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)1,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)2,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)3,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)4,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)6,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)20,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,cymc DNA,Other
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,Bcl-2 DNA,mRNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,CT DNA,Other
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)6,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)20,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)40,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)60,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(AU)6,Other
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CAG)6,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CCG)6,Other
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CUG)6,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)1,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)6,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)20,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)40,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)60,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(AU)1,Other
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(AU)6,Other
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CAG)6,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CCG)6,Other
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CUG)6,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)1,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)6,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)20,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)40,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)60,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(AU)6,Other
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CAG)6,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CCG)6,Other
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CUG)6,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)60,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)40,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)20,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(AU)6,Other
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)1,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)6,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(AU)1,Other
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(AU)6,Other
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)1,Repeat RNA
+R-BIND (SM) 0123,Piperine ,O=C(\C=C\C=C\C1=CC=C2OCOC2=C1)N1CCCCC1,r(CGG)6,Repeat RNA
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x20 RNA,Repeat RNA
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x1 RNA,Repeat RNA
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GUC)x1 RNA,Repeat RNA
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,ctDNA,Other
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x20 RNA,Repeat RNA
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x20 RNA,Repeat RNA
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,(5'CCG/3'GCC)x6 RNA,Other
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,(5'CUG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GUC)x20 RNA,Repeat RNA
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0124,Compound 3,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=CC=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x6 DNA,Repeat RNA
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x20 RNA,Repeat RNA
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x1 RNA,Repeat RNA
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GUC)x1 RNA,Repeat RNA
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,ctDNA,Other
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x20 RNA,Repeat RNA
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x20 RNA,Repeat RNA
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,(5'CCG/3'GCC)x6 RNA,Other
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,(5'CUG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GUC)x20 RNA,Repeat RNA
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0125,Compound 15,COC1=CC=C(C=C1)C(=O)C1=NC2=C(C(=O)OC3=CC=C(Br)C=C23)C(=C1N)C1=CC=CC=C1,(5'CAG/3'GAC)x6 DNA,Repeat RNA
+R-BIND (SM) 0126,PyDH2,C[N+]1=CC=C(C=NNC(=O)C2=CC=CC(=N2)C(=O)NN=CC2=C3C=CC=CC3=[N+](C)C=C2)C2=CC=CC=C12,G4-DNA F-25TAG-T,G-Quadruplex
+R-BIND (SM) 0126,PyDH2,C[N+]1=CC=C(C=NNC(=O)C2=CC=CC(=N2)C(=O)NN=CC2=C3C=CC=CC3=[N+](C)C=C2)C2=CC=CC=C12,G4 DNA F-myc22-T,G-Quadruplex
+R-BIND (SM) 0126,PyDH2,C[N+]1=CC=C(C=NNC(=O)C2=CC=CC(=N2)C(=O)NN=CC2=C3C=CC=CC3=[N+](C)C=C2)C2=CC=CC=C12,G4 EBNA1 mRNA,mRNA
+R-BIND (SM) 0126,PyDH2,C[N+]1=CC=C(C=NNC(=O)C2=CC=CC(=N2)C(=O)NN=CC2=C3C=CC=CC3=[N+](C)C=C2)C2=CC=CC=C12,G4 EBNA1 mRNA,mRNA
+R-BIND (SM) 0126,PyDH2,C[N+]1=CC=C(C=NNC(=O)C2=CC=CC(=N2)C(=O)NN=CC2=C3C=CC=CC3=[N+](C)C=C2)C2=CC=CC=C12,G4 EBNA1 mRNA,mRNA
+R-BIND (SM) 0127,PhenDH2,C[N+]1=CC=C(C=NNC(=O)C2=NC3=C(C=CC4=C3N=C(C=C4)C(=O)NN=CC3=C4C=CC=CC4=[N+](C)C=C3)C=C2)C2=CC=CC=C12,G4-DNA F-25TAG-T,G-Quadruplex
+R-BIND (SM) 0127,PhenDH2,C[N+]1=CC=C(C=NNC(=O)C2=NC3=C(C=CC4=C3N=C(C=C4)C(=O)NN=CC3=C4C=CC=CC4=[N+](C)C=C3)C=C2)C2=CC=CC=C12,G4 DNA F-myc22-T,G-Quadruplex
+R-BIND (SM) 0127,PhenDH2,C[N+]1=CC=C(C=NNC(=O)C2=NC3=C(C=CC4=C3N=C(C=C4)C(=O)NN=CC3=C4C=CC=CC4=[N+](C)C=C3)C=C2)C2=CC=CC=C12,G4 EBNA1 mRNA,mRNA
+R-BIND (SM) 0127,PhenDH2,C[N+]1=CC=C(C=NNC(=O)C2=NC3=C(C=CC4=C3N=C(C=C4)C(=O)NN=CC3=C4C=CC=CC4=[N+](C)C=C3)C=C2)C2=CC=CC=C12,G4 EBNA1 mRNA,mRNA
+R-BIND (SM) 0127,PhenDH2,C[N+]1=CC=C(C=NNC(=O)C2=NC3=C(C=CC4=C3N=C(C=C4)C(=O)NN=CC3=C4C=CC=CC4=[N+](C)C=C3)C=C2)C2=CC=CC=C12,G4 EBNA1 mRNA,mRNA
+R-BIND (SM) 0127,PhenDH2,C[N+]1=CC=C(C=NNC(=O)C2=NC3=C(C=CC4=C3N=C(C=C4)C(=O)NN=CC3=C4C=CC=CC4=[N+](C)C=C3)C=C2)C2=CC=CC=C12,,Other
+R-BIND (SM) 0128,Pseudopalmatine,COC1=CC2=CC3=[N+](CCC4=CC(OC)=C(OC)C=C34)C=C2C=C1OC,miR-1587 RNA,miRNA
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,NRAS RNA G-quadruplex,G-Quadruplex
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,NRAS RNA mutant,Other
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,Hairpin DNA,Other
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,NRAS RNA G-quadruplex,G-Quadruplex
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,NRAS RNA G-quadruplex,G-Quadruplex
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,NRAS RNA G-quadruplex,G-Quadruplex
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,,Other
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,,Other
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,,Other
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,,Other
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,,Other
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,,Other
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,,Other
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,,Other
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,,Other
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,,Other
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,,Other
+R-BIND (SM) 0129,4a-10,CSC1=CC=C(\C=C\C2=CC3=C(NCC[NH+]4CCCC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,,Other
+R-BIND (SM) 0130,4a-16,CSC1=CC=C(\C=C\C2=CC3=C(NCCN4CC[NH+](C)CC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,NRAS RNA G-quadruplex,G-Quadruplex
+R-BIND (SM) 0130,4a-16,CSC1=CC=C(\C=C\C2=CC3=C(NCCN4CC[NH+](C)CC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,NRAS RNA mutant,Other
+R-BIND (SM) 0130,4a-16,CSC1=CC=C(\C=C\C2=CC3=C(NCCN4CC[NH+](C)CC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,Hairpin DNA,Other
+R-BIND (SM) 0130,4a-16,CSC1=CC=C(\C=C\C2=CC3=C(NCCN4CC[NH+](C)CC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,NRAS RNA G-quadruplex,G-Quadruplex
+R-BIND (SM) 0130,4a-16,CSC1=CC=C(\C=C\C2=CC3=C(NCCN4CC[NH+](C)CC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,NRAS RNA G-quadruplex,G-Quadruplex
+R-BIND (SM) 0130,4a-16,CSC1=CC=C(\C=C\C2=CC3=C(NCCN4CC[NH+](C)CC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,NRAS RNA G-quadruplex,G-Quadruplex
+R-BIND (SM) 0130,4a-16,CSC1=CC=C(\C=C\C2=CC3=C(NCCN4CC[NH+](C)CC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,,Other
+R-BIND (SM) 0130,4a-16,CSC1=CC=C(\C=C\C2=CC3=C(NCCN4CC[NH+](C)CC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,,Other
+R-BIND (SM) 0130,4a-16,CSC1=CC=C(\C=C\C2=CC3=C(NCCN4CC[NH+](C)CC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,,Other
+R-BIND (SM) 0130,4a-16,CSC1=CC=C(\C=C\C2=CC3=C(NCCN4CC[NH+](C)CC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,,Other
+R-BIND (SM) 0130,4a-16,CSC1=CC=C(\C=C\C2=CC3=C(NCCN4CC[NH+](C)CC4)C4=C([NH+]=C3C=C2)C2=C(O4)C=CC=C2)C=C1,,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,HSA,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,thrombin,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,Vitamin C,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,HCV CG2a G4 sequence,G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,ss20 RNA,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,ds26 RNA,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,HP20 hairpin RNA,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,miR122 microRNA mimic,miRNA
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,HCV CG2a G4 sequence,G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,HCV CG2a G4 sequence,G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,ss16 RNA,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,"mutated HCV CG2a G4 sequence ""CG2a-M""",G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,"mutated HCV CG2a G4 sequence ""CG2a-M2""",G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,HCV CG2a G4 sequence,G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,"mutated HCV CG2a G4 sequence ""CG2a-M""",G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,"mutated HCV CG2a G4 sequence ""CG2a-M2""",G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,Lys,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,Met,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,Phe,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,Pro,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,Ser,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,ss23 RNA,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,ds18 RNA,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,ds26 RNA,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,HP20 hairpin RNA,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,miR122 microRNA mimic,miRNA
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,tRNA Val tRNA fragments,tRNA
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,total RNA extracted from Huh7 cells,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,calf thymus DNA,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,Cys,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,Gln,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,Gly,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,His,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,adenosine,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,cyt c ,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,HRP,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,ss22 RNA,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,ds17 RNA,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,sperm DNA,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,cell lysate,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,Arg,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,BSA,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,GSH,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,Heparin,Other
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,HCV CG2a G4 sequence,G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,NARS RNA G4,G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,BCL2 RNA G4,mRNA
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,TERRA RNA G4,G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,VEGF RNA G4,G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,ZICI RNA G4,G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,KRAS DNA G4,G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,cymc DNA G4,G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,G3T4 DNA G4,G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,PS2.M DNA G4,G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,T3TT DNA G4,G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,TBA DNA G4,G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,T95 RNA G4,G-Quadruplex
+R-BIND (SM) 0131,ThT-NE,CCN(CC)C1=CC=C(C=C1)C1=[N+](C)C2=CC=C(C)C=C2S1,HCV CG2a G4 sequence,G-Quadruplex
+R-BIND (SM) 0132A,Targaprimir-515/885,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,pri-miR-515 Drosha site,miRNA
+R-BIND (SM) 0132A,Targaprimir-515/885,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,adjacent to Drosha site in pri-miR-515,miRNA
+R-BIND (SM) 0132A,Targaprimir-515/885,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,pri-miR-515 Drosha site and adjacent site,miRNA
+R-BIND (SM) 0132A,Targaprimir-515/885,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,DNA Hairpin,Other
+R-BIND (SM) 0132A,Targaprimir-515/885,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,tRNA,tRNA
+R-BIND (SM) 0132A,Targaprimir-515/885,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,pri-miR-515 Drosha site,miRNA
+R-BIND (SM) 0132A,Targaprimir-515/885,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,pri-miR-515 Drosha site,miRNA
+R-BIND (SM) 0132A,Targaprimir-515/885,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,Targaprimir-515/885,miRNA
+R-BIND (SM) 0132B,Targaprimir-515/885,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,pri-miR-885 Drosha site,miRNA
+R-BIND (SM) 0132B,Targaprimir-515/885,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,DNA Hairpin,Other
+R-BIND (SM) 0132B,Targaprimir-515/885,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,tRNA,tRNA
+R-BIND (SM) 0132B,Targaprimir-515/885,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,pri-miR-885 Drosha site,miRNA
+R-BIND (SM) 0132B,Targaprimir-515/885,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,pri-miR-885 Drosha site,miRNA
+R-BIND (SM) 0132B,Targaprimir-515/885,C[NH+]1CCN(CC1)C1=CC=C2NC(=NC2=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C)C,Targaprimir-515/885,miRNA
+R-BIND (SM) 0133,CP2,CS\C(=N/C1=CC=C(Cl)C=C1)N1CC=CC2=CC=CC=C12,(5'CAG/3'GAC)x20 RNA,Repeat RNA
+R-BIND (SM) 0133,CP2,CS\C(=N/C1=CC=C(Cl)C=C1)N1CC=CC2=CC=CC=C12,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0133,CP2,CS\C(=N/C1=CC=C(Cl)C=C1)N1CC=CC2=CC=CC=C12,(5'CAG/3'GAC)x20 RNA,Repeat RNA
+R-BIND (SM) 0133,CP2,CS\C(=N/C1=CC=C(Cl)C=C1)N1CC=CC2=CC=CC=C12,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0133,CP2,CS\C(=N/C1=CC=C(Cl)C=C1)N1CC=CC2=CC=CC=C12,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0133,CP2,CS\C(=N/C1=CC=C(Cl)C=C1)N1CC=CC2=CC=CC=C12,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0133,CP2,CS\C(=N/C1=CC=C(Cl)C=C1)N1CC=CC2=CC=CC=C12,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0133,CP2,CS\C(=N/C1=CC=C(Cl)C=C1)N1CC=CC2=CC=CC=C12,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0133,CP2,CS\C(=N/C1=CC=C(Cl)C=C1)N1CC=CC2=CC=CC=C12,(5'CAG/3'GAC)x1 DNA,Repeat RNA
+R-BIND (SM) 0133,CP2,CS\C(=N/C1=CC=C(Cl)C=C1)N1CC=CC2=CC=CC=C12,(5'CAG/3'GAC)x6 DNA,Repeat RNA
+R-BIND (SM) 0133,CP2,CS\C(=N/C1=CC=C(Cl)C=C1)N1CC=CC2=CC=CC=C12,(5'CAG/3'GUC)x6 DNA,Repeat RNA
+R-BIND (SM) 0133,CP2,CS\C(=N/C1=CC=C(Cl)C=C1)N1CC=CC2=CC=CC=C12,(5'CAG/3'GAC)x1 RNA,Repeat RNA
+R-BIND (SM) 0133,CP2,CS\C(=N/C1=CC=C(Cl)C=C1)N1CC=CC2=CC=CC=C12,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0133,CP2,CS\C(=N/C1=CC=C(Cl)C=C1)N1CC=CC2=CC=CC=C12,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0133,CP2,CS\C(=N/C1=CC=C(Cl)C=C1)N1CC=CC2=CC=CC=C12,5'r(CCGCAGCGG)3' containing one AA loop,Repeat RNA
+R-BIND (SM) 0134,CP6,FC1=CC2=C(SCC3=CC=CC=C3)C=NN=C2C=C1,(5'CAG/3'GAC)x20 RNA,Repeat RNA
+R-BIND (SM) 0134,CP6,FC1=CC2=C(SCC3=CC=CC=C3)C=NN=C2C=C1,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0134,CP6,FC1=CC2=C(SCC3=CC=CC=C3)C=NN=C2C=C1,(5'CAG/3'GAC)x20 RNA,Repeat RNA
+R-BIND (SM) 0134,CP6,FC1=CC2=C(SCC3=CC=CC=C3)C=NN=C2C=C1,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0134,CP6,FC1=CC2=C(SCC3=CC=CC=C3)C=NN=C2C=C1,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0134,CP6,FC1=CC2=C(SCC3=CC=CC=C3)C=NN=C2C=C1,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0134,CP6,FC1=CC2=C(SCC3=CC=CC=C3)C=NN=C2C=C1,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0134,CP6,FC1=CC2=C(SCC3=CC=CC=C3)C=NN=C2C=C1,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0134,CP6,FC1=CC2=C(SCC3=CC=CC=C3)C=NN=C2C=C1,(5'CAG/3'GAC)x1 DNA,Repeat RNA
+R-BIND (SM) 0134,CP6,FC1=CC2=C(SCC3=CC=CC=C3)C=NN=C2C=C1,(5'CAG/3'GAC)x6 DNA,Repeat RNA
+R-BIND (SM) 0134,CP6,FC1=CC2=C(SCC3=CC=CC=C3)C=NN=C2C=C1,(5'CAG/3'GUC)x6 DNA,Repeat RNA
+R-BIND (SM) 0134,CP6,FC1=CC2=C(SCC3=CC=CC=C3)C=NN=C2C=C1,(5'CAG/3'GAC)x1 RNA,Repeat RNA
+R-BIND (SM) 0134,CP6,FC1=CC2=C(SCC3=CC=CC=C3)C=NN=C2C=C1,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0134,CP6,FC1=CC2=C(SCC3=CC=CC=C3)C=NN=C2C=C1,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0134,CP6,FC1=CC2=C(SCC3=CC=CC=C3)C=NN=C2C=C1,5'r(CCGCAGCGG)3' containing one AA loop,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,(5'CAG/3'GAC)x20 RNA,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,(5'CAG/3'GAC)x20 RNA,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,(5'CAG/3'GAC)x1 DNA,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,(5'CAG/3'GAC)x6 DNA,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,(5'CAG/3'GUC)x6 DNA,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,(5'CAG/3'GAC)x1 RNA,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,(5'CAG/3'GAC)x6 RNA,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,(5'CAG/3'GUC)x6 RNA,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,5'r(CCGCAGCGG)3' containing one AA loop,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,5'r(CCGCAGCGG)3' containing one AA loop,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,5'r(CCGCAGCGG)3' containing one AA loop,Repeat RNA
+R-BIND (SM) 0135,CP13,CC1=CC2=CC=CC=C2N=C1C1=C(F)C=CC=C1,5'r(CCGCAGCGG)3' containing one AA loop,Repeat RNA
+R-BIND (SM) 0136,BIX01294,COC1=CC2=NC(=NC(NC3CC[NH+](CC4=CC=CC=C4)CC3)=C2C=C1OC)N1CCC[NH+](C)CC1,NLuc reporter mRNA lacking any repeat element and translated using a canonical AUG start codon (AUG-NLuc),mRNA
+R-BIND (SM) 0136,BIX01294,COC1=CC2=NC(=NC(NC3CC[NH+](CC4=CC=CC=C4)CC3)=C2C=C1OC)N1CCC[NH+](C)CC1,"FXTAS-associated CGG repeats, +1CGGx100 RAN translation nanoluciferase (NLuc) reporter mRNA",mRNA
+R-BIND (SM) 0136,BIX01294,COC1=CC2=NC(=NC(NC3CC[NH+](CC4=CC=CC=C4)CC3)=C2C=C1OC)N1CCC[NH+](C)CC1,"FXTAS-associated CGG repeats, +2CGGx100 RAN translation nanoluciferase (NLuc) reporter mRNA (translation occurs in the +2 reading frame)",mRNA
+R-BIND (SM) 0136,BIX01294,COC1=CC2=NC(=NC(NC3CC[NH+](CC4=CC=CC=C4)CC3)=C2C=C1OC)N1CCC[NH+](C)CC1,"C9ALS/FTD-associated GGGGCC repeats (GGGGCC70), for all three reading frames (GA, GP and GR)",Other
+R-BIND (SM) 0136,BIX01294,COC1=CC2=NC(=NC(NC3CC[NH+](CC4=CC=CC=C4)CC3)=C2C=C1OC)N1CCC[NH+](C)CC1,"C9ALS/FTD-associated GGGGCC repeats (GGGGCC70), for all three reading frames (GA, GP and GR)",Other
+R-BIND (SM) 0136,BIX01294,COC1=CC2=NC(=NC(NC3CC[NH+](CC4=CC=CC=C4)CC3)=C2C=C1OC)N1CCC[NH+](C)CC1,"FXTAS-associated RAN CGG repeats (+1CGG100, +2CGG100) and AUG-initiated repeats (AUG +1CGG100, AUG +2CGG100)",Repeat RNA
+R-BIND (SM) 0136,BIX01294,COC1=CC2=NC(=NC(NC3CC[NH+](CC4=CC=CC=C4)CC3)=C2C=C1OC)N1CCC[NH+](C)CC1,ACG-NLuc and CUG-NLuc,Repeat RNA
+R-BIND (SM) 0136,BIX01294,COC1=CC2=NC(=NC(NC3CC[NH+](CC4=CC=CC=C4)CC3)=C2C=C1OC)N1CCC[NH+](C)CC1,CGG×16,Repeat RNA
+R-BIND (SM) 0136,BIX01294,COC1=CC2=NC(=NC(NC3CC[NH+](CC4=CC=CC=C4)CC3)=C2C=C1OC)N1CCC[NH+](C)CC1,GGGGCC×8,Other
+R-BIND (SM) 0136,BIX01294,COC1=CC2=NC(=NC(NC3CC[NH+](CC4=CC=CC=C4)CC3)=C2C=C1OC)N1CCC[NH+](C)CC1,5' Irdye 800CW-labeled CGGx16 RNAs,Repeat RNA
+R-BIND (SM) 0137,ADQ,[O-]C1=C(OC2=NC3=CC(=CC=C3NC12)[N+]([O-])=O)C1=CC=C(C=C1)C1OC2=[NH+]C3=C(NC2=C1[O-])C=CC(=C3)[N+]([O-])=O,5′ biotin-labeled HOTAIR 36G46A wild type,G-Quadruplex
+R-BIND (SM) 0137,ADQ,[O-]C1=C(OC2=NC3=CC(=CC=C3NC12)[N+]([O-])=O)C1=CC=C(C=C1)C1OC2=[NH+]C3=C(NC2=C1[O-])C=CC(=C3)[N+]([O-])=O,"5′ biotin-labeled HOTAIR 36U46A, 36G46G, and 36U46G mutant probes",G-Quadruplex
+R-BIND (SM) 0137,ADQ,[O-]C1=C(OC2=NC3=CC(=CC=C3NC12)[N+]([O-])=O)C1=CC=C(C=C1)C1OC2=[NH+]C3=C(NC2=C1[O-])C=CC(=C3)[N+]([O-])=O,212–300 nt HOTAIR,Other
+R-BIND (SM) 0137,ADQ,[O-]C1=C(OC2=NC3=CC(=CC=C3NC12)[N+]([O-])=O)C1=CC=C(C=C1)C1OC2=[NH+]C3=C(NC2=C1[O-])C=CC(=C3)[N+]([O-])=O,,Other
+R-BIND (SM) 0137,ADQ,[O-]C1=C(OC2=NC3=CC(=CC=C3NC12)[N+]([O-])=O)C1=CC=C(C=C1)C1OC2=[NH+]C3=C(NC2=C1[O-])C=CC(=C3)[N+]([O-])=O,,Other
+R-BIND (SM) 0137,ADQ,[O-]C1=C(OC2=NC3=CC(=CC=C3NC12)[N+]([O-])=O)C1=CC=C(C=C1)C1OC2=[NH+]C3=C(NC2=C1[O-])C=CC(=C3)[N+]([O-])=O,,Other
+R-BIND (SM) 0137,ADQ,[O-]C1=C(OC2=NC3=CC(=CC=C3NC12)[N+]([O-])=O)C1=CC=C(C=C1)C1OC2=[NH+]C3=C(NC2=C1[O-])C=CC(=C3)[N+]([O-])=O,,Other
+R-BIND (SM) 0137,ADQ,[O-]C1=C(OC2=NC3=CC(=CC=C3NC12)[N+]([O-])=O)C1=CC=C(C=C1)C1OC2=[NH+]C3=C(NC2=C1[O-])C=CC(=C3)[N+]([O-])=O,,Other
+R-BIND (SM) 0137,ADQ,[O-]C1=C(OC2=NC3=CC(=CC=C3NC12)[N+]([O-])=O)C1=CC=C(C=C1)C1OC2=[NH+]C3=C(NC2=C1[O-])C=CC(=C3)[N+]([O-])=O,,Other
+R-BIND (SM) 0137,ADQ,[O-]C1=C(OC2=NC3=CC(=CC=C3NC12)[N+]([O-])=O)C1=CC=C(C=C1)C1OC2=[NH+]C3=C(NC2=C1[O-])C=CC(=C3)[N+]([O-])=O,,Other
+R-BIND (SM) 0137,ADQ,[O-]C1=C(OC2=NC3=CC(=CC=C3NC12)[N+]([O-])=O)C1=CC=C(C=C1)C1OC2=[NH+]C3=C(NC2=C1[O-])C=CC(=C3)[N+]([O-])=O,,Other
+R-BIND (SM) 0137,ADQ,[O-]C1=C(OC2=NC3=CC(=CC=C3NC12)[N+]([O-])=O)C1=CC=C(C=C1)C1OC2=[NH+]C3=C(NC2=C1[O-])C=CC(=C3)[N+]([O-])=O,,Other
+R-BIND (SM) 0137,ADQ,[O-]C1=C(OC2=NC3=CC(=CC=C3NC12)[N+]([O-])=O)C1=CC=C(C=C1)C1OC2=[NH+]C3=C(NC2=C1[O-])C=CC(=C3)[N+]([O-])=O,,Other
+R-BIND (SM) 0138,Compound 9,NC1=C(N=C2N(CC3=CC=CC=N3)C=C(C([O-])=O)C(=O)C2=C1)N1CCN(CC1)C1=NC2=CC=CC=C2S1,,Other
+R-BIND (SM) 0138,Compound 9,NC1=C(N=C2N(CC3=CC=CC=N3)C=C(C([O-])=O)C(=O)C2=C1)N1CCN(CC1)C1=NC2=CC=CC=C2S1,,Other
+R-BIND (SM) 0139,Compound 10,NC1=C(N=C2N(CCC3=CC=CC=N3)C=C(C([O-])=O)C(=O)C2=C1)N1CCN(CC1)C1=NC2=CC=CC=C2S1,TAR/Tat complex,Other
+R-BIND (SM) 0139,Compound 10,NC1=C(N=C2N(CCC3=CC=CC=N3)C=C(C([O-])=O)C(=O)C2=C1)N1CCN(CC1)C1=NC2=CC=CC=C2S1,,Other
+R-BIND (SM) 0140,Compound 11,NC1=C(N=C2N(CC[NH+]3CCN(CC3)C3=CC=CC=N3)C=C(C([O-])=O)C(=O)C2=C1)N1CCN(CC1)C1=NC2=CC=CC=C2S1,,Other
+R-BIND (SM) 0140,Compound 11,NC1=C(N=C2N(CC[NH+]3CCN(CC3)C3=CC=CC=N3)C=C(C([O-])=O)C(=O)C2=C1)N1CCN(CC1)C1=NC2=CC=CC=C2S1,,Other
+R-BIND (SM) 0141,Compound 12,NC1=C(N=C2N(CCC[NH+]3CCN(CC3)C3=CC=CC=N3)C=C(C([O-])=O)C(=O)C2=C1)N1CCN(CC1)C1=NC2=CC=CC=C2S1,,Other
+R-BIND (SM) 0141,Compound 12,NC1=C(N=C2N(CCC[NH+]3CCN(CC3)C3=CC=CC=N3)C=C(C([O-])=O)C(=O)C2=C1)N1CCN(CC1)C1=NC2=CC=CC=C2S1,,Other
+R-BIND (SM) 0142,4d,CN(C)C1=CC=C(C=CC(=O)NC2=CC=C(CNC3=NC4=CC=C(C=C4N=C3NCCCN3CC[NH+](C)CC3)[N+]([O-])=O)C=C2)C=C1,HCV-IRES subdomain IIa,HCV IRES
+R-BIND (SM) 0142,4d,CN(C)C1=CC=C(C=CC(=O)NC2=CC=C(CNC3=NC4=CC=C(C=C4N=C3NCCCN3CC[NH+](C)CC3)[N+]([O-])=O)C=C2)C=C1,HCV-IRES subdomain IIa,HCV IRES
+R-BIND (SM) 0142,4d,CN(C)C1=CC=C(C=CC(=O)NC2=CC=C(CNC3=NC4=CC=C(C=C4N=C3NCCCN3CC[NH+](C)CC3)[N+]([O-])=O)C=C2)C=C1,HCV-IRES subdomain IIa,HCV IRES
+R-BIND (SM) 0142,4d,CN(C)C1=CC=C(C=CC(=O)NC2=CC=C(CNC3=NC4=CC=C(C=C4N=C3NCCCN3CC[NH+](C)CC3)[N+]([O-])=O)C=C2)C=C1,HCV-IRES subdomain Iia,HCV IRES
+R-BIND (SM) 0142,4d,CN(C)C1=CC=C(C=CC(=O)NC2=CC=C(CNC3=NC4=CC=C(C=C4N=C3NCCCN3CC[NH+](C)CC3)[N+]([O-])=O)C=C2)C=C1,,Other
+R-BIND (SM) 0142,4d,CN(C)C1=CC=C(C=CC(=O)NC2=CC=C(CNC3=NC4=CC=C(C=C4N=C3NCCCN3CC[NH+](C)CC3)[N+]([O-])=O)C=C2)C=C1,,Other
+R-BIND (SM) 0142,4d,CN(C)C1=CC=C(C=CC(=O)NC2=CC=C(CNC3=NC4=CC=C(C=C4N=C3NCCCN3CC[NH+](C)CC3)[N+]([O-])=O)C=C2)C=C1,,Other
+R-BIND (SM) 0142,4d,CN(C)C1=CC=C(C=CC(=O)NC2=CC=C(CNC3=NC4=CC=C(C=C4N=C3NCCCN3CC[NH+](C)CC3)[N+]([O-])=O)C=C2)C=C1,,Other
+R-BIND (SM) 0143,3b,C[NH+](C)CCCNC1=NC2=CC(=CC=C2N=C1NCCCN1CC[NH+](C)CC1)[N+]([O-])=O,HCV-IRES subdomain IIa,HCV IRES
+R-BIND (SM) 0143,3b,C[NH+](C)CCCNC1=NC2=CC(=CC=C2N=C1NCCCN1CC[NH+](C)CC1)[N+]([O-])=O,HCV-IRES subdomain Iia,HCV IRES
+R-BIND (SM) 0143,3b,C[NH+](C)CCCNC1=NC2=CC(=CC=C2N=C1NCCCN1CC[NH+](C)CC1)[N+]([O-])=O,,Other
+R-BIND (SM) 0143,3b,C[NH+](C)CCCNC1=NC2=CC(=CC=C2N=C1NCCCN1CC[NH+](C)CC1)[N+]([O-])=O,,Other
+R-BIND (SM) 0144,4a,C[NH+](C)CCCNC1=NC2=CC(=CC=C2N=C1NCC1=CC=C(NC(=O)CCCC[C@H]2SCC3NC(=O)NC23)C=C1)[N+]([O-])=O,HCV-IRES subdomain IIa,HCV IRES
+R-BIND (SM) 0144,4a,C[NH+](C)CCCNC1=NC2=CC(=CC=C2N=C1NCC1=CC=C(NC(=O)CCCC[C@H]2SCC3NC(=O)NC23)C=C1)[N+]([O-])=O,HCV-IRES subdomain Iia,HCV IRES
+R-BIND (SM) 0144,4a,C[NH+](C)CCCNC1=NC2=CC(=CC=C2N=C1NCC1=CC=C(NC(=O)CCCC[C@H]2SCC3NC(=O)NC23)C=C1)[N+]([O-])=O,,Other
+R-BIND (SM) 0144,4a,C[NH+](C)CCCNC1=NC2=CC(=CC=C2N=C1NCC1=CC=C(NC(=O)CCCC[C@H]2SCC3NC(=O)NC23)C=C1)[N+]([O-])=O,,Other
+R-BIND (SM) 0145,4c,C[NH+]1CCN(CCCNC2=NC3=CC(=CC=C3N=C2NCC2=CC=C(NC(=O)CCCCC3SCC4NC(=O)NC34)C=C2)[N+]([O-])=O)CC1,HCV-IRES subdomain IIa,HCV IRES
+R-BIND (SM) 0145,4c,C[NH+]1CCN(CCCNC2=NC3=CC(=CC=C3N=C2NCC2=CC=C(NC(=O)CCCCC3SCC4NC(=O)NC34)C=C2)[N+]([O-])=O)CC1,,Other
+R-BIND (SM) 0145,4c,C[NH+]1CCN(CCCNC2=NC3=CC(=CC=C3N=C2NCC2=CC=C(NC(=O)CCCCC3SCC4NC(=O)NC34)C=C2)[N+]([O-])=O)CC1,,Other
+R-BIND (SM) 0145,4c,C[NH+]1CCN(CCCNC2=NC3=CC(=CC=C3N=C2NCC2=CC=C(NC(=O)CCCCC3SCC4NC(=O)NC34)C=C2)[N+]([O-])=O)CC1,,Other
+R-BIND (SM) 0146,bPGN,CCCC[C@H]1CCCCCCC2=C1C=C(N2)C=C1N=CC(C2=CC=CN2)=C1OC,pre-miRNA-21,miRNA
+R-BIND (SM) 0146,bPGN,CCCC[C@H]1CCCCCCC2=C1C=C(N2)C=C1N=CC(C2=CC=CN2)=C1OC,pre-miR-638,miRNA
+R-BIND (SM) 0146,bPGN,CCCC[C@H]1CCCCCCC2=C1C=C(N2)C=C1N=CC(C2=CC=CN2)=C1OC,pre-miRNA-21,miRNA
+R-BIND (SM) 0146,bPGN,CCCC[C@H]1CCCCCCC2=C1C=C(N2)C=C1N=CC(C2=CC=CN2)=C1OC,5'SLA RNA fragment Dengue-II virus,Other
+R-BIND (SM) 0146,bPGN,CCCC[C@H]1CCCCCCC2=C1C=C(N2)C=C1N=CC(C2=CC=CN2)=C1OC,Lys3 tRNA,tRNA
+R-BIND (SM) 0146,bPGN,CCCC[C@H]1CCCCCCC2=C1C=C(N2)C=C1N=CC(C2=CC=CN2)=C1OC,pre-miRNA-21,miRNA
+R-BIND (SM) 0146,bPGN,CCCC[C@H]1CCCCCCC2=C1C=C(N2)C=C1N=CC(C2=CC=CN2)=C1OC,HIV TAR,HIV TAR
+R-BIND (SM) 0146,bPGN,CCCC[C@H]1CCCCCCC2=C1C=C(N2)C=C1N=CC(C2=CC=CN2)=C1OC,pre-miRNA-21,miRNA
+R-BIND (SM) 0146,bPGN,CCCC[C@H]1CCCCCCC2=C1C=C(N2)C=C1N=CC(C2=CC=CN2)=C1OC,pre-miRNA-21,miRNA
+R-BIND (SM) 0146,bPGN,CCCC[C@H]1CCCCCCC2=C1C=C(N2)C=C1N=CC(C2=CC=CN2)=C1OC,pre-miRNA-21,miRNA
+R-BIND (SM) 0146,bPGN,CCCC[C@H]1CCCCCCC2=C1C=C(N2)C=C1N=CC(C2=CC=CN2)=C1OC,Purified Total RNA,Other
+R-BIND (SM) 0146,bPGN,CCCC[C@H]1CCCCCCC2=C1C=C(N2)C=C1N=CC(C2=CC=CN2)=C1OC,Purified gDNA,Other
+R-BIND (SM) 0146,bPGN,CCCC[C@H]1CCCCCCC2=C1C=C(N2)C=C1N=CC(C2=CC=CN2)=C1OC,Plasmid DNA,Other
+R-BIND (SM) 0147,Obatoclax,COC1=C(C=NC1=CC1=C(C)C=C(C)N1)C1=CC2=CC=CC=C2N1,pre-miRNA-21,miRNA
+R-BIND (SM) 0147,Obatoclax,COC1=C(C=NC1=CC1=C(C)C=C(C)N1)C1=CC2=CC=CC=C2N1,pre-miRNA-21,miRNA
+R-BIND (SM) 0148,Prodigiosin,CCCCCC1=C(C)NC(C=C2N=CC(C3=CC=CN3)=C2OC)=C1,pre-miRNA-21,miRNA
+R-BIND (SM) 0148,Prodigiosin,CCCCCC1=C(C)NC(C=C2N=CC(C3=CC=CN3)=C2OC)=C1,pre-miRNA-21,miRNA
+R-BIND (SM) 0149,BRX1555,CC1=CC2=C(C=C1C)N(CCCC1=CC=CC=C1)C1=NC(=O)[N-]C(=O)C1=N3,"165 ribD FMN Riboswitch Aptamer, B. subtilis ",Riboswitch
+R-BIND (SM) 0149,BRX1555,CC1=CC2=C(C=C1C)N(CCCC1=CC=CC=C1)C1=NC(=O)[N-]C(=O)C1=N2,"165 ribD FMN Riboswitch Aptamer, B. subtilis ",Riboswitch
+R-BIND (SM) 0149,BRX1555,CC1=CC2=C(C=C1C)N(CCCC1=CC=CC=C1)C1=NC(=O)[N-]C(=O)C1=N4,Aptamer domain of the FMN riboswitch from F. nucleatum,Riboswitch
+R-BIND (SM) 0149,BRX1555,CC1=CC2=C(C=C1C)N(CCCC1=CC=CC=C1)C1=NC(=O)[N-]C(=O)C1=N5,,Other
+R-BIND (SM) 0149,BRX1555,CC1=CC2=C(C=C1C)N(CCCC1=CC=CC=C1)C1=NC(=O)[N-]C(=O)C1=N6,,Other
+R-BIND (SM) 0149,BRX1555,CC1=CC2=C(C=C1C)N(CCCC1=CC=CC=C1)C1=NC(=O)[N-]C(=O)C1=N7,,Other
+R-BIND (SM) 0149,BRX1555,CC1=CC2=C(C=C1C)N(CCCC1=CC=CC=C1)C1=NC(=O)[N-]C(=O)C1=N2,,Other
+R-BIND (SM) 0150,RG7800,CCC1=NC(C)=CN2N=C(C=C12)C1=CC(=O)N2C=C(C=C(C)C2=N1)C1CC[NH+](C)CC1,,Other
+R-BIND (SM) 0150,RG7800,CCC1=NC(C)=CN2N=C(C=C12)C1=CC(=O)N2C=C(C=C(C)C2=N1)C1CC[NH+](C)CC1,,Other
+R-BIND (SM) 0150,RG7800,CCC1=NC(C)=CN2N=C(C=C12)C1=CC(=O)N2C=C(C=C(C)C2=N1)C1CC[NH+](C)CC1,,Other
+R-BIND (SM) 0150,RG7800,CCC1=NC(C)=CN2N=C(C=C12)C1=CC(=O)N2C=C(C=C(C)C2=N1)C1CC[NH+](C)CC1,,Other
+R-BIND (SM) 0150,RG7800,CCC1=NC(C)=CN2N=C(C=C12)C1=CC(=O)N2C=C(C=C(C)C2=N1)C1CC[NH+](C)CC1,,Other
+R-BIND (SM) 0150,RG7800,CCC1=NC(C)=CN2N=C(C=C12)C1=CC(=O)N2C=C(C=C(C)C2=N1)C1CC[NH+](C)CC1,,Other
+R-BIND (SM) 0151,Compound 8,O=C(NC1=CC=C(C=C1)C1=[NH+]CCN1)C1=CC(=CC(=C1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1,Mixture of RNAs,Other
+R-BIND (SM) 0151,Compound 8,O=C(NC1=CC=C(C=C1)C1=[NH+]CCN1)C1=CC(=CC(=C1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1,5'UUA3'/3'A_U5' ,Other
+R-BIND (SM) 0151,Compound 8,O=C(NC1=CC=C(C=C1)C1=[NH+]CCN1)C1=CC(=CC(=C1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1,5'GAU3'/3'C_A5',Other
+R-BIND (SM) 0151,Compound 8,O=C(NC1=CC=C(C=C1)C1=[NH+]CCN1)C1=CC(=CC(=C1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1,5'GCU3'/3'C_A5' ,Other
+R-BIND (SM) 0151,Compound 8,O=C(NC1=CC=C(C=C1)C1=[NH+]CCN1)C1=CC(=CC(=C1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1,5'UUA3'/3'A_U5' ,Other
+R-BIND (SM) 0151,Compound 8,O=C(NC1=CC=C(C=C1)C1=[NH+]CCN1)C1=CC(=CC(=C1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1,5'UCUAU3'/3'ACCA5' (non-binder),Other
+R-BIND (SM) 0151,Compound 8,O=C(NC1=CC=C(C=C1)C1=[NH+]CCN1)C1=CC(=CC(=C1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1,Fully paired RNA ,Other
+R-BIND (SM) 0151,Compound 8,O=C(NC1=CC=C(C=C1)C1=[NH+]CCN1)C1=CC(=CC(=C1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1,HCV SL I and SL III (5'GUG3'/3'C_G5'),HCV IRES
+R-BIND (SM) 0151,Compound 8,O=C(NC1=CC=C(C=C1)C1=[NH+]CCN1)C1=CC(=CC(=C1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1,HCV SL II (5'CUG3'/3'G_C5'),Repeat RNA
+R-BIND (SM) 0151,Compound 8,O=C(NC1=CC=C(C=C1)C1=[NH+]CCN1)C1=CC(=CC(=C1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1,HCV SL I (5'UAG3'/3'A_C5'),HCV IRES
+R-BIND (SM) 0151,Compound 8,O=C(NC1=CC=C(C=C1)C1=[NH+]CCN1)C1=CC(=CC(=C1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1,5'UUA3'/3'A_U5' ,Other
+R-BIND (SM) 0151,Compound 8,O=C(NC1=CC=C(C=C1)C1=[NH+]CCN1)C1=CC(=CC(=C1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1,5'GCU3'/3'C_A5' ,Other
+R-BIND (SM) 0151,Compound 8,O=C(NC1=CC=C(C=C1)C1=[NH+]CCN1)C1=CC(=CC(=C1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1,5'UCUAU3'/3'ACCA5',Other
+R-BIND (SM) 0151,Compound 8,O=C(NC1=CC=C(C=C1)C1=[NH+]CCN1)C1=CC(=CC(=C1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1,Fully paired RNA ,Other
+R-BIND (SM) 0151,Compound 8,O=C(NC1=CC=C(C=C1)C1=[NH+]CCN1)C1=CC(=CC(=C1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1,HCV SL I,HCV IRES
+R-BIND (SM) 0151,Compound 8,O=C(NC1=CC=C(C=C1)C1=[NH+]CCN1)C1=CC(=CC(=C1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1,Mixture of Kinases,Other
+R-BIND (SM) 0151,Compound 8,O=C(NC1=CC=C(C=C1)C1=[NH+]CCN1)C1=CC(=CC(=C1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1)C(=O)NC1=CC=C(C=C1)C1=[NH+]CCN1,Mixture of RNAs,Other
+R-BIND (SM) 0152,Compound 10,O=C(NC1=CC(=CC=C1)C1=[NH+]CCN1)C1=CC=C(C=C1)C1=CC=C(C=C1)C(=O)NC1=CC=CC(=C1)C1=[NH+]CCN1,Mixture of RNAs,Other
+R-BIND (SM) 0152,Compound 10,O=C(NC1=CC(=CC=C1)C1=[NH+]CCN1)C1=CC=C(C=C1)C1=CC=C(C=C1)C(=O)NC1=CC=CC(=C1)C1=[NH+]CCN1,HCV SL I and SL III (5'GUG3'/3'C_G5'),HCV IRES
+R-BIND (SM) 0152,Compound 10,O=C(NC1=CC(=CC=C1)C1=[NH+]CCN1)C1=CC=C(C=C1)C1=CC=C(C=C1)C(=O)NC1=CC=CC(=C1)C1=[NH+]CCN1,HCV SL II (5'CUG3'/3'G_C5'),Repeat RNA
+R-BIND (SM) 0152,Compound 10,O=C(NC1=CC(=CC=C1)C1=[NH+]CCN1)C1=CC=C(C=C1)C1=CC=C(C=C1)C(=O)NC1=CC=CC(=C1)C1=[NH+]CCN1,HCV SL I (5'UAG3'/3'A_C5'),HCV IRES
+R-BIND (SM) 0152,Compound 10,O=C(NC1=CC(=CC=C1)C1=[NH+]CCN1)C1=CC=C(C=C1)C1=CC=C(C=C1)C(=O)NC1=CC=CC(=C1)C1=[NH+]CCN1,Mixture of Kinases,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
+R-BIND (SM) 0153,Linifanib,CC1=CC(NC(=O)NC2=CC=C(C=C2)C(C=C)=C2CN[NH+]=C2N)=C(F)C=C1,,Other
