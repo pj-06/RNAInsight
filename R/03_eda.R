@@ -3,20 +3,21 @@
 # Step 3 : Exploratory Data Analysis (EDA)
 ############################################################
 
+# Load Libraries
 library(ggplot2)
 library(dplyr)
 library(corrplot)
-setwd("C:/Users/Admin/Desktop/PDS/RNAInsight")
+
 ############################################################
 # Load Dataset
 ############################################################
 
 data <- read.csv(
-  "C:/Users/Admin/Desktop/PDS/RNAInsight/data/processed/cleaned_dataset.csv",
+  "data/processed/cleaned_dataset.csv",
   stringsAsFactors = FALSE
 )
 
-# Convert Target Family to factor
+# Convert Target Family to Factor
 data$Target_Family <- as.factor(data$Target_Family)
 
 ############################################################
@@ -31,10 +32,18 @@ dir.create("results/tables", recursive = TRUE, showWarnings = FALSE)
 # Dataset Overview
 ############################################################
 
+cat("========================================\n")
+cat("RNAInsight - Exploratory Data Analysis\n")
+cat("========================================\n\n")
+
 cat("Rows :", nrow(data), "\n")
 cat("Columns :", ncol(data), "\n\n")
 
-summary(data)
+cat("Target Family Counts:\n")
+print(table(data$Target_Family))
+
+cat("\nDataset Summary:\n")
+print(summary(data))
 
 ############################################################
 # Target Family Distribution
@@ -66,7 +75,11 @@ ggsave(
 
 p2 <- ggplot(data, aes(MolecularWeight)) +
   geom_histogram(bins = 30, fill = "steelblue") +
-  labs(title = "Distribution of Molecular Weight") +
+  labs(
+    title = "Distribution of Molecular Weight",
+    x = "Molecular Weight",
+    y = "Count"
+  ) +
   theme_bw()
 
 print(p2)
@@ -85,7 +98,11 @@ ggsave(
 
 p3 <- ggplot(data, aes(LogP)) +
   geom_histogram(bins = 30, fill = "steelblue") +
-  labs(title = "Distribution of LogP") +
+  labs(
+    title = "Distribution of LogP",
+    x = "LogP",
+    y = "Count"
+  ) +
   theme_bw()
 
 print(p3)
@@ -104,7 +121,11 @@ ggsave(
 
 p4 <- ggplot(data, aes(TPSA)) +
   geom_histogram(bins = 30, fill = "steelblue") +
-  labs(title = "Distribution of TPSA") +
+  labs(
+    title = "Distribution of TPSA",
+    x = "TPSA",
+    y = "Count"
+  ) +
   theme_bw()
 
 print(p4)
@@ -122,9 +143,13 @@ ggsave(
 ############################################################
 
 p5 <- ggplot(data,
-             aes(Target_Family,
-                 MolecularWeight)) +
+             aes(Target_Family, MolecularWeight)) +
   geom_boxplot(fill = "lightblue") +
+  labs(
+    title = "Molecular Weight by RNA Target Family",
+    x = "Target Family",
+    y = "Molecular Weight"
+  ) +
   theme_bw() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
@@ -143,9 +168,13 @@ ggsave(
 ############################################################
 
 p6 <- ggplot(data,
-             aes(Target_Family,
-                 LogP)) +
+             aes(Target_Family, LogP)) +
   geom_boxplot(fill = "lightgreen") +
+  labs(
+    title = "LogP by RNA Target Family",
+    x = "Target Family",
+    y = "LogP"
+  ) +
   theme_bw() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
@@ -164,9 +193,13 @@ ggsave(
 ############################################################
 
 p7 <- ggplot(data,
-             aes(Target_Family,
-                 TPSA)) +
+             aes(Target_Family, TPSA)) +
   geom_boxplot(fill = "orange") +
+  labs(
+    title = "TPSA by RNA Target Family",
+    x = "Target Family",
+    y = "TPSA"
+  ) +
   theme_bw() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
@@ -204,6 +237,9 @@ descriptor_data <- data %>%
 
 corr_matrix <- cor(descriptor_data)
 
+cat("\nCorrelation Matrix:\n")
+print(round(corr_matrix, 2))
+
 png(
   "results/plots/correlation_heatmap.png",
   width = 1200,
@@ -219,7 +255,6 @@ corrplot(
 
 dev.off()
 
-# Display in RStudio
 corrplot(
   corr_matrix,
   method = "color",
@@ -237,12 +272,17 @@ png(
   res = 150
 )
 
-pairs(descriptor_data[,1:6])
+pairs(
+  descriptor_data[,1:6],
+  main = "Pair Plot of Selected Molecular Descriptors"
+)
 
 dev.off()
 
-# Display in RStudio
-pairs(descriptor_data[,1:6])
+pairs(
+  descriptor_data[,1:6],
+  main = "Pair Plot of Selected Molecular Descriptors"
+)
 
 ############################################################
 # Summary Statistics by Target Family
@@ -258,6 +298,7 @@ summary_stats <- data %>%
     .groups = "drop"
   )
 
+cat("\nSummary Statistics by Target Family:\n")
 print(summary_stats)
 
 write.csv(
@@ -266,15 +307,11 @@ write.csv(
   row.names = FALSE
 )
 
-############################################################
-# Save Final Dataset
-############################################################
+cat("\nSummary statistics saved successfully.\n")
 
-write.csv(
-  data,
-  "data/processed/cleaned_dataset.csv",
-  row.names = FALSE
-)
+############################################################
+# Completion Message
+############################################################
 
 cat("\n========================================\n")
 cat("EDA Completed Successfully!\n")
