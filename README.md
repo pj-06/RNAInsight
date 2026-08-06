@@ -6,18 +6,7 @@ Can we predict which RNA target family a small molecule is likely to bind to usi
 
 This is a classification problem.
 
-Raw R-BIND Excel Dataset
-          │
-          ▼
-     Python Phase
-(Data Preparation)
-          │
-          ▼
-Cleaned Dataset (750 molecules)
-          │
-          ▼
-        R Phase
-(EDA + Statistics + ML + Dashboard)
-          │
-          ▼
-Final Project
+1. Raw R-BIND Excel Dataset
+2. Python Phase (Data Preparation)
+3. Cleaned Dataset (750 molecules)
+4. R Phase (EDA + Statistics + ML + Dashboard)
