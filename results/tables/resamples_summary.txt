@@ -1,0 +1,62 @@
+RNAInsight - Cross-Validated Resamples Summary
+================================================
+
+
+Call:
+summary.resamples(object = resamps)
+
+Models: Multinomial Logistic Regression, Linear Discriminant Analysis, K-Nearest Neighbors, Decision Tree (CART), Bagged CART, Random Forest, Gradient Boosting Machine, SVM (Linear Kernel), SVM (Radial Kernel), Regularized Multinomial (glmnet), Neural Network (nnet) 
+Number of resamples: 15 
+
+Accuracy 
+                                      Min.   1st Qu.    Median      Mean
+Multinomial Logistic Regression  0.4508197 0.4609311 0.4959350 0.4982521
+Linear Discriminant Analysis     0.3884298 0.4326936 0.4500000 0.4517406
+K-Nearest Neighbors              0.4297521 0.4958342 0.5371901 0.5240020
+Decision Tree (CART)             0.4262295 0.4877713 0.5250000 0.5223927
+Bagged CART                      0.5203252 0.5349885 0.5491803 0.5665418
+Random Forest                    0.5163934 0.5333009 0.5725806 0.5648402
+Gradient Boosting Machine        0.5121951 0.5270010 0.5500000 0.5587199
+SVM (Linear Kernel)              0.2032520 0.2357218 0.2857143 0.2685245
+SVM (Radial Kernel)              0.3145161 0.3209931 0.3471074 0.3537960
+Regularized Multinomial (glmnet) 0.4193548 0.4624974 0.4918033 0.4944574
+Neural Network (nnet)            0.4876033 0.5184959 0.5454545 0.5483335
+                                   3rd Qu.      Max. NA's
+Multinomial Logistic Regression  0.5208333 0.5750000    0
+Linear Discriminant Analysis     0.4730716 0.5123967    0
+K-Nearest Neighbors              0.5632498 0.6000000    0
+Decision Tree (CART)             0.5495868 0.6416667    0
+Bagged CART                      0.6000000 0.6416667    0
+Random Forest                    0.5933540 0.6115702    0
+Gradient Boosting Machine        0.5761414 0.6280992    0
+SVM (Linear Kernel)              0.2946281 0.3250000    0
+SVM (Radial Kernel)              0.3692837 0.4545455    0
+Regularized Multinomial (glmnet) 0.5186639 0.5750000    0
+Neural Network (nnet)            0.5780914 0.6115702    0
+
+Kappa 
+                                       Min.    1st Qu.    Median      Mean
+Multinomial Logistic Regression  0.26585769 0.29727697 0.3420190 0.3361089
+Linear Discriminant Analysis     0.17137331 0.23271765 0.2584250 0.2631338
+K-Nearest Neighbors              0.27006470 0.36618149 0.4081651 0.3977348
+Decision Tree (CART)             0.26213928 0.33861247 0.3979403 0.3802662
+Bagged CART                      0.37820238 0.39788985 0.4361818 0.4462236
+Random Forest                    0.37223094 0.40649050 0.4545003 0.4452969
+Gradient Boosting Machine        0.35934812 0.37387280 0.3980492 0.4205493
+SVM (Linear Kernel)              0.06376699 0.09974178 0.1295134 0.1273576
+SVM (Radial Kernel)              0.16810598 0.19550790 0.2161017 0.2188299
+Regularized Multinomial (glmnet) 0.22284123 0.28649190 0.3244511 0.3295803
+Neural Network (nnet)            0.33113409 0.37128364 0.4012197 0.4110156
+                                   3rd Qu.      Max. NA's
+Multinomial Logistic Regression  0.3661533 0.4328607    0
+Linear Discriminant Analysis     0.2846664 0.3499954    0
+K-Nearest Neighbors              0.4460494 0.4955334    0
+Decision Tree (CART)             0.4170775 0.5183872    0
+Bagged CART                      0.4910961 0.5347160    0
+Random Forest                    0.4879989 0.5174374    0
+Gradient Boosting Machine        0.4572611 0.5192902    0
+SVM (Linear Kernel)              0.1532567 0.1912302    0
+SVM (Radial Kernel)              0.2358257 0.3046582    0
+Regularized Multinomial (glmnet) 0.3616327 0.4328607    0
+Neural Network (nnet)            0.4524295 0.5057791    0
+
