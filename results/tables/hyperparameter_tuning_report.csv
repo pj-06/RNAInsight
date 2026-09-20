@@ -1,4 +1,4 @@
 "Model","Method","Baseline_Accuracy","Tuned_Accuracy","Improvement","Best_Params"
-"Bagged CART","treebag",0.5665,0.5665,0,"n/a (no hyperparameters)"
-"Random Forest","rf",0.5643,0.5648,5e-04,"mtry=7"
-"Gradient Boosting Machine","gbm",0.5501,0.5587,0.0087,"n.trees=150, interaction.depth=5, shrinkage=0.01, n.minobsinnode=10"
+"Random Forest","rf",0.574,0.5718,-0.0022,"mtry=4"
+"Gradient Boosting Machine","gbm",0.5636,0.5702,0.0066,"n.trees=50, interaction.depth=3, shrinkage=0.1, n.minobsinnode=10"
+"Bagged CART","treebag",0.5597,0.5597,0,"n/a (no hyperparameters)"
