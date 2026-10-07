@@ -130,7 +130,7 @@ model_specs <- list(
   list(name = "Random Forest",                      method = "rf",        tuneLength = 3, extra = list(importance = TRUE)),
   list(name = "Gradient Boosting Machine",          method = "gbm",       tuneLength = 3, extra = list(verbose = FALSE)),
   list(name = "XGBoost",                            method = "xgbTree",   tuneLength = NULL, grid = xgb_grid, extra = list(verbose = 0, nthread = 1)),
-  list(name = "AdaBoost (M1)",                      method = "AdaBoost.M1", tuneLength = 3, extra = list()),
+  #list(name = "AdaBoost (M1)",                      method = "AdaBoost.M1", tuneLength = 3, extra = list()),
   list(name = "SVM (Linear Kernel)",                method = "svmLinear", tuneLength = 3, extra = list()),
   list(name = "SVM (Radial Kernel)",                method = "svmRadial", tuneLength = 5, extra = list()),
   list(name = "Regularized Multinomial (glmnet)",   method = "glmnet",    tuneLength = 5, extra = list()),

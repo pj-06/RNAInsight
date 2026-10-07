@@ -1,0 +1,4 @@
+"Model","Method","Baseline_Accuracy","Tuned_Accuracy","Improvement","Best_Params"
+"Random Forest","rf",0.574,0.5718,-0.0022,"mtry=4"
+"Gradient Boosting Machine","gbm",0.5636,0.5702,0.0066,"n.trees=50, interaction.depth=3, shrinkage=0.1, n.minobsinnode=10"
+"Bagged CART","treebag",0.5597,0.5597,0,"n/a (no hyperparameters)"

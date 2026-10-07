@@ -1,0 +1,892 @@
+[
+  {
+    "driver_id": "D001",
+    "name": "Sumedha",
+    "vehicle_type": "Sedan",
+    "rating": 4.9,
+    "rides": [
+      {
+        "ride_id": "R001_1",
+        "passenger_id": "P420",
+        "start_time": "2026-08-28 03:32:24",
+        "end_time": "2026-08-28 05:21:24",
+        "start_location": {
+          "lat": 13.0115,
+          "lon": 80.1373
+        },
+        "end_location": {
+          "lat": 13.0157,
+          "lon": 80.2804
+        },
+        "distance_km": 60.2,
+        "fare": 698,
+        "payment_type": "card",
+        "ride_rating": 4
+      },
+      {
+        "ride_id": "R001_2",
+        "passenger_id": "P264",
+        "start_time": "2026-09-08 15:00:24",
+        "end_time": "2026-09-08 17:00:24",
+        "start_location": {
+          "lat": 12.8247,
+          "lon": 80.1543
+        },
+        "end_location": {
+          "lat": 12.9171,
+          "lon": 80.2717
+        },
+        "distance_km": 15.4,
+        "fare": 198,
+        "payment_type": "cash",
+        "ride_rating": 2
+      },
+      {
+        "ride_id": "R001_3",
+        "passenger_id": "P311",
+        "start_time": "2026-09-20 07:30:24",
+        "end_time": "2026-09-20 09:23:24",
+        "start_location": {
+          "lat": 12.8623,
+          "lon": 80.272
+        },
+        "end_location": {
+          "lat": 12.9835,
+          "lon": 80.1139
+        },
+        "distance_km": 5.3,
+        "fare": 78,
+        "payment_type": "cash",
+        "ride_rating": 5
+      }
+    ]
+  },
+  {
+    "driver_id": "D002",
+    "name": "Aisha",
+    "vehicle_type": "SUV",
+    "rating": 5,
+    "rides": [
+      {
+        "ride_id": "R002_1",
+        "passenger_id": "P391",
+        "start_time": "2026-09-18 05:28:24",
+        "end_time": "2026-09-18 05:55:24",
+        "start_location": {
+          "lat": 12.9195,
+          "lon": 80.2354
+        },
+        "end_location": {
+          "lat": 12.8117,
+          "lon": 80.2246
+        },
+        "distance_km": 51.4,
+        "fare": 692,
+        "payment_type": "cash",
+        "ride_rating": 5
+      },
+      {
+        "ride_id": "R002_2",
+        "passenger_id": "P826",
+        "start_time": "2026-09-05 00:41:24",
+        "end_time": "2026-09-05 01:16:24",
+        "start_location": {
+          "lat": 12.8568,
+          "lon": 80.0814
+        },
+        "end_location": {
+          "lat": 13.0484,
+          "lon": 80.208
+        },
+        "distance_km": 62,
+        "fare": 955,
+        "payment_type": "cash",
+        "ride_rating": 5
+      },
+      {
+        "ride_id": "R002_3",
+        "passenger_id": "P969",
+        "start_time": "2026-08-27 11:00:24",
+        "end_time": "2026-08-27 11:49:24",
+        "start_location": {
+          "lat": 12.8005,
+          "lon": 80.1745
+        },
+        "end_location": {
+          "lat": 12.8474,
+          "lon": 80.1077
+        },
+        "distance_km": 5.6,
+        "fare": 92,
+        "payment_type": "cash",
+        "ride_rating": 3
+      },
+      {
+        "ride_id": "R002_4",
+        "passenger_id": "P175",
+        "start_time": "2026-09-02 09:37:24",
+        "end_time": "2026-09-02 10:02:24",
+        "start_location": {
+          "lat": 13.0202,
+          "lon": 80.0999
+        },
+        "end_location": {
+          "lat": 12.9545,
+          "lon": 80.2232
+        },
+        "distance_km": 20.6,
+        "fare": 311,
+        "payment_type": "card",
+        "ride_rating": 3
+      },
+      {
+        "ride_id": "R002_5",
+        "passenger_id": "P980",
+        "start_time": "2026-09-04 16:25:24",
+        "end_time": "2026-09-04 18:24:24",
+        "start_location": {
+          "lat": 13.051,
+          "lon": 80.2255
+        },
+        "end_location": {
+          "lat": 12.9358,
+          "lon": 80.1607
+        },
+        "distance_km": 60.5,
+        "fare": 870,
+        "payment_type": "card",
+        "ride_rating": 5
+      },
+      {
+        "ride_id": "R002_6",
+        "passenger_id": "P880",
+        "start_time": "2026-09-01 03:52:24",
+        "end_time": "2026-09-01 05:24:24",
+        "start_location": {
+          "lat": 12.9185,
+          "lon": 80.2758
+        },
+        "end_location": {
+          "lat": 13.0888,
+          "lon": 80.0701
+        },
+        "distance_km": 35.8,
+        "fare": 584,
+        "payment_type": "cash",
+        "ride_rating": 1
+      }
+    ]
+  },
+  {
+    "driver_id": "D003",
+    "name": "Suvigya",
+    "vehicle_type": "Hatchback",
+    "rating": 4.6,
+    "rides": [
+      {
+        "ride_id": "R003_1",
+        "passenger_id": "P541",
+        "start_time": "2026-09-06 12:06:25",
+        "end_time": "2026-09-06 12:44:25",
+        "start_location": {
+          "lat": 12.8241,
+          "lon": 80.1392
+        },
+        "end_location": {
+          "lat": 13.0338,
+          "lon": 80.2201
+        },
+        "distance_km": 62.3,
+        "fare": 954,
+        "payment_type": "cash",
+        "ride_rating": 5
+      },
+      {
+        "ride_id": "R003_2",
+        "passenger_id": "P573",
+        "start_time": "2026-09-11 21:08:25",
+        "end_time": "2026-09-11 22:54:25",
+        "start_location": {
+          "lat": 12.8564,
+          "lon": 80.0087
+        },
+        "end_location": {
+          "lat": 12.8407,
+          "lon": 80.204
+        },
+        "distance_km": 34.6,
+        "fare": 394,
+        "payment_type": "cash",
+        "ride_rating": 4
+      },
+      {
+        "ride_id": "R003_3",
+        "passenger_id": "P625",
+        "start_time": "2026-09-07 17:28:25",
+        "end_time": "2026-09-07 18:24:25",
+        "start_location": {
+          "lat": 13.0189,
+          "lon": 80.1236
+        },
+        "end_location": {
+          "lat": 12.9242,
+          "lon": 80.1441
+        },
+        "distance_km": 28.8,
+        "fare": 456,
+        "payment_type": "cash",
+        "ride_rating": 5
+      },
+      {
+        "ride_id": "R003_4",
+        "passenger_id": "P898",
+        "start_time": "2026-09-20 07:28:25",
+        "end_time": "2026-09-20 09:13:25",
+        "start_location": {
+          "lat": 12.8778,
+          "lon": 80.2227
+        },
+        "end_location": {
+          "lat": 13.0242,
+          "lon": 80.2754
+        },
+        "distance_km": 73.9,
+        "fare": 1134,
+        "payment_type": "cash",
+        "ride_rating": 5
+      },
+      {
+        "ride_id": "R003_5",
+        "passenger_id": "P525",
+        "start_time": "2026-08-30 18:42:25",
+        "end_time": "2026-08-30 19:03:25",
+        "start_location": {
+          "lat": 12.8337,
+          "lon": 80.223
+        },
+        "end_location": {
+          "lat": 13.0194,
+          "lon": 80.2655
+        },
+        "distance_km": 10.4,
+        "fare": 142,
+        "payment_type": "card",
+        "ride_rating": 2
+      }
+    ]
+  },
+  {
+    "driver_id": "D004",
+    "name": "Samiksha",
+    "vehicle_type": "Sedan",
+    "rating": 4.4,
+    "rides": [
+      {
+        "ride_id": "R004_1",
+        "passenger_id": "P416",
+        "start_time": "2026-09-08 19:08:25",
+        "end_time": "2026-09-08 20:23:25",
+        "start_location": {
+          "lat": 13.0516,
+          "lon": 80.1724
+        },
+        "end_location": {
+          "lat": 12.906,
+          "lon": 80.1642
+        },
+        "distance_km": 53.7,
+        "fare": 673,
+        "payment_type": "card",
+        "ride_rating": 4
+      },
+      {
+        "ride_id": "R004_2",
+        "passenger_id": "P872",
+        "start_time": "2026-09-19 20:32:25",
+        "end_time": "2026-09-19 20:55:25",
+        "start_location": {
+          "lat": 12.8737,
+          "lon": 80.1053
+        },
+        "end_location": {
+          "lat": 12.8477,
+          "lon": 80.0912
+        },
+        "distance_km": 28,
+        "fare": 328,
+        "payment_type": "cash",
+        "ride_rating": 1
+      },
+      {
+        "ride_id": "R004_3",
+        "passenger_id": "P592",
+        "start_time": "2026-09-11 05:18:25",
+        "end_time": "2026-09-11 06:48:25",
+        "start_location": {
+          "lat": 12.9649,
+          "lon": 80.1446
+        },
+        "end_location": {
+          "lat": 12.8478,
+          "lon": 80.0449
+        },
+        "distance_km": 47.1,
+        "fare": 614,
+        "payment_type": "cash",
+        "ride_rating": 1
+      },
+      {
+        "ride_id": "R004_4",
+        "passenger_id": "P500",
+        "start_time": "2026-09-08 22:24:25",
+        "end_time": "2026-09-08 23:36:25",
+        "start_location": {
+          "lat": 13.0145,
+          "lon": 80.037
+        },
+        "end_location": {
+          "lat": 12.8933,
+          "lon": 80.2837
+        },
+        "distance_km": 45.5,
+        "fare": 676,
+        "payment_type": "card",
+        "ride_rating": 5
+      },
+      {
+        "ride_id": "R004_5",
+        "passenger_id": "P747",
+        "start_time": "2026-09-06 08:59:25",
+        "end_time": "2026-09-06 10:49:25",
+        "start_location": {
+          "lat": 13.0656,
+          "lon": 80.101
+        },
+        "end_location": {
+          "lat": 12.8958,
+          "lon": 80.1211
+        },
+        "distance_km": 63.9,
+        "fare": 851,
+        "payment_type": "cash",
+        "ride_rating": 4
+      }
+    ]
+  },
+  {
+    "driver_id": "D005",
+    "name": "Kratika",
+    "vehicle_type": "SUV",
+    "rating": 4.5,
+    "rides": [
+      {
+        "ride_id": "R005_1",
+        "passenger_id": "P109",
+        "start_time": "2026-09-15 00:31:25",
+        "end_time": "2026-09-15 01:53:25",
+        "start_location": {
+          "lat": 13.0195,
+          "lon": 80.0946
+        },
+        "end_location": {
+          "lat": 12.9159,
+          "lon": 80.0997
+        },
+        "distance_km": 30.5,
+        "fare": 327,
+        "payment_type": "card",
+        "ride_rating": 3
+      },
+      {
+        "ride_id": "R005_2",
+        "passenger_id": "P704",
+        "start_time": "2026-08-28 20:26:25",
+        "end_time": "2026-08-28 22:04:25",
+        "start_location": {
+          "lat": 13.0635,
+          "lon": 80.2792
+        },
+        "end_location": {
+          "lat": 12.9177,
+          "lon": 80.0477
+        },
+        "distance_km": 38.3,
+        "fare": 618,
+        "payment_type": "cash",
+        "ride_rating": 4
+      },
+      {
+        "ride_id": "R005_3",
+        "passenger_id": "P793",
+        "start_time": "2026-08-31 04:47:25",
+        "end_time": "2026-08-31 05:54:25",
+        "start_location": {
+          "lat": 12.9181,
+          "lon": 80.0426
+        },
+        "end_location": {
+          "lat": 12.8839,
+          "lon": 80.1694
+        },
+        "distance_km": 72.6,
+        "fare": 1046,
+        "payment_type": "card",
+        "ride_rating": 4
+      },
+      {
+        "ride_id": "R005_4",
+        "passenger_id": "P339",
+        "start_time": "2026-09-05 02:27:25",
+        "end_time": "2026-09-05 03:04:25",
+        "start_location": {
+          "lat": 12.9601,
+          "lon": 80.0951
+        },
+        "end_location": {
+          "lat": 13.0444,
+          "lon": 80.0877
+        },
+        "distance_km": 17,
+        "fare": 232,
+        "payment_type": "cash",
+        "ride_rating": 5
+      }
+    ]
+  },
+  {
+    "driver_id": "D006",
+    "name": "Kayra",
+    "vehicle_type": "Sedan",
+    "rating": 4.8,
+    "rides": [
+      {
+        "ride_id": "R006_1",
+        "passenger_id": "P705",
+        "start_time": "2026-09-17 03:20:25",
+        "end_time": "2026-09-17 03:49:25",
+        "start_location": {
+          "lat": 12.9729,
+          "lon": 80.0221
+        },
+        "end_location": {
+          "lat": 12.8494,
+          "lon": 80.222
+        },
+        "distance_km": 65.5,
+        "fare": 748,
+        "payment_type": "cash",
+        "ride_rating": 3
+      },
+      {
+        "ride_id": "R006_2",
+        "passenger_id": "P957",
+        "start_time": "2026-09-03 09:38:25",
+        "end_time": "2026-09-03 11:12:25",
+        "start_location": {
+          "lat": 12.917,
+          "lon": 80.0864
+        },
+        "end_location": {
+          "lat": 12.8272,
+          "lon": 80.0966
+        },
+        "distance_km": 48.7,
+        "fare": 577,
+        "payment_type": "card",
+        "ride_rating": 5
+      },
+      {
+        "ride_id": "R006_3",
+        "passenger_id": "P568",
+        "start_time": "2026-09-10 06:33:25",
+        "end_time": "2026-09-10 07:52:25",
+        "start_location": {
+          "lat": 12.941,
+          "lon": 80.1095
+        },
+        "end_location": {
+          "lat": 12.884,
+          "lon": 80.1799
+        },
+        "distance_km": 9.2,
+        "fare": 121,
+        "payment_type": "card",
+        "ride_rating": 5
+      },
+      {
+        "ride_id": "R006_4",
+        "passenger_id": "P792",
+        "start_time": "2026-09-03 02:45:25",
+        "end_time": "2026-09-03 04:23:25",
+        "start_location": {
+          "lat": 12.9472,
+          "lon": 80.2896
+        },
+        "end_location": {
+          "lat": 13.0721,
+          "lon": 80.1654
+        },
+        "distance_km": 54.3,
+        "fare": 619,
+        "payment_type": "cash",
+        "ride_rating": 5
+      },
+      {
+        "ride_id": "R006_5",
+        "passenger_id": "P967",
+        "start_time": "2026-08-29 08:09:25",
+        "end_time": "2026-08-29 08:42:25",
+        "start_location": {
+          "lat": 12.8253,
+          "lon": 80.1158
+        },
+        "end_location": {
+          "lat": 12.8375,
+          "lon": 80.1745
+        },
+        "distance_km": 13.1,
+        "fare": 210,
+        "payment_type": "cash",
+        "ride_rating": 3
+      }
+    ]
+  },
+  {
+    "driver_id": "D007",
+    "name": "Aanya",
+    "vehicle_type": "Hatchback",
+    "rating": 4.1,
+    "rides": [
+      {
+        "ride_id": "R007_1",
+        "passenger_id": "P704",
+        "start_time": "2026-09-17 23:45:25",
+        "end_time": "2026-09-18 01:30:25",
+        "start_location": {
+          "lat": 13.0435,
+          "lon": 80.1629
+        },
+        "end_location": {
+          "lat": 12.8217,
+          "lon": 80.1399
+        },
+        "distance_km": 13.6,
+        "fare": 235,
+        "payment_type": "cash",
+        "ride_rating": 3
+      },
+      {
+        "ride_id": "R007_2",
+        "passenger_id": "P752",
+        "start_time": "2026-08-27 03:52:25",
+        "end_time": "2026-08-27 04:03:25",
+        "start_location": {
+          "lat": 12.995,
+          "lon": 80.2764
+        },
+        "end_location": {
+          "lat": 12.9088,
+          "lon": 80.2565
+        },
+        "distance_km": 22,
+        "fare": 284,
+        "payment_type": "cash",
+        "ride_rating": 4
+      },
+      {
+        "ride_id": "R007_3",
+        "passenger_id": "P237",
+        "start_time": "2026-09-15 11:23:25",
+        "end_time": "2026-09-15 13:04:25",
+        "start_location": {
+          "lat": 12.9978,
+          "lon": 80.1222
+        },
+        "end_location": {
+          "lat": 12.8921,
+          "lon": 80.0765
+        },
+        "distance_km": 37.3,
+        "fare": 404,
+        "payment_type": "card",
+        "ride_rating": 2
+      }
+    ]
+  },
+  {
+    "driver_id": "D008",
+    "name": "Srijani",
+    "vehicle_type": "SUV",
+    "rating": 4.8,
+    "rides": [
+      {
+        "ride_id": "R008_1",
+        "passenger_id": "P160",
+        "start_time": "2026-09-02 10:28:25",
+        "end_time": "2026-09-02 12:15:25",
+        "start_location": {
+          "lat": 12.9181,
+          "lon": 80.2586
+        },
+        "end_location": {
+          "lat": 12.9044,
+          "lon": 80.0004
+        },
+        "distance_km": 53,
+        "fare": 567,
+        "payment_type": "card",
+        "ride_rating": 1
+      },
+      {
+        "ride_id": "R008_2",
+        "passenger_id": "P528",
+        "start_time": "2026-09-04 18:51:25",
+        "end_time": "2026-09-04 20:14:25",
+        "start_location": {
+          "lat": 13.0523,
+          "lon": 80.0397
+        },
+        "end_location": {
+          "lat": 13.0688,
+          "lon": 80.135
+        },
+        "distance_km": 63.9,
+        "fare": 748,
+        "payment_type": "cash",
+        "ride_rating": 5
+      },
+      {
+        "ride_id": "R008_3",
+        "passenger_id": "P465",
+        "start_time": "2026-09-02 09:44:25",
+        "end_time": "2026-09-02 11:41:25",
+        "start_location": {
+          "lat": 13.0277,
+          "lon": 80.0915
+        },
+        "end_location": {
+          "lat": 12.8497,
+          "lon": 80.0098
+        },
+        "distance_km": 36.2,
+        "fare": 574,
+        "payment_type": "cash",
+        "ride_rating": 5
+      },
+      {
+        "ride_id": "R008_4",
+        "passenger_id": "P357",
+        "start_time": "2026-09-15 22:13:25",
+        "end_time": "2026-09-15 23:18:25",
+        "start_location": {
+          "lat": 12.8759,
+          "lon": 80.0452
+        },
+        "end_location": {
+          "lat": 13.0306,
+          "lon": 80.069
+        },
+        "distance_km": 48.2,
+        "fare": 773,
+        "payment_type": "cash",
+        "ride_rating": 4
+      }
+    ]
+  },
+  {
+    "driver_id": "D009",
+    "name": "Sneha",
+    "vehicle_type": "Sedan",
+    "rating": 4.3,
+    "rides": [
+      {
+        "ride_id": "R009_1",
+        "passenger_id": "P148",
+        "start_time": "2026-09-10 04:24:25",
+        "end_time": "2026-09-10 04:34:25",
+        "start_location": {
+          "lat": 12.9948,
+          "lon": 80.2071
+        },
+        "end_location": {
+          "lat": 12.8096,
+          "lon": 80.2761
+        },
+        "distance_km": 75,
+        "fare": 773,
+        "payment_type": "cash",
+        "ride_rating": 5
+      },
+      {
+        "ride_id": "R009_2",
+        "passenger_id": "P936",
+        "start_time": "2026-09-12 10:08:25",
+        "end_time": "2026-09-12 10:37:25",
+        "start_location": {
+          "lat": 12.9573,
+          "lon": 80.064
+        },
+        "end_location": {
+          "lat": 13.0151,
+          "lon": 80.2884
+        },
+        "distance_km": 36.8,
+        "fare": 522,
+        "payment_type": "card",
+        "ride_rating": 5
+      },
+      {
+        "ride_id": "R009_3",
+        "passenger_id": "P102",
+        "start_time": "2026-09-04 19:32:25",
+        "end_time": "2026-09-04 21:18:25",
+        "start_location": {
+          "lat": 12.8321,
+          "lon": 80.0279
+        },
+        "end_location": {
+          "lat": 13.0749,
+          "lon": 80.0831
+        },
+        "distance_km": 72.9,
+        "fare": 988,
+        "payment_type": "card",
+        "ride_rating": 3
+      },
+      {
+        "ride_id": "R009_4",
+        "passenger_id": "P267",
+        "start_time": "2026-08-30 13:34:25",
+        "end_time": "2026-08-30 15:13:25",
+        "start_location": {
+          "lat": 12.9552,
+          "lon": 80.2278
+        },
+        "end_location": {
+          "lat": 12.9908,
+          "lon": 80.0612
+        },
+        "distance_km": 31.2,
+        "fare": 376,
+        "payment_type": "cash",
+        "ride_rating": 5
+      }
+    ]
+  },
+  {
+    "driver_id": "D010",
+    "name": "Aakriti",
+    "vehicle_type": "SUV",
+    "rating": 4.2,
+    "rides": [
+      {
+        "ride_id": "R010_1",
+        "passenger_id": "P209",
+        "start_time": "2026-08-28 06:26:25",
+        "end_time": "2026-08-28 06:50:25",
+        "start_location": {
+          "lat": 12.9936,
+          "lon": 80.0625
+        },
+        "end_location": {
+          "lat": 12.9442,
+          "lon": 80.296
+        },
+        "distance_km": 23.4,
+        "fare": 393,
+        "payment_type": "card",
+        "ride_rating": 4
+      },
+      {
+        "ride_id": "R010_2",
+        "passenger_id": "P868",
+        "start_time": "2026-09-10 22:41:25",
+        "end_time": "2026-09-10 23:16:25",
+        "start_location": {
+          "lat": 12.9616,
+          "lon": 80.1023
+        },
+        "end_location": {
+          "lat": 12.8156,
+          "lon": 80.1376
+        },
+        "distance_km": 79.7,
+        "fare": 923,
+        "payment_type": "card",
+        "ride_rating": 5
+      },
+      {
+        "ride_id": "R010_3",
+        "passenger_id": "P809",
+        "start_time": "2026-09-12 04:50:25",
+        "end_time": "2026-09-12 06:30:25",
+        "start_location": {
+          "lat": 12.9431,
+          "lon": 80.1574
+        },
+        "end_location": {
+          "lat": 13.0056,
+          "lon": 80.1055
+        },
+        "distance_km": 62.7,
+        "fare": 677,
+        "payment_type": "cash",
+        "ride_rating": 1
+      },
+      {
+        "ride_id": "R010_4",
+        "passenger_id": "P923",
+        "start_time": "2026-09-01 09:27:25",
+        "end_time": "2026-09-01 10:43:25",
+        "start_location": {
+          "lat": 12.8451,
+          "lon": 80.2093
+        },
+        "end_location": {
+          "lat": 12.8792,
+          "lon": 80.1279
+        },
+        "distance_km": 49,
+        "fare": 715,
+        "payment_type": "card",
+        "ride_rating": 4
+      },
+      {
+        "ride_id": "R010_5",
+        "passenger_id": "P785",
+        "start_time": "2026-08-29 19:12:25",
+        "end_time": "2026-08-29 21:08:25",
+        "start_location": {
+          "lat": 13.0144,
+          "lon": 80.0942
+        },
+        "end_location": {
+          "lat": 12.8347,
+          "lon": 80.1725
+        },
+        "distance_km": 13.1,
+        "fare": 186,
+        "payment_type": "cash",
+        "ride_rating": 4
+      },
+      {
+        "ride_id": "R010_6",
+        "passenger_id": "P526",
+        "start_time": "2026-08-27 10:27:25",
+        "end_time": "2026-08-27 11:02:25",
+        "start_location": {
+          "lat": 13.0092,
+          "lon": 80.1538
+        },
+        "end_location": {
+          "lat": 12.9442,
+          "lon": 80.0605
+        },
+        "distance_km": 20.3,
+        "fare": 333,
+        "payment_type": "cash",
+        "ride_rating": 4
+      }
+    ]
+  }
+]
