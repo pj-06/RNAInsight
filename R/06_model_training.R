@@ -91,6 +91,7 @@ ctrl <- trainControl(
   index = cv_folds,
   classProbs = TRUE,
   savePredictions = "final",
+  #sampling = "up",
   verboseIter = FALSE
 )
 
@@ -119,23 +120,41 @@ xgb_grid <- expand.grid(
   subsample = 0.8
 )
 
+
+
 model_specs <- list(
-  list(name = "Multinomial Logistic Regression", method = "multinom",     tuneLength = 3, extra = list(trace = FALSE)),
-  list(name = "Linear Discriminant Analysis",     method = "lda",         tuneLength = 1, extra = list()),
-  list(name = "Naive Bayes",                      method = "naive_bayes", tuneLength = 3, extra = list()),
-  list(name = "K-Nearest Neighbors",               method = "knn",        tuneLength = 5, extra = list()),
-  list(name = "Decision Tree (CART)",              method = "rpart",      tuneLength = 5, extra = list()),
-  list(name = "Decision Tree (C5.0)",               method = "C5.0",      tuneLength = 3, extra = list()),
-  list(name = "Bagged CART",                        method = "treebag",   tuneLength = 1, extra = list()),
-  list(name = "Random Forest",                      method = "rf",        tuneLength = 3, extra = list(importance = TRUE)),
-  list(name = "Gradient Boosting Machine",          method = "gbm",       tuneLength = 3, extra = list(verbose = FALSE)),
-  list(name = "XGBoost",                            method = "xgbTree",   tuneLength = NULL, grid = xgb_grid, extra = list(verbose = 0, nthread = 1)),
-  list(name = "AdaBoost (M1)",                      method = "AdaBoost.M1", tuneLength = 3, extra = list()),
-  list(name = "SVM (Linear Kernel)",                method = "svmLinear", tuneLength = 3, extra = list()),
-  list(name = "SVM (Radial Kernel)",                method = "svmRadial", tuneLength = 5, extra = list()),
-  list(name = "Regularized Multinomial (glmnet)",   method = "glmnet",    tuneLength = 5, extra = list()),
-  list(name = "Neural Network (nnet)",              method = "nnet",      tuneLength = 5, extra = list(trace = FALSE))
+  list(
+    name = "Random Forest",
+    method = "rf",
+    tuneLength = 3,
+    extra = list(importance = TRUE)
+  ),
+  list(
+    name = "Gradient Boosting Machine",
+    method = "gbm",
+    tuneLength = 3,
+    extra = list(verbose = FALSE)
+  ),
+  list(
+    name = "Decision Tree (C5.0)",
+    method = "C5.0",
+    tuneLength = 3,
+    extra = list()
+  ),
+  list(
+    name = "K-Nearest Neighbors",
+    method = "knn",
+    tuneLength = 5,
+    extra = list()
+  ),
+  list(
+    name = "Multinomial Logistic Regression",
+    method = "multinom",
+    tuneLength = 3,
+    extra = list(trace = FALSE)
+  )
 )
+
 
 ############################################################
 # Train All Models
@@ -227,18 +246,48 @@ for (model_name in names(trained_models)) {
 # Save Everything
 ############################################################
 
-saveRDS(trained_models, "results/models/trained_models.rds")
-saveRDS(test_predictions, "results/models/test_predictions.rds")
-saveRDS(test_data, "results/models/test_data.rds")
-saveRDS(train_data, "results/models/train_data.rds")
+# Save original (no-upsampling) experiment separately
+dir.create(
+  "results/original_models",
+  recursive = TRUE,
+  showWarnings = FALSE
+)
+
+dir.create(
+  "results/original_tables",
+  recursive = TRUE,
+  showWarnings = FALSE
+)
+
+saveRDS(
+  trained_models,
+  "results/original_models/trained_models.rds"
+)
+
+saveRDS(
+  test_predictions,
+  "results/original_models/test_predictions.rds"
+)
+
+saveRDS(
+  test_data,
+  "results/original_models/test_data.rds"
+)
+
+saveRDS(
+  train_data,
+  "results/original_models/train_data.rds"
+)
+
+saveRDS(
+  cv_folds,
+  "results/original_models/cv_folds.rds"
+)
 
 write.csv(
   training_log,
-  "results/tables/model_training_log.csv",
+  "results/original_tables/model_training_log.csv",
   row.names = FALSE
 )
 
-cat("Saved: results/models/trained_models.rds\n")
-cat("Saved: results/models/test_predictions.rds\n")
-cat("Saved: results/tables/model_training_log.csv\n")
-cat("\nModel development stage complete.\n")
+cat("Original experiment results saved separately.\n")
