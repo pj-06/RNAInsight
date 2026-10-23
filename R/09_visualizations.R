@@ -14,7 +14,7 @@
 # Input  : results/models/tuned_models.rds, test_data.rds,
 #          resamples.rds
 #          results/tables/model_comparison.csv
-# Output : results/plots/da2/*.png
+# Output : results/figures/models/*.png
 ############################################################
 
 required_packages <- c("ggplot2", "pROC", "PRROC", "caret")
@@ -29,7 +29,7 @@ library(ggplot2)
 library(caret)
 library(dplyr)
 
-dir.create("results/plots/da2", recursive = TRUE, showWarnings = FALSE)
+dir.create("results/figures/models", recursive = TRUE, showWarnings = FALSE)
 
 ############################################################
 # Load Everything
@@ -83,7 +83,7 @@ for (model_name in top3) {
     theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
   safe_name <- gsub("[^A-Za-z0-9]+", "_", model_name)
-  out_path <- paste0("results/plots/da2/confusion_matrix_", safe_name, ".png")
+  out_path <- paste0("results/figures/models/confusion_matrix_", safe_name, ".png")
 
   ggsave(out_path, plot = p, width = 8, height = 7, dpi = 300)
   cat("Saved:", out_path, "\n")
@@ -98,7 +98,7 @@ prob_matrix <- predict(best_fit, newdata = test_data, type = "prob")
 truth <- test_data$Target_Family
 classes <- levels(truth)
 
-roc_path <- "results/plots/da2/roc_curves_best_model.png"
+roc_path <- "results/figures/models/roc_curves_best_model.png"
 png(roc_path, width = 1400, height = 1200, res = 150)
 
 plot(0, 0, type = "n", xlim = c(0, 1), ylim = c(0, 1),
@@ -139,7 +139,7 @@ write.csv(
 
 if (requireNamespace("PRROC", quietly = TRUE)) {
 
-  pr_path <- "results/plots/da2/precision_recall_curves_best_model.png"
+  pr_path <- "results/figures/models/precision_recall_curves_best_model.png"
   png(pr_path, width = 1400, height = 1200, res = 150)
 
   plot(0, 0, type = "n", xlim = c(0, 1), ylim = c(0, 1),
@@ -202,7 +202,7 @@ for (model_name in importance_candidates) {
     theme_bw()
 
   safe_name <- gsub("[^A-Za-z0-9]+", "_", model_name)
-  out_path <- paste0("results/plots/da2/feature_importance_", safe_name, ".png")
+  out_path <- paste0("results/figures/models/feature_importance_", safe_name, ".png")
 
   ggsave(out_path, plot = p, width = 8, height = 6, dpi = 300)
   cat("Saved:", out_path, "\n")
@@ -212,7 +212,7 @@ for (model_name in importance_candidates) {
 # 5. CV Accuracy Distribution Across All Models
 ############################################################
 
-bwplot_path <- "results/plots/da2/cv_accuracy_comparison.png"
+bwplot_path <- "results/figures/models/cv_accuracy_comparison.png"
 png(bwplot_path, width = 1600, height = 1000, res = 150)
 print(bwplot(resamps, metric = "Accuracy", main = "Cross-Validated Accuracy by Model"))
 dev.off()
@@ -233,10 +233,10 @@ p_leader <- ggplot(leaderboard, aes(x = Model, y = Accuracy)) +
   ) +
   theme_bw()
 
-ggsave("results/plots/da2/leaderboard_accuracy.png", plot = p_leader, width = 8, height = 7, dpi = 300)
-cat("Saved: results/plots/da2/leaderboard_accuracy.png\n")
+ggsave("results/figures/models/leaderboard_accuracy.png", plot = p_leader, width = 8, height = 7, dpi = 300)
+cat("Saved: results/figures/models/leaderboard_accuracy.png\n")
 
 cat("\n========================================\n")
 cat("Comparative visualizations complete!\n")
-cat("All plots saved in: results/plots/da2/\n")
+cat("All plots saved in: results/figures/models/\n")
 cat("========================================\n")

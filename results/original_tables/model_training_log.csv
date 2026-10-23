@@ -1,6 +1,0 @@
-"Model","Method","Status","Seconds","Message"
-"Random Forest","rf","OK",42.3,""
-"Gradient Boosting Machine","gbm","OK",24.1,""
-"Decision Tree (C5.0)","C5.0","OK",8.1,""
-"K-Nearest Neighbors","knn","OK",1.2,""
-"Multinomial Logistic Regression","multinom","OK",6,""

@@ -8,7 +8,8 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 input_file = BASE_DIR / "data" / "processed" / "cleaned_dataset.csv"
-results_file = BASE_DIR / "results" / "validation_report.txt"
+results_file = BASE_DIR / "results" / "reports" / "validation_report.txt"
+results_file.parent.mkdir(parents=True, exist_ok=True)
 
 # ---------------------------------
 # Load Dataset

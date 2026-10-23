@@ -38,6 +38,6 @@ for target in targets:
     print(target)
 
 pd.DataFrame(targets, columns=["Target"]).to_csv(
-    "results/all_targets.csv",
+    BASE_DIR / "results" / "tables" / "all_targets.csv",
     index=False
 )

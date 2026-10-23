@@ -25,7 +25,7 @@ data$Target_Family <- as.factor(data$Target_Family)
 ############################################################
 
 dir.create("results", showWarnings = FALSE)
-dir.create("results/plots", recursive = TRUE, showWarnings = FALSE)
+dir.create("results/figures/eda", recursive = TRUE, showWarnings = FALSE)
 dir.create("results/tables", recursive = TRUE, showWarnings = FALSE)
 
 ############################################################
@@ -62,7 +62,7 @@ p1 <- ggplot(data, aes(x = Target_Family)) +
 print(p1)
 
 ggsave(
-  "results/plots/target_family_distribution.png",
+  "results/figures/eda/target_family_distribution.png",
   plot = p1,
   width = 8,
   height = 5,
@@ -85,7 +85,7 @@ p2 <- ggplot(data, aes(MolecularWeight)) +
 print(p2)
 
 ggsave(
-  "results/plots/molecular_weight_distribution.png",
+  "results/figures/eda/molecular_weight_distribution.png",
   plot = p2,
   width = 8,
   height = 5,
@@ -108,7 +108,7 @@ p3 <- ggplot(data, aes(LogP)) +
 print(p3)
 
 ggsave(
-  "results/plots/logp_distribution.png",
+  "results/figures/eda/logp_distribution.png",
   plot = p3,
   width = 8,
   height = 5,
@@ -131,7 +131,7 @@ p4 <- ggplot(data, aes(TPSA)) +
 print(p4)
 
 ggsave(
-  "results/plots/tpsa_distribution.png",
+  "results/figures/eda/tpsa_distribution.png",
   plot = p4,
   width = 8,
   height = 5,
@@ -156,7 +156,7 @@ p5 <- ggplot(data,
 print(p5)
 
 ggsave(
-  "results/plots/mw_by_family.png",
+  "results/figures/eda/mw_by_family.png",
   plot = p5,
   width = 9,
   height = 6,
@@ -181,7 +181,7 @@ p6 <- ggplot(data,
 print(p6)
 
 ggsave(
-  "results/plots/logp_by_family.png",
+  "results/figures/eda/logp_by_family.png",
   plot = p6,
   width = 9,
   height = 6,
@@ -206,7 +206,7 @@ p7 <- ggplot(data,
 print(p7)
 
 ggsave(
-  "results/plots/tpsa_by_family.png",
+  "results/figures/eda/tpsa_by_family.png",
   plot = p7,
   width = 9,
   height = 6,
@@ -241,7 +241,7 @@ cat("\nCorrelation Matrix:\n")
 print(round(corr_matrix, 2))
 
 png(
-  "results/plots/correlation_heatmap.png",
+  "results/figures/eda/correlation_heatmap.png",
   width = 1200,
   height = 1000,
   res = 150
@@ -266,7 +266,7 @@ corrplot(
 ############################################################
 
 png(
-  "results/plots/pair_plot.png",
+  "results/figures/eda/pair_plot.png",
   width = 1400,
   height = 1200,
   res = 150
@@ -315,6 +315,6 @@ cat("\nSummary statistics saved successfully.\n")
 
 cat("\n========================================\n")
 cat("EDA Completed Successfully!\n")
-cat("Plots saved in : results/plots/\n")
+cat("Plots saved in : results/figures/eda/\n")
 cat("Tables saved in : results/tables/\n")
 cat("========================================\n")

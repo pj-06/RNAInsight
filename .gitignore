@@ -1,16 +1,28 @@
 # Python
 .venv/
+venv/
 __pycache__/
 *.pyc
 
-# VS Code
-.vscode/
-
-# R
+# R / RStudio
 .Rhistory
 .RData
+.RDataTmp
+.Ruserdata
 .Rproj.user/
 
-# OS files
+# Dashboard metric cache (rebuilt automatically on first run)
+dashboard/cache/
+
+# Local archive of earlier experiments (not part of the submission)
+archive/
+
+# Editors and OS files
+.vscode/
+.idea/
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# Office lock files
+~$*

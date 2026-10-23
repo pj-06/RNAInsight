@@ -246,48 +246,48 @@ for (model_name in names(trained_models)) {
 # Save Everything
 ############################################################
 
-# Save original (no-upsampling) experiment separately
+# Save models, predictions and the shared split / CV folds
 dir.create(
-  "results/original_models",
+  "results/models",
   recursive = TRUE,
   showWarnings = FALSE
 )
 
 dir.create(
-  "results/original_tables",
+  "results/tables",
   recursive = TRUE,
   showWarnings = FALSE
 )
 
 saveRDS(
   trained_models,
-  "results/original_models/trained_models.rds"
+  "results/models/trained_models.rds"
 )
 
 saveRDS(
   test_predictions,
-  "results/original_models/test_predictions.rds"
+  "results/models/test_predictions.rds"
 )
 
 saveRDS(
   test_data,
-  "results/original_models/test_data.rds"
+  "results/models/test_data.rds"
 )
 
 saveRDS(
   train_data,
-  "results/original_models/train_data.rds"
+  "results/models/train_data.rds"
 )
 
 saveRDS(
   cv_folds,
-  "results/original_models/cv_folds.rds"
+  "results/models/cv_folds.rds"
 )
 
 write.csv(
   training_log,
-  "results/original_tables/model_training_log.csv",
+  "results/tables/model_training_log.csv",
   row.names = FALSE
 )
 
-cat("Original experiment results saved separately.\n")
+cat("Models saved in results/models/, training log in results/tables/.\n")
