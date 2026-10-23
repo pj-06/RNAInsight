@@ -80,8 +80,7 @@ RNAInsight/
 │   ├── tables/               summary statistics, feature selection, model results
 │   └── reports/              dataset validation report
 └── docs/
-    ├── DA2_progress_report.md
-    └── presentations/        review slide decks
+    └── DA2_progress_report.md
 ```
 
 ## Getting started

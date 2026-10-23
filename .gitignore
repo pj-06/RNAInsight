@@ -26,3 +26,6 @@ desktop.ini
 
 # Office lock files
 ~$*
+
+# Local slide decks (not part of the repo)
+docs/presentations/
