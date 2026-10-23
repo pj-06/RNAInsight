@@ -88,7 +88,7 @@ RNAInsight/
 ### Requirements
 
 - **R** 4.2 or later (RStudio recommended)
-- **Python** 3.10 or later, needed only to re-run the data-preparation scripts
+- **Python** 3.11 or later, needed only to re-run the data-preparation scripts
 
 ### 1. Run the dashboard
 
